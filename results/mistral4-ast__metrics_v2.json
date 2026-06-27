@@ -1,0 +1,54 @@
+{
+  "tag": "mistral4-ast",
+  "n_queries": 480,
+  "parse_fail": 10,
+  "parse_fail_rate": 0.0208,
+  "total_slots": 672,
+  "total_spurious": 184,
+  "total_harmful": 153,
+  "frac_q_with_spurious": [
+    0.26875,
+    0.23125,
+    0.30625
+  ],
+  "harmful_SCR_of_spurious": [
+    0.8315217391304348,
+    0.7653631284916201,
+    0.8953488372093024
+  ],
+  "conflict_rate_within_populated": [
+    0.9080736884444559,
+    0.870543808957562,
+    0.9423143501913844
+  ],
+  "facet_coverage_confound": [
+    0.7706809219084496,
+    0.7020926555161,
+    0.8347093913691553
+  ],
+  "product_type_harmful": 89,
+  "product_type_clean_harm_singleclass": 42,
+  "product_type_harm_multiclass_artifact": 47,
+  "per_slot": {
+    "color": {
+      "emitted": 71,
+      "spurious": 21,
+      "harmful": 13
+    },
+    "material": {
+      "emitted": 82,
+      "spurious": 26,
+      "harmful": 16
+    },
+    "product_type": {
+      "emitted": 354,
+      "spurious": 90,
+      "harmful": 89
+    },
+    "style": {
+      "emitted": 165,
+      "spurious": 47,
+      "harmful": 35
+    }
+  }
+}

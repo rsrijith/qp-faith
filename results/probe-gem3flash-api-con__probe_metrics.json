@@ -1,0 +1,22 @@
+{
+  "tag": "probe-gem3flash-api-con",
+  "n_A": 43,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.7209302325581395,
+    0.5813953488372093,
+    0.8604651162790697
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8852097127672103,
+    0.8085985187161349,
+    0.9484336607275049
+  ],
+  "A_n_typed": 31,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

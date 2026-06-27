@@ -1,0 +1,22 @@
+{
+  "tag": "probe-esci-haiku-con",
+  "n_A": 1162,
+  "n_B": 0,
+  "A_product_type_forced_rate": [
+    0.7882960413080895,
+    0.7650602409638554,
+    0.8123924268502581
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "A_n_typed": 916,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    NaN,
+    NaN,
+    NaN
+  ]
+}

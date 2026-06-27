@@ -1,0 +1,22 @@
+{
+  "tag": "probe-haiku-exp",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.910964914558132,
+    0.8472879980350613,
+    0.9600821701411321
+  ],
+  "A_n_typed": 31,
+  "B_extra_slot_injections": 24,
+  "B_over_injection_rate": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}

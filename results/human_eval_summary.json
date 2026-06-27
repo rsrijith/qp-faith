@@ -1,0 +1,23 @@
+{
+ "n_pairs": 60,
+ "n_motifs": 12,
+ "annotators": 2,
+ "a1_namematch_relevant": [
+  47,
+  48
+ ],
+ "a2_namematch_relevant": [
+  44,
+  48
+ ],
+ "a1_distractor_rejected": [
+  11,
+  12
+ ],
+ "a2_distractor_rejected": [
+  12,
+  12
+ ],
+ "raw_agreement": 0.9,
+ "cohen_kappa": 0.72
+}

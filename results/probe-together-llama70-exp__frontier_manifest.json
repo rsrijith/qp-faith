@@ -1,0 +1,8 @@
+{
+  "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+  "source": "probe",
+  "mode": "expansion",
+  "n": 73,
+  "input_tokens": 11259,
+  "output_tokens": 2349
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "probe-mistral4-exp",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.921640298060098,
+    0.8553754279083908,
+    0.9636388736286572
+  ],
+  "A_n_typed": 31,
+  "B_extra_slot_injections": 18,
+  "B_over_injection_rate": [
+    0.6666666666666666,
+    0.4444444444444444,
+    0.8888888888888888
+  ]
+}

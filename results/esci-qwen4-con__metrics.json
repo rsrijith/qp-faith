@@ -1,0 +1,39 @@
+{
+  "tag": "qwen4-con",
+  "n_queries": 480,
+  "slots": 197,
+  "spurious": 14,
+  "harmful": 14,
+  "frac_q_spurious": [
+    0.022916666666666665,
+    0.010416666666666666,
+    0.0375
+  ],
+  "harmful_SCR": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "conflict_within_pop": [
+    0.9557823129251701,
+    0.8452380952380953,
+    1.0
+  ],
+  "coverage": [
+    0.8204100229835525,
+    0.7014839051879493,
+    0.9268476621417797
+  ],
+  "per_slot": {
+    "brand": {
+      "emitted": 83,
+      "spurious": 3,
+      "harmful": 3
+    },
+    "color": {
+      "emitted": 114,
+      "spurious": 11,
+      "harmful": 11
+    }
+  }
+}

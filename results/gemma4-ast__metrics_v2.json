@@ -1,0 +1,54 @@
+{
+  "tag": "gemma4-ast",
+  "n_queries": 480,
+  "parse_fail": 2,
+  "parse_fail_rate": 0.0042,
+  "total_slots": 1103,
+  "total_spurious": 385,
+  "total_harmful": 251,
+  "frac_q_with_spurious": [
+    0.38958333333333334,
+    0.3478645833333333,
+    0.43333333333333335
+  ],
+  "harmful_SCR_of_spurious": [
+    0.6519480519480519,
+    0.5892833011583012,
+    0.7125675355017704
+  ],
+  "conflict_rate_within_populated": [
+    0.7502960124349528,
+    0.7104958879623957,
+    0.789018051131041
+  ],
+  "facet_coverage_confound": [
+    0.5496539740541734,
+    0.5013264958489142,
+    0.5983645054708259
+  ],
+  "product_type_harmful": 66,
+  "product_type_clean_harm_singleclass": 15,
+  "product_type_harm_multiclass_artifact": 51,
+  "per_slot": {
+    "color": {
+      "emitted": 135,
+      "spurious": 67,
+      "harmful": 39
+    },
+    "material": {
+      "emitted": 225,
+      "spurious": 146,
+      "harmful": 73
+    },
+    "product_type": {
+      "emitted": 374,
+      "spurious": 67,
+      "harmful": 66
+    },
+    "style": {
+      "emitted": 369,
+      "spurious": 105,
+      "harmful": 73
+    }
+  }
+}

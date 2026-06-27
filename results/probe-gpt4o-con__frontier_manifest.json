@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o",
+  "source": "probe",
+  "mode": "conservative",
+  "n": 73,
+  "input_tokens": 7607,
+  "output_tokens": 1198
+}

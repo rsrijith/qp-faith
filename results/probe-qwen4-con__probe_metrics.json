@@ -1,0 +1,22 @@
+{
+  "tag": "probe-qwen4-con",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.6129032258064516,
+    0.45161290322580644,
+    0.7741935483870968
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8354282613311622,
+    0.7187976719737504,
+    0.936748872952154
+  ],
+  "A_n_typed": 19,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

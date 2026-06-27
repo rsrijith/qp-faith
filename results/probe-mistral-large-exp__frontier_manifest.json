@@ -1,0 +1,8 @@
+{
+  "model": "mistral-large-latest",
+  "source": "probe",
+  "mode": "expansion",
+  "n": 49,
+  "input_tokens": 6256,
+  "output_tokens": 3494
+}

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.parquet
+*.npy
+data/product.csv
+data/query.csv
+data/label.csv
+catalog*.parquet
+backup_*/

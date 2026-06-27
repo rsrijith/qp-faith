@@ -1,0 +1,8 @@
+{
+  "model": "claude-sonnet-4-6",
+  "source": "wands",
+  "mode": "conservative",
+  "n": 480,
+  "input_tokens": 57599,
+  "output_tokens": 11875
+}

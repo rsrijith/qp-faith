@@ -1,0 +1,22 @@
+{
+  "tag": "probe-mistral-large-exp",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.878900668126802,
+    0.7958330654541781,
+    0.944410375698391
+  ],
+  "A_n_typed": 31,
+  "B_extra_slot_injections": 36,
+  "B_over_injection_rate": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}

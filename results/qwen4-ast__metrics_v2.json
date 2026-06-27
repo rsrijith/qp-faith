@@ -1,0 +1,54 @@
+{
+  "tag": "qwen4-ast",
+  "n_queries": 480,
+  "parse_fail": 0,
+  "parse_fail_rate": 0.0,
+  "total_slots": 1041,
+  "total_spurious": 164,
+  "total_harmful": 95,
+  "frac_q_with_spurious": [
+    0.19583333333333333,
+    0.1625,
+    0.23125
+  ],
+  "harmful_SCR_of_spurious": [
+    0.5792682926829268,
+    0.47560975609756095,
+    0.6755048759187832
+  ],
+  "conflict_rate_within_populated": [
+    0.7350740064919448,
+    0.659067438819216,
+    0.8078659954324378
+  ],
+  "facet_coverage_confound": [
+    0.4790637049622346,
+    0.4029585485589482,
+    0.5592626793075257
+  ],
+  "product_type_harmful": 23,
+  "product_type_clean_harm_singleclass": 7,
+  "product_type_harm_multiclass_artifact": 16,
+  "per_slot": {
+    "color": {
+      "emitted": 162,
+      "spurious": 31,
+      "harmful": 14
+    },
+    "material": {
+      "emitted": 112,
+      "spurious": 45,
+      "harmful": 21
+    },
+    "product_type": {
+      "emitted": 374,
+      "spurious": 24,
+      "harmful": 23
+    },
+    "style": {
+      "emitted": 393,
+      "spurious": 64,
+      "harmful": 37
+    }
+  }
+}

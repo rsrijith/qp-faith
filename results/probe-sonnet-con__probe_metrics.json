@@ -1,0 +1,22 @@
+{
+  "tag": "probe-sonnet-con",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.5161290322580645,
+    0.3548387096774194,
+    0.6774193548387096
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8961335912170529,
+    0.7905603184951019,
+    0.9731276838842327
+  ],
+  "A_n_typed": 16,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

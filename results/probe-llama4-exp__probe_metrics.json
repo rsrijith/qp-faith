@@ -1,0 +1,22 @@
+{
+  "tag": "probe-llama4-exp",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.9113448288936611,
+    0.8394104851416707,
+    0.9607725471950032
+  ],
+  "A_n_typed": 31,
+  "B_extra_slot_injections": 40,
+  "B_over_injection_rate": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "probe-gem3flash-exp",
+  "n_A": 55,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.9017848879448737,
+    0.8567667553180748,
+    0.9386383822153452
+  ],
+  "A_n_typed": 55,
+  "B_extra_slot_injections": 54,
+  "B_over_injection_rate": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}

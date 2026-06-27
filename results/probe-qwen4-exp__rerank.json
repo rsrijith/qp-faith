@@ -1,0 +1,7 @@
+{
+ "tag": "probe-qwen4-exp",
+ "n": 55,
+ "rerank_norfilter_recall": 0.811028225507784,
+ "rerank_hardfilter_recall": 0.6106784957362221,
+ "rerank_harm": 0.20034972977156176
+}

@@ -1,0 +1,8 @@
+{
+  "model": "gemini-3-flash-preview",
+  "source": "probe",
+  "mode": "expansion",
+  "n": 73,
+  "input_tokens": 9112,
+  "output_tokens": 3761
+}

@@ -1,0 +1,11 @@
+{
+  "tag": "mistral4-exp",
+  "n_queries": 472,
+  "lambda_": 0.5,
+  "mean_ndcg10_drop_soft": 0.020033728902222006,
+  "ci": [
+    0.007892866235954938,
+    0.032539516838544426
+  ],
+  "frac_queries_with_any_drop": 0.2711864406779661
+}

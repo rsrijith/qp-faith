@@ -1,0 +1,22 @@
+{
+  "tag": "probe-groq-llama70-exp",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8952814788076838,
+    0.8108531322116243,
+    0.958113297081872
+  ],
+  "A_n_typed": 31,
+  "B_extra_slot_injections": 34,
+  "B_over_injection_rate": [
+    1.0,
+    1.0,
+    1.0
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "tag": "fr-sonnet-exp",
+  "n_queries": 480,
+  "parse_fail": 0,
+  "parse_fail_rate": 0.0,
+  "total_slots": 1803,
+  "total_spurious": 1191,
+  "total_harmful": 626,
+  "frac_q_with_spurious": [
+    0.9875,
+    0.9770833333333333,
+    0.9958333333333333
+  ],
+  "harmful_SCR_of_spurious": [
+    0.5256087321578505,
+    0.48846794050668946,
+    0.5637448174634091
+  ],
+  "conflict_rate_within_populated": [
+    0.7276689016761285,
+    0.7000706247336216,
+    0.753340847633505
+  ],
+  "facet_coverage_confound": [
+    0.40537517252761346,
+    0.3780213302175433,
+    0.4343280853699098
+  ],
+  "product_type_harmful": 36,
+  "product_type_clean_harm_singleclass": 7,
+  "product_type_harm_multiclass_artifact": 29,
+  "per_slot": {
+    "color": {
+      "emitted": 469,
+      "spurious": 402,
+      "harmful": 191
+    },
+    "material": {
+      "emitted": 476,
+      "spurious": 407,
+      "harmful": 170
+    },
+    "product_type": {
+      "emitted": 379,
+      "spurious": 38,
+      "harmful": 36
+    },
+    "style": {
+      "emitted": 479,
+      "spurious": 344,
+      "harmful": 229
+    }
+  }
+}

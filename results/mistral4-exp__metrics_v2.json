@@ -1,0 +1,54 @@
+{
+  "tag": "mistral4-exp",
+  "n_queries": 480,
+  "parse_fail": 23,
+  "parse_fail_rate": 0.0479,
+  "total_slots": 1287,
+  "total_spurious": 939,
+  "total_harmful": 607,
+  "frac_q_with_spurious": [
+    0.7895833333333333,
+    0.7520833333333333,
+    0.825
+  ],
+  "harmful_SCR_of_spurious": [
+    0.6464323748668797,
+    0.6082054309327036,
+    0.6834295501529104
+  ],
+  "conflict_rate_within_populated": [
+    0.7655493281145063,
+    0.739236197613588,
+    0.7906121340991326
+  ],
+  "facet_coverage_confound": [
+    0.5426580270191292,
+    0.5118475231230329,
+    0.5728972707652316
+  ],
+  "product_type_harmful": 205,
+  "product_type_clean_harm_singleclass": 80,
+  "product_type_harm_multiclass_artifact": 125,
+  "per_slot": {
+    "color": {
+      "emitted": 260,
+      "spurious": 205,
+      "harmful": 99
+    },
+    "material": {
+      "emitted": 291,
+      "spurious": 229,
+      "harmful": 104
+    },
+    "product_type": {
+      "emitted": 360,
+      "spurious": 208,
+      "harmful": 205
+    },
+    "style": {
+      "emitted": 376,
+      "spurious": 297,
+      "harmful": 199
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "model": "gemma4-exp",
+  "n_queries": 480,
+  "harm_slots": [
+    "color",
+    "material",
+    "style"
+  ],
+  "plan_slots_emitted": 1186,
+  "total_spurious": 755,
+  "frac_q_with_spurious": [
+    0.75,
+    0.7125,
+    0.7875
+  ],
+  "spurious_per_query": [
+    1.5729166666666667,
+    1.4728645833333334,
+    1.6792187499999998
+  ],
+  "harmful_SCR_of_all_spurious": [
+    0.6728476821192053,
+    0.6397350993377483,
+    0.7059933774834435
+  ],
+  "harmful_SCR_when_facet_populated": [
+    0.918625678119349,
+    0.895117540687161,
+    0.9403707052441227
+  ],
+  "facet_coverage_confound": [
+    0.604881725582737,
+    0.5720599210431593,
+    0.634645543615686
+  ],
+  "conflict_rate_within_populated": [
+    0.7458679637621248,
+    0.7154324833676975,
+    0.7752600971882122
+  ],
+  "exact_recall_loss_at_plan": [
+    0.6572861630127117,
+    0.6173767970125992,
+    0.6955955046218698
+  ],
+  "n_spurious_with_populated_facet": 553,
+  "seed": 13,
+  "per_slot": {
+    "color": {
+      "emitted": 92,
+      "spurious": 33,
+      "harmful": 19
+    },
+    "material": {
+      "emitted": 320,
+      "spurious": 250,
+      "harmful": 109
+    },
+    "product_type": {
+      "emitted": 375,
+      "spurious": 211,
+      "harmful": 206
+    },
+    "style": {
+      "emitted": 399,
+      "spurious": 261,
+      "harmful": 174
+    }
+  }
+}

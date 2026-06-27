@@ -1,0 +1,480 @@
+{"query_id": 0, "query": "salon chair", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 1, "query": "smart coffee table", "explicit": {"color": "coffee", "product_type": "smart coffee table"}}
+{"query_id": 2, "query": "dinosaur", "explicit": {}}
+{"query_id": 3, "query": "turquoise pillows", "explicit": {"color": "turquoise", "product_type": "pillow"}}
+{"query_id": 4, "query": "chair and a half recliner", "explicit": {"style": "chair", "product_type": "chair recliner"}}
+{"query_id": 5, "query": "sofa with ottoman", "explicit": {"product_type": "sofa ottoman"}}
+{"query_id": 6, "query": "acrylic clear chair", "explicit": {"color": "acrylic", "material": "acrylic", "style": "chair", "product_type": "chair"}}
+{"query_id": 7, "query": "driftwood mirror", "explicit": {"color": "driftwood", "material": "driftwood", "product_type": "mirror"}}
+{"query_id": 8, "query": "home sweet home sign", "explicit": {"color": "sweet", "product_type": "home home sign"}}
+{"query_id": 9, "query": "coffee table fire pit", "explicit": {"color": "coffee", "product_type": "coffee table"}}
+{"query_id": 10, "query": "king poster bed", "explicit": {"product_type": "bed"}}
+{"query_id": 11, "query": "ombre rug", "explicit": {"color": "ombre", "product_type": "rug"}}
+{"query_id": 12, "query": "large spoon and fork wall decor", "explicit": {"product_type": "large spoon wall decor"}}
+{"query_id": 13, "query": "outdoor privacy wall", "explicit": {"product_type": "outdoor wall"}}
+{"query_id": 14, "query": "beds that have leds", "explicit": {"material": "led", "product_type": "bed"}}
+{"query_id": 15, "query": "black 5 drawer dresser by guilford", "explicit": {"color": "black", "product_type": "drawer dresser"}}
+{"query_id": 16, "query": "blk 18x18 seat cushions", "explicit": {"color": "blk", "product_type": "seat cushion"}}
+{"query_id": 17, "query": "closet storage with zipper", "explicit": {"style": "storage", "product_type": "closet storage"}}
+{"query_id": 18, "query": "chrome bathroom 4 light vanity light", "explicit": {"color": "chrome", "product_type": "bathroom light vanity light"}}
+{"query_id": 19, "query": "gurney  slade 56", "explicit": {}}
+{"query_id": 20, "query": "foutains with brick look", "explicit": {"color": "brick"}}
+{"query_id": 21, "query": "living curtains pearl", "explicit": {"color": "living", "material": "pearl", "product_type": "living curtain"}}
+{"query_id": 22, "query": "light and navy blue decorative pillow", "explicit": {"color": "light", "style": "decorative", "product_type": "light decorative pillow"}}
+{"query_id": 23, "query": "stoneford end tables white and wood", "explicit": {"color": "white", "material": "wood", "product_type": "end table"}}
+{"query_id": 24, "query": "wood coffee table set by storage", "explicit": {"color": "wood", "material": "wood", "style": "storage", "product_type": "coffee table storage"}}
+{"query_id": 25, "query": "sunflower", "explicit": {"color": "sunflower"}}
+{"query_id": 26, "query": "leather chairs", "explicit": {"color": "leather", "material": "leather", "style": "chair", "product_type": "chair"}}
+{"query_id": 27, "query": "outdoor welcome rug", "explicit": {"product_type": "outdoor rug"}}
+{"query_id": 28, "query": "rooster decor", "explicit": {"product_type": "decor"}}
+{"query_id": 29, "query": "bathroom vanity knobs", "explicit": {"product_type": "bathroom vanity knob"}}
+{"query_id": 30, "query": "3 1/2 inch drawer pull", "explicit": {"product_type": "drawer pull"}}
+{"query_id": 31, "query": "burnt orange curtains", "explicit": {"color": "burnt", "product_type": "curtain"}}
+{"query_id": 32, "query": "dark gray dresser", "explicit": {"color": "dark", "product_type": "dresser"}}
+{"query_id": 33, "query": "non slip shower floor tile", "explicit": {"material": "non", "product_type": "shower floor tile"}}
+{"query_id": 34, "query": "bar stool with backrest", "explicit": {"product_type": "bar stool"}}
+{"query_id": 35, "query": "enclosed shoe rack", "explicit": {"product_type": "shoe rack"}}
+{"query_id": 36, "query": "laundry basket with wheels", "explicit": {"product_type": "laundry basket"}}
+{"query_id": 37, "query": "bar stool 24 inches height", "explicit": {"product_type": "bar stool"}}
+{"query_id": 38, "query": "calvin patio chair", "explicit": {"style": "chair", "product_type": "patio chair"}}
+{"query_id": 39, "query": "door jewelry organizer", "explicit": {"product_type": "door jewelry organizer"}}
+{"query_id": 40, "query": "elegant executive chair", "explicit": {"color": "elegant", "style": "chair", "product_type": "chair"}}
+{"query_id": 41, "query": "closet pull out valet rod", "explicit": {"product_type": "closet pull rod"}}
+{"query_id": 42, "query": "toddler couch fold out", "explicit": {"product_type": "toddler sofa"}}
+{"query_id": 43, "query": "solid teak end table", "explicit": {"color": "solid", "material": "solid", "product_type": "end table"}}
+{"query_id": 44, "query": "chrome shower head and valve", "explicit": {"color": "chrome", "product_type": "shower head valve"}}
+{"query_id": 45, "query": "70s inspired furniture", "explicit": {"style": "inspired", "product_type": "furniture"}}
+{"query_id": 46, "query": "beach blue headboard", "explicit": {"color": "beach", "product_type": "beach headboard"}}
+{"query_id": 47, "query": "porcelain loaf pan", "explicit": {"color": "porcelain", "material": "porcelain", "product_type": "loaf pan"}}
+{"query_id": 48, "query": "arwen table lamp", "explicit": {"product_type": "table lamp"}}
+{"query_id": 49, "query": "moen matte black hooks", "explicit": {"color": "matte", "product_type": "hook"}}
+{"query_id": 50, "query": "tufted chair with gold legs", "explicit": {"color": "gold", "style": "chair", "product_type": "chair"}}
+{"query_id": 51, "query": "kohen 5 drawer dresser", "explicit": {"product_type": "drawer dresser"}}
+{"query_id": 52, "query": "westling coffee table", "explicit": {"color": "coffee", "product_type": "coffee table"}}
+{"query_id": 53, "query": "carolyn console table", "explicit": {"product_type": "console table"}}
+{"query_id": 54, "query": "wayfair sleep zippered", "explicit": {}}
+{"query_id": 55, "query": "tollette teal outdoor rug", "explicit": {"color": "teal", "product_type": "outdoor rug"}}
+{"query_id": 56, "query": "royal blue counter height chairs", "explicit": {"color": "royal", "style": "chair", "product_type": "chair"}}
+{"query_id": 57, "query": "jordanna solid wood rocking", "explicit": {"color": "solid", "material": "solid", "product_type": "rocking"}}
+{"query_id": 58, "query": "medium size chandelier", "explicit": {"color": "medium", "material": "medium", "product_type": "size chandelier"}}
+{"query_id": 59, "query": "broadway lever", "explicit": {"product_type": "lever"}}
+{"query_id": 60, "query": "capricorn chest", "explicit": {"product_type": "chest"}}
+{"query_id": 61, "query": "overstreet rustic pub stools", "explicit": {"color": "rustic", "style": "rustic", "product_type": "pub stool"}}
+{"query_id": 62, "query": "7qt slow cooker", "explicit": {"product_type": "slow cooker"}}
+{"query_id": 63, "query": "monthly calendar", "explicit": {}}
+{"query_id": 64, "query": "zachary 72.5", "explicit": {}}
+{"query_id": 65, "query": "gnome fairy garden", "explicit": {"color": "garden", "product_type": "garden"}}
+{"query_id": 66, "query": "novara pergola", "explicit": {"product_type": "pergola"}}
+{"query_id": 67, "query": "osgood mirror", "explicit": {"color": "mirror", "material": "mirror", "product_type": "mirror"}}
+{"query_id": 68, "query": "nautical platters", "explicit": {"color": "nautical", "style": "nautical", "product_type": "platter"}}
+{"query_id": 69, "query": "wall sconce with usb port", "explicit": {"color": "port", "product_type": "wall sconce"}}
+{"query_id": 70, "query": "annex dresser", "explicit": {"product_type": "dresser"}}
+{"query_id": 71, "query": "infant girl crib bedding", "explicit": {"product_type": "crib bedding"}}
+{"query_id": 72, "query": "fold in half table", "explicit": {"product_type": "table"}}
+{"query_id": 73, "query": "certified international melamine", "explicit": {"color": "melamine", "material": "melamine"}}
+{"query_id": 74, "query": "serta kleinmon", "explicit": {}}
+{"query_id": 75, "query": "sheffield home bath set", "explicit": {"product_type": "home bath"}}
+{"query_id": 76, "query": "46 inch closet door", "explicit": {"product_type": "closet door"}}
+{"query_id": 77, "query": "sancroft armchair", "explicit": {}}
+{"query_id": 78, "query": "dorel vanity", "explicit": {"product_type": "vanity"}}
+{"query_id": 79, "query": "palram harmony greenhouses", "explicit": {"product_type": "greenhouse"}}
+{"query_id": 80, "query": "7 draw white dresser", "explicit": {"color": "white", "product_type": "dresser"}}
+{"query_id": 81, "query": "orren ellis l shape desk", "explicit": {"product_type": "desk"}}
+{"query_id": 82, "query": "bathroom vanity with counter space", "explicit": {"material": "space", "product_type": "bathroom vanity space"}}
+{"query_id": 83, "query": "wall art fiji", "explicit": {"product_type": "wall art"}}
+{"query_id": 84, "query": "full metal bed rose gold", "explicit": {"color": "metal", "material": "metal", "product_type": "bed"}}
+{"query_id": 85, "query": "3/4 size mattress", "explicit": {"color": "size", "product_type": "size mattres"}}
+{"query_id": 86, "query": "aloe vera plant pot", "explicit": {"material": "plant", "product_type": "plant pot"}}
+{"query_id": 87, "query": "vlad modular sectional", "explicit": {"product_type": "sectional"}}
+{"query_id": 88, "query": "rose gold lounge", "explicit": {"color": "rose", "product_type": "lounge"}}
+{"query_id": 89, "query": "whimsical solar lights", "explicit": {"color": "light", "product_type": "light"}}
+{"query_id": 90, "query": "filaret outdoor sofa", "explicit": {"product_type": "outdoor sofa"}}
+{"query_id": 91, "query": "industrial pipe dining  table", "explicit": {"color": "industrial", "style": "industrial", "product_type": "dining table"}}
+{"query_id": 92, "query": "antique silver entry table", "explicit": {"color": "antique", "material": "silver", "product_type": "entry table"}}
+{"query_id": 93, "query": "outdoor sectional dining", "explicit": {"product_type": "outdoor sectional dining"}}
+{"query_id": 94, "query": "kohler whitehaven farmhouse kitchen sink", "explicit": {"color": "farmhouse", "style": "farmhouse", "product_type": "kitchen sink"}}
+{"query_id": 95, "query": "entertainment stand end table", "explicit": {"product_type": "entertainment stand end table"}}
+{"query_id": 96, "query": "bar room wall decor", "explicit": {"product_type": "bar room wall decor"}}
+{"query_id": 97, "query": "regner power loom red", "explicit": {"color": "red"}}
+{"query_id": 98, "query": "gracie oaks 62 oller 14 ceiling fan", "explicit": {"color": "oak", "product_type": "ceiling fan"}}
+{"query_id": 99, "query": "arched christmas tree", "explicit": {"product_type": "christma tree"}}
+{"query_id": 100, "query": "tufted upholstered bed diamond", "explicit": {"color": "diamond", "material": "upholstered", "product_type": "bed"}}
+{"query_id": 101, "query": "48 in entry table with side by side drawer", "explicit": {"color": "side", "product_type": "entry table drawer"}}
+{"query_id": 102, "query": "flamingo", "explicit": {}}
+{"query_id": 103, "query": "kitchen anti fatigue mats", "explicit": {"product_type": "kitchen mat"}}
+{"query_id": 104, "query": "flour and sugar containers", "explicit": {"color": "sugar", "product_type": "sugar"}}
+{"query_id": 105, "query": "outdoor movie screen", "explicit": {"product_type": "outdoor screen"}}
+{"query_id": 106, "query": "bed risers", "explicit": {"product_type": "bed"}}
+{"query_id": 107, "query": "front porch furniture sets", "explicit": {"product_type": "porch furniture"}}
+{"query_id": 108, "query": "ayesha curry kitchen", "explicit": {"color": "curry", "product_type": "kitchen"}}
+{"query_id": 109, "query": "hillsby oriental rug", "explicit": {"product_type": "rug"}}
+{"query_id": 110, "query": "mila task chair", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 111, "query": "delta trinsic", "explicit": {}}
+{"query_id": 112, "query": "pineapple", "explicit": {"color": "pineapple"}}
+{"query_id": 113, "query": "led light strip", "explicit": {"color": "light", "material": "led", "product_type": "light"}}
+{"query_id": 114, "query": "geralyn upholstered storage platform bed", "explicit": {"material": "upholstered", "style": "storage", "product_type": "storage bed"}}
+{"query_id": 115, "query": "peacock", "explicit": {"color": "peacock"}}
+{"query_id": 116, "query": "brockham solid blackout thermal grommet curtain panels", "explicit": {"color": "solid", "material": "solid", "product_type": "curtain panel"}}
+{"query_id": 117, "query": "tall storage cabinet", "explicit": {"style": "storage", "product_type": "storage cabinet"}}
+{"query_id": 118, "query": "body pillow case", "explicit": {"color": "pillow", "product_type": "pillow case"}}
+{"query_id": 119, "query": "welcome sign", "explicit": {"product_type": "sign"}}
+{"query_id": 120, "query": "zodiac pillow", "explicit": {"color": "pillow", "product_type": "pillow"}}
+{"query_id": 121, "query": "upholstered bed", "explicit": {"material": "upholstered", "product_type": "bed"}}
+{"query_id": 122, "query": "king size bed", "explicit": {"color": "size", "product_type": "size bed"}}
+{"query_id": 123, "query": "entrance table", "explicit": {"product_type": "table"}}
+{"query_id": 124, "query": "unique coffee tables", "explicit": {"color": "coffee", "product_type": "coffee table"}}
+{"query_id": 125, "query": "boho bed frame", "explicit": {"color": "frame", "material": "frame", "style": "boho", "product_type": "bed frame"}}
+{"query_id": 126, "query": "leather dining chairs", "explicit": {"color": "leather", "material": "leather", "style": "chair", "product_type": "dining chair"}}
+{"query_id": 127, "query": "wine bar", "explicit": {"color": "wine", "product_type": "wine bar"}}
+{"query_id": 128, "query": "block coffee table", "explicit": {"color": "block", "product_type": "coffee table"}}
+{"query_id": 129, "query": "wainscoting ideas", "explicit": {}}
+{"query_id": 130, "query": "entertainment console", "explicit": {"product_type": "entertainment console"}}
+{"query_id": 131, "query": "kids chair", "explicit": {"style": "chair", "product_type": "kid chair"}}
+{"query_id": 132, "query": "farmhouse cabinet", "explicit": {"color": "farmhouse", "style": "farmhouse", "product_type": "cabinet"}}
+{"query_id": 133, "query": "outdoor light fixtures", "explicit": {"color": "light", "product_type": "outdoor light fixture"}}
+{"query_id": 134, "query": "black hanging bookshelf", "explicit": {"color": "black", "product_type": "hanging"}}
+{"query_id": 135, "query": "low profile loveseat recliner", "explicit": {"color": "low", "product_type": "loveseat recliner"}}
+{"query_id": 136, "query": "black fluffy stool", "explicit": {"color": "black", "product_type": "stool"}}
+{"query_id": 137, "query": "orren ellis l shaped desk", "explicit": {"product_type": "desk"}}
+{"query_id": 138, "query": "glass doors for bath", "explicit": {"color": "glas", "material": "glas", "product_type": "glas door bath"}}
+{"query_id": 139, "query": "auburn throw pillows", "explicit": {"color": "auburn", "product_type": "throw pillow"}}
+{"query_id": 140, "query": "wire basket with dividers", "explicit": {"material": "wire", "product_type": "basket divider"}}
+{"query_id": 141, "query": "podium with locking cabinet", "explicit": {"product_type": "podium cabinet"}}
+{"query_id": 142, "query": "kitchen wooden stand", "explicit": {"color": "wood", "material": "wood", "product_type": "kitchen stand"}}
+{"query_id": 143, "query": "queen wingback chair", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 144, "query": "rug plum", "explicit": {"color": "plum", "product_type": "rug"}}
+{"query_id": 145, "query": "liberty hardware francisco", "explicit": {"product_type": "hardware"}}
+{"query_id": 146, "query": "laundry vanity cabinet", "explicit": {"product_type": "laundry vanity cabinet"}}
+{"query_id": 147, "query": "drum picture", "explicit": {"product_type": "picture"}}
+{"query_id": 148, "query": "industrial", "explicit": {"color": "industrial", "style": "industrial"}}
+{"query_id": 149, "query": "mid century modern", "explicit": {"color": "modern", "style": "mid"}}
+{"query_id": 150, "query": "dumbbells", "explicit": {}}
+{"query_id": 151, "query": "leather chair", "explicit": {"color": "leather", "material": "leather", "style": "chair", "product_type": "chair"}}
+{"query_id": 152, "query": "wishbone chair", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 153, "query": "bohemian", "explicit": {"color": "bohemian", "style": "bohemian"}}
+{"query_id": 155, "query": "floating bed", "explicit": {"product_type": "bed"}}
+{"query_id": 156, "query": "papasan chair frame only", "explicit": {"color": "frame", "material": "frame", "style": "chair", "product_type": "chair frame"}}
+{"query_id": 157, "query": "velvet chaise", "explicit": {"color": "velvet", "material": "velvet", "product_type": "chaise"}}
+{"query_id": 158, "query": "led nightstand", "explicit": {"material": "led", "product_type": "nightstand"}}
+{"query_id": 159, "query": "meditation", "explicit": {}}
+{"query_id": 160, "query": "marble", "explicit": {"color": "marble", "material": "marble"}}
+{"query_id": 161, "query": "accent chair recliner", "explicit": {"color": "accent", "style": "chair", "product_type": "accent chair recliner"}}
+{"query_id": 162, "query": "turquoise chair", "explicit": {"color": "turquoise", "style": "chair", "product_type": "chair"}}
+{"query_id": 163, "query": "dual monitor stand", "explicit": {"product_type": "stand"}}
+{"query_id": 164, "query": "modern outdoor furniture", "explicit": {"color": "modern", "style": "modern", "product_type": "outdoor furniture"}}
+{"query_id": 165, "query": "kitchen storage shelves", "explicit": {"style": "storage", "product_type": "kitchen storage shelve"}}
+{"query_id": 166, "query": "feather wall art", "explicit": {"color": "feather", "material": "feather", "product_type": "wall art"}}
+{"query_id": 167, "query": "camper", "explicit": {"color": "camper"}}
+{"query_id": 168, "query": "printers", "explicit": {}}
+{"query_id": 169, "query": "coffee bar buffet", "explicit": {"color": "coffee", "product_type": "coffee bar buffet"}}
+{"query_id": 170, "query": "zen", "explicit": {"color": "zen"}}
+{"query_id": 171, "query": "nectar queen mattress", "explicit": {"color": "mattres", "product_type": "mattres"}}
+{"query_id": 172, "query": "picasso", "explicit": {"color": "picasso"}}
+{"query_id": 173, "query": "bedroom accessories", "explicit": {"product_type": "bedroom accessorie"}}
+{"query_id": 174, "query": "star wars rug", "explicit": {"color": "star", "product_type": "rug"}}
+{"query_id": 175, "query": "basket planter", "explicit": {"product_type": "basket planter"}}
+{"query_id": 176, "query": "mexican art", "explicit": {"product_type": "art"}}
+{"query_id": 177, "query": "rustic storage cabinet", "explicit": {"color": "rustic", "style": "rustic", "product_type": "storage cabinet"}}
+{"query_id": 178, "query": "almost heaven sauna", "explicit": {"color": "heaven", "product_type": "sauna"}}
+{"query_id": 179, "query": "promo codes or discounts", "explicit": {}}
+{"query_id": 180, "query": "outdoor lounge cushions", "explicit": {"product_type": "outdoor lounge cushion"}}
+{"query_id": 181, "query": "e12/candelabra", "explicit": {}}
+{"query_id": 182, "query": "penny round tile", "explicit": {"color": "round", "product_type": "tile"}}
+{"query_id": 183, "query": "farmhouse bread box", "explicit": {"color": "farmhouse", "material": "box", "style": "farmhouse", "product_type": "bread"}}
+{"query_id": 184, "query": "sugar canister", "explicit": {"color": "sugar", "product_type": "sugar canister"}}
+{"query_id": 185, "query": "lunch bag", "explicit": {"product_type": "bag"}}
+{"query_id": 186, "query": "board game storage cabinet", "explicit": {"material": "board", "style": "storage", "product_type": "board game storage cabinet"}}
+{"query_id": 188, "query": "bedroom wall decor floral, multicolored with some teal (prints)", "explicit": {"color": "floral", "material": "floral", "product_type": "bedroom wall decor floral"}}
+{"query_id": 189, "query": "big basket for dirty cloths", "explicit": {"color": "big", "material": "cloth", "product_type": "basket"}}
+{"query_id": 190, "query": "benjiamino faux leather power lift chair", "explicit": {"color": "faux", "material": "faux", "style": "chair", "product_type": "faux chair"}}
+{"query_id": 191, "query": "biycicle plant stands", "explicit": {"material": "plant", "product_type": "plant stand"}}
+{"query_id": 193, "query": "belchertown table lamp", "explicit": {"product_type": "table lamp"}}
+{"query_id": 194, "query": "black frame 22 x 36", "explicit": {"color": "black", "material": "frame", "product_type": "frame"}}
+{"query_id": 195, "query": "black freestanding tub  with faucet", "explicit": {"color": "black", "product_type": "tub faucet"}}
+{"query_id": 196, "query": "chabely 5 draw chest", "explicit": {"product_type": "chest"}}
+{"query_id": 197, "query": "desk for kids tjat ate 10 year old", "explicit": {"color": "old", "product_type": "desk kid"}}
+{"query_id": 198, "query": "cake plates with tops", "explicit": {"color": "top", "material": "plate", "style": "top", "product_type": "cake plate top"}}
+{"query_id": 199, "query": "blue faux throw with pillows", "explicit": {"color": "blue", "material": "faux", "product_type": "faux throw pillow"}}
+{"query_id": 200, "query": "ceramic tile sea shell", "explicit": {"color": "sea", "material": "ceramic", "product_type": "tile"}}
+{"query_id": 201, "query": "delta trinsic double towel hook in champagne bronze", "explicit": {"color": "champagne", "material": "bronze", "product_type": "towel hook champagne"}}
+{"query_id": 202, "query": "full mattress padded liner", "explicit": {"color": "mattres", "product_type": "mattres"}}
+{"query_id": 203, "query": "ge top loading washer 4.5", "explicit": {"color": "top", "style": "top", "product_type": "top washer"}}
+{"query_id": 204, "query": "fleur de lis living candle wall sconce bronze", "explicit": {"color": "living", "material": "bronze", "product_type": "living candle wall sconce"}}
+{"query_id": 205, "query": "ines shag rug w003096809", "explicit": {"style": "shag", "product_type": "rug"}}
+{"query_id": 206, "query": "grill cover 73", "explicit": {"product_type": "grill cover"}}
+{"query_id": 207, "query": "dull bed with shirt head board", "explicit": {"color": "dull", "material": "shirt", "product_type": "bed head board"}}
+{"query_id": 208, "query": "fawkes 36\" blue vanity", "explicit": {"color": "blue", "product_type": "vanity"}}
+{"query_id": 209, "query": "door pulls bronze matte 4 inch", "explicit": {"color": "bronze", "material": "bronze", "product_type": "door pull"}}
+{"query_id": 210, "query": "love seat wide faux leather tuxedo arm sofa", "explicit": {"color": "faux", "material": "faux", "product_type": "seat faux sofa"}}
+{"query_id": 211, "query": "memory foam rug galveston", "explicit": {"color": "foam", "material": "memory", "product_type": "memory foam rug"}}
+{"query_id": 212, "query": "nettie 5 pc bar set", "explicit": {"product_type": "bar"}}
+{"query_id": 213, "query": "kraus kitchen sink faucet oletto kpf 2820 sfs", "explicit": {"product_type": "kitchen sink faucet"}}
+{"query_id": 214, "query": "light wood nightstand with silver accents", "explicit": {"color": "light", "material": "wood", "product_type": "light nightstand accent"}}
+{"query_id": 215, "query": "king adjustable bed including mattress", "explicit": {"color": "mattres", "product_type": "adjustable bed mattres"}}
+{"query_id": 216, "query": "music plug wall plate", "explicit": {"material": "plate", "product_type": "wall plate"}}
+{"query_id": 218, "query": "wand bunk beds", "explicit": {"product_type": "bed"}}
+{"query_id": 219, "query": "trinaic towel rod", "explicit": {"product_type": "towel rod"}}
+{"query_id": 220, "query": "sheets for twinxl", "explicit": {"product_type": "sheet"}}
+{"query_id": 221, "query": "small space dining table and chairs sets", "explicit": {"material": "space", "style": "chair", "product_type": "space dining table chair"}}
+{"query_id": 222, "query": "small loving roomtables", "explicit": {}}
+{"query_id": 223, "query": "wisdom stone river 3-3/4", "explicit": {"color": "stone", "material": "stone", "product_type": "stone"}}
+{"query_id": 224, "query": "twin over full bunk beds cool desins", "explicit": {"color": "cool", "material": "over", "product_type": "bed"}}
+{"query_id": 225, "query": "white splashproof shiplap wallpaper", "explicit": {"color": "white", "product_type": "wallpaper"}}
+{"query_id": 226, "query": "power lift chair", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 227, "query": "owl", "explicit": {}}
+{"query_id": 228, "query": "bee", "explicit": {}}
+{"query_id": 229, "query": "waterfall faucet", "explicit": {"product_type": "faucet"}}
+{"query_id": 230, "query": "gold", "explicit": {"color": "gold"}}
+{"query_id": 231, "query": "anti fatigue mat", "explicit": {"product_type": "mat"}}
+{"query_id": 232, "query": "storage dresser", "explicit": {"style": "storage", "product_type": "storage dresser"}}
+{"query_id": 233, "query": "kelly clarkson light fixtures", "explicit": {"color": "kelly", "product_type": "light fixture"}}
+{"query_id": 234, "query": "artificial orchid arrangement", "explicit": {"color": "orchid", "material": "artificial"}}
+{"query_id": 235, "query": "bathroom wastebasket", "explicit": {"product_type": "bathroom"}}
+{"query_id": 236, "query": "3 piece rug set with runners", "explicit": {"product_type": "rug"}}
+{"query_id": 237, "query": "cloud modular sectional", "explicit": {"color": "cloud", "product_type": "sectional"}}
+{"query_id": 238, "query": "outdoor seat/back cushion", "explicit": {"color": "back", "product_type": "outdoor seat cushion"}}
+{"query_id": 239, "query": "bathroom single faucet", "explicit": {"product_type": "bathroom single faucet"}}
+{"query_id": 240, "query": "eiffel tower wall art", "explicit": {"color": "eiffel", "product_type": "tower wall art"}}
+{"query_id": 241, "query": "decorative wall clocks", "explicit": {"style": "decorative", "product_type": "decorative wall clock"}}
+{"query_id": 242, "query": "accent leather chair", "explicit": {"color": "accent", "material": "leather", "style": "chair", "product_type": "accent chair"}}
+{"query_id": 243, "query": "indoor multi tiered plant stand", "explicit": {"color": "multi", "material": "plant", "product_type": "indoor multi plant stand"}}
+{"query_id": 244, "query": "pull out sleeper loveseat", "explicit": {"product_type": "pull loveseat"}}
+{"query_id": 245, "query": "anchor decor", "explicit": {"product_type": "decor"}}
+{"query_id": 246, "query": "clear shower curtain", "explicit": {"color": "clear", "product_type": "shower curtain"}}
+{"query_id": 247, "query": "beaded curtains", "explicit": {"product_type": "curtain"}}
+{"query_id": 248, "query": "surge protector", "explicit": {"product_type": "protector"}}
+{"query_id": 249, "query": "bistro table and chairs", "explicit": {"style": "chair", "product_type": "table chair"}}
+{"query_id": 250, "query": "multi color rug", "explicit": {"color": "multi", "product_type": "multi color rug"}}
+{"query_id": 251, "query": "coffee container", "explicit": {"color": "coffee", "product_type": "coffee"}}
+{"query_id": 252, "query": "accent chairs living room", "explicit": {"color": "accent", "style": "chair", "product_type": "accent chair living room"}}
+{"query_id": 253, "query": "antique brass faucet", "explicit": {"color": "antique", "material": "bras", "product_type": "faucet"}}
+{"query_id": 254, "query": "comfortable accent chair", "explicit": {"color": "accent", "style": "chair", "product_type": "accent chair"}}
+{"query_id": 255, "query": "desk and chair set", "explicit": {"style": "chair", "product_type": "desk chair"}}
+{"query_id": 256, "query": "high weight capacity bunk beds", "explicit": {"color": "high", "material": "high", "product_type": "bed"}}
+{"query_id": 257, "query": "living room coffee table sets", "explicit": {"color": "living", "product_type": "living room coffee table"}}
+{"query_id": 258, "query": "breakfast bar table", "explicit": {"product_type": "bar table"}}
+{"query_id": 259, "query": "nursery end table", "explicit": {"product_type": "nursery end table"}}
+{"query_id": 260, "query": "retractable side awning", "explicit": {"color": "side", "product_type": "awning"}}
+{"query_id": 261, "query": "semi flush foyer light", "explicit": {"color": "semi", "product_type": "flush light"}}
+{"query_id": 262, "query": "bathroom freestanding cabinet", "explicit": {"product_type": "bathroom cabinet"}}
+{"query_id": 263, "query": "small curtain rods", "explicit": {"product_type": "curtain rod"}}
+{"query_id": 264, "query": "cortez pillow", "explicit": {"color": "pillow", "product_type": "pillow"}}
+{"query_id": 265, "query": "candace wingback upholstered bed", "explicit": {"material": "upholstered", "product_type": "bed"}}
+{"query_id": 266, "query": "champagne velvet desk chair", "explicit": {"color": "champagne", "material": "velvet", "style": "chair", "product_type": "champagne desk chair"}}
+{"query_id": 267, "query": "dolomite subway tile", "explicit": {"color": "dolomite", "material": "dolomite", "product_type": "tile"}}
+{"query_id": 268, "query": "betty resin free standing umbrella", "explicit": {"color": "resin", "material": "resin", "product_type": "umbrella"}}
+{"query_id": 269, "query": "donaldson teak couch", "explicit": {"color": "teak", "material": "teak", "product_type": "sofa"}}
+{"query_id": 270, "query": "edge chair mat", "explicit": {"color": "edge", "style": "chair", "product_type": "chair mat"}}
+{"query_id": 271, "query": "chinese flower stand", "explicit": {"color": "chinese", "product_type": "stand"}}
+{"query_id": 272, "query": "oliver parsons", "explicit": {}}
+{"query_id": 273, "query": "stainless steel free standing shower caddy", "explicit": {"color": "stainles", "material": "stainles", "product_type": "shower"}}
+{"query_id": 274, "query": "gowdy height adjustable standing desk", "explicit": {"product_type": "adjustable desk"}}
+{"query_id": 275, "query": "hinged square ottoman", "explicit": {"color": "square", "product_type": "ottoman"}}
+{"query_id": 276, "query": "chaves l-shape floating desk with hutch", "explicit": {"product_type": "desk"}}
+{"query_id": 277, "query": "barstool patio sets", "explicit": {"product_type": "patio"}}
+{"query_id": 278, "query": "parakeet toy", "explicit": {"material": "toy", "product_type": "toy"}}
+{"query_id": 279, "query": "marlon tufted queen bed", "explicit": {"product_type": "bed"}}
+{"query_id": 280, "query": "johan desk by laurel foundry", "explicit": {"color": "laurel", "product_type": "desk"}}
+{"query_id": 281, "query": "brunk ship wheel", "explicit": {"color": "ship"}}
+{"query_id": 282, "query": "grantola wall mirror", "explicit": {"color": "mirror", "material": "mirror", "product_type": "wall mirror"}}
+{"query_id": 283, "query": "gaia driftwood table", "explicit": {"color": "driftwood", "material": "driftwood", "product_type": "table"}}
+{"query_id": 284, "query": "family lamp", "explicit": {"product_type": "lamp"}}
+{"query_id": 285, "query": "48\" sliding single track , barn door for laundry", "explicit": {"color": "barn", "product_type": "single track barn door laundry"}}
+{"query_id": 286, "query": "hitchcock mid-century wall shelf", "explicit": {"style": "mid", "product_type": "wall"}}
+{"query_id": 287, "query": "cover set for outdoor furniture", "explicit": {"product_type": "cover outdoor furniture"}}
+{"query_id": 288, "query": "round outdoor patio cover", "explicit": {"color": "round", "product_type": "outdoor patio cover"}}
+{"query_id": 289, "query": "coma inducer comforter king set", "explicit": {"material": "comforter", "product_type": "comforter"}}
+{"query_id": 290, "query": "mission double vanity", "explicit": {"style": "mission", "product_type": "vanity"}}
+{"query_id": 291, "query": "front door cabinet with doors", "explicit": {"product_type": "door cabinet door"}}
+{"query_id": 292, "query": "decorative white pillow", "explicit": {"color": "white", "style": "decorative", "product_type": "decorative pillow"}}
+{"query_id": 293, "query": "wood floor protector mat", "explicit": {"color": "wood", "material": "wood", "product_type": "floor protector mat"}}
+{"query_id": 294, "query": "moen multi function dual shower head", "explicit": {"color": "multi", "product_type": "multi shower head"}}
+{"query_id": 295, "query": "end table between recliners", "explicit": {"product_type": "end table recliner"}}
+{"query_id": 296, "query": "zakariyah twin platform", "explicit": {}}
+{"query_id": 297, "query": "seat cushions desk", "explicit": {"product_type": "seat cushion desk"}}
+{"query_id": 298, "query": "small woven pouf", "explicit": {"color": "woven", "material": "woven"}}
+{"query_id": 300, "query": "animal print handmade tufted wool beige/black area rug by allmodern", "explicit": {"color": "beige", "material": "wool", "style": "animal", "product_type": "area rug"}}
+{"query_id": 301, "query": "circle cabinet pulls", "explicit": {"product_type": "cabinet pull"}}
+{"query_id": 302, "query": "mattress foam topper queen", "explicit": {"color": "mattres", "material": "foam", "product_type": "mattres foam topper"}}
+{"query_id": 303, "query": "hawaii vintage art", "explicit": {"color": "vintage", "style": "vintage", "product_type": "art"}}
+{"query_id": 304, "query": "merlyn 6", "explicit": {}}
+{"query_id": 305, "query": "ligth bulb", "explicit": {"product_type": "bulb"}}
+{"query_id": 306, "query": "mobley zero gravity adjustable bed with wireless remote", "explicit": {"product_type": "adjustable bed"}}
+{"query_id": 307, "query": "real touch roses floral arrangements in glass vase", "explicit": {"color": "real", "material": "floral", "product_type": "floral glas vase"}}
+{"query_id": 308, "query": "led 60", "explicit": {"material": "led"}}
+{"query_id": 309, "query": "moen 5995 arbor one", "explicit": {"color": "one", "product_type": "arbor"}}
+{"query_id": 310, "query": "meade mirror", "explicit": {"color": "mirror", "material": "mirror", "product_type": "mirror"}}
+{"query_id": 311, "query": "odum velvet", "explicit": {"color": "velvet", "material": "velvet"}}
+{"query_id": 312, "query": "coat rack for bedroom", "explicit": {"color": "coat", "product_type": "coat rack bedroom"}}
+{"query_id": 313, "query": "malachi sled", "explicit": {}}
+{"query_id": 314, "query": "body pillow and case", "explicit": {"color": "pillow", "product_type": "pillow case"}}
+{"query_id": 315, "query": "medium clips", "explicit": {"color": "medium", "material": "medium", "product_type": "clip"}}
+{"query_id": 316, "query": "rolande heavy duty power lift assist recliner", "explicit": {"material": "heavy", "product_type": "recliner"}}
+{"query_id": 317, "query": "hulmeville writing desk with hutch", "explicit": {"product_type": "desk"}}
+{"query_id": 318, "query": "sunjoy lantern", "explicit": {"product_type": "lantern"}}
+{"query_id": 319, "query": "landis wall mounted bathroom shelves", "explicit": {"product_type": "wall mounted bathroom shelve"}}
+{"query_id": 320, "query": "blaylock bookcase headboard", "explicit": {"product_type": "bookcase headboard"}}
+{"query_id": 321, "query": "hussain handmade tufted magenta rug", "explicit": {"color": "magenta", "product_type": "rug"}}
+{"query_id": 322, "query": "cream queen duvet cover", "explicit": {"color": "cream", "product_type": "duvet cover"}}
+{"query_id": 323, "query": "hub leaning full length mirror", "explicit": {"color": "mirror", "material": "mirror", "product_type": "mirror"}}
+{"query_id": 324, "query": "chase utility laundry cart", "explicit": {"product_type": "laundry cart"}}
+{"query_id": 325, "query": "outdoor waterproof chest", "explicit": {"product_type": "outdoor chest"}}
+{"query_id": 326, "query": "bowersville ladder writing desk", "explicit": {"product_type": "desk"}}
+{"query_id": 327, "query": "kohler purist brushed bronze", "explicit": {"color": "brushed", "material": "brushed"}}
+{"query_id": 328, "query": "golub dining table", "explicit": {"product_type": "dining table"}}
+{"query_id": 329, "query": "wayfair tension rod", "explicit": {"product_type": "rod"}}
+{"query_id": 330, "query": "kari 2 piece", "explicit": {}}
+{"query_id": 331, "query": "upholstered girls bed", "explicit": {"material": "upholstered", "product_type": "bed"}}
+{"query_id": 332, "query": "attleboro drum coffee table", "explicit": {"color": "coffee", "product_type": "coffee table"}}
+{"query_id": 333, "query": "stainless steel colander set", "explicit": {"color": "stainles", "material": "stainles", "product_type": "colander"}}
+{"query_id": 334, "query": "itchington butterfly", "explicit": {}}
+{"query_id": 335, "query": "canadian", "explicit": {}}
+{"query_id": 336, "query": "mystic swivel", "explicit": {"color": "mystic"}}
+{"query_id": 337, "query": "iittala bowl", "explicit": {"product_type": "bowl"}}
+{"query_id": 338, "query": "mahone porch rocking chair", "explicit": {"style": "chair", "product_type": "porch rocking chair"}}
+{"query_id": 339, "query": "ruckus chair", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 340, "query": "berenice 4 storage cabinet", "explicit": {"style": "storage", "product_type": "storage cabinet"}}
+{"query_id": 341, "query": "canvas map art", "explicit": {"color": "canva", "material": "canva", "product_type": "map art"}}
+{"query_id": 342, "query": "brendon counter stool", "explicit": {"product_type": "stool"}}
+{"query_id": 343, "query": "navy and peach bedding", "explicit": {"color": "navy", "product_type": "bedding"}}
+{"query_id": 344, "query": "ottoman bed queen", "explicit": {"product_type": "ottoman bed"}}
+{"query_id": 345, "query": "oriental vanity", "explicit": {"product_type": "vanity"}}
+{"query_id": 346, "query": "nesting tray set", "explicit": {"color": "tray", "product_type": "tray"}}
+{"query_id": 347, "query": "olive green console table", "explicit": {"color": "olive", "product_type": "console table"}}
+{"query_id": 348, "query": "one alium way", "explicit": {"color": "one"}}
+{"query_id": 349, "query": "mud room sign", "explicit": {"product_type": "room sign"}}
+{"query_id": 351, "query": "white bathroom vanity black hardware", "explicit": {"color": "white", "product_type": "bathroom vanity hardware"}}
+{"query_id": 352, "query": "amarillo", "explicit": {}}
+{"query_id": 353, "query": "pennfield playhouse", "explicit": {"product_type": "playhouse"}}
+{"query_id": 354, "query": "tressler rug", "explicit": {"product_type": "rug"}}
+{"query_id": 355, "query": "argenteuil", "explicit": {}}
+{"query_id": 356, "query": "platform bed side table", "explicit": {"color": "side", "product_type": "bed table"}}
+{"query_id": 357, "query": "tall free standing pet gate", "explicit": {"material": "free", "product_type": "pet gate"}}
+{"query_id": 358, "query": "sliding closet mirror", "explicit": {"color": "mirror", "material": "mirror", "product_type": "closet mirror"}}
+{"query_id": 359, "query": "french molding", "explicit": {"color": "french", "style": "french", "product_type": "molding"}}
+{"query_id": 360, "query": "huntsville sectional sofa", "explicit": {"product_type": "sectional sofa"}}
+{"query_id": 361, "query": "kisner", "explicit": {}}
+{"query_id": 362, "query": "brushed gold wall decor", "explicit": {"color": "brushed", "material": "brushed", "product_type": "wall decor"}}
+{"query_id": 363, "query": "fortunat coffee table", "explicit": {"color": "coffee", "product_type": "coffee table"}}
+{"query_id": 364, "query": "croscill ashton", "explicit": {}}
+{"query_id": 365, "query": "gas detector", "explicit": {"product_type": "gas detector"}}
+{"query_id": 366, "query": "drudge report", "explicit": {}}
+{"query_id": 367, "query": "wooden chair outdoor", "explicit": {"color": "wood", "material": "wood", "style": "chair", "product_type": "chair outdoor"}}
+{"query_id": 368, "query": "pasta tools", "explicit": {"product_type": "pasta tool"}}
+{"query_id": 369, "query": "wrought tv stand", "explicit": {"material": "wrought", "product_type": "stand"}}
+{"query_id": 370, "query": "rug for teen room", "explicit": {"style": "teen", "product_type": "rug teen room"}}
+{"query_id": 371, "query": "milk cow chair", "explicit": {"color": "milk", "style": "chair", "product_type": "milk chair"}}
+{"query_id": 372, "query": "verden callan", "explicit": {}}
+{"query_id": 373, "query": "togo chair", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 374, "query": "sinks bed frame", "explicit": {"color": "frame", "material": "frame", "product_type": "sink bed frame"}}
+{"query_id": 375, "query": "pastel pink desk chair", "explicit": {"color": "pastel", "style": "chair", "product_type": "desk chair"}}
+{"query_id": 376, "query": "island estate coffee table", "explicit": {"color": "estate", "product_type": "island coffee table"}}
+{"query_id": 377, "query": "glinda upholstered bench", "explicit": {"material": "upholstered"}}
+{"query_id": 378, "query": "cliffside 5 light candle style drum chandelier", "explicit": {"color": "light", "style": "style", "product_type": "light candle chandelier"}}
+{"query_id": 379, "query": "urban outfitters duvet", "explicit": {"color": "urban", "style": "urban", "product_type": "duvet"}}
+{"query_id": 380, "query": "gravity feeder", "explicit": {"product_type": "feeder"}}
+{"query_id": 381, "query": "farmhouse hood vent", "explicit": {"color": "farmhouse", "style": "farmhouse", "product_type": "hood"}}
+{"query_id": 382, "query": "counter top one cup hot water dispenser", "explicit": {"color": "top", "material": "water", "style": "top", "product_type": "top cup hot water dispenser"}}
+{"query_id": 383, "query": "minnestrista", "explicit": {}}
+{"query_id": 384, "query": "dining table vinyl cloth", "explicit": {"color": "vinyl", "material": "vinyl", "product_type": "dining table vinyl"}}
+{"query_id": 385, "query": "mom urn", "explicit": {"product_type": "urn"}}
+{"query_id": 386, "query": "alter furniture", "explicit": {"product_type": "furniture"}}
+{"query_id": 387, "query": "self enclosed planters", "explicit": {"product_type": "planter"}}
+{"query_id": 388, "query": "outdoor sectional doning", "explicit": {"product_type": "outdoor sectional"}}
+{"query_id": 389, "query": "brush nickel faucet bathroom", "explicit": {"color": "nickel", "material": "nickel", "product_type": "faucet bathroom"}}
+{"query_id": 390, "query": "cushion replacement insert", "explicit": {"product_type": "cushion replacement"}}
+{"query_id": 391, "query": "writing desk 48\"", "explicit": {"product_type": "desk"}}
+{"query_id": 392, "query": "china clock", "explicit": {"color": "china", "material": "china", "product_type": "china clock"}}
+{"query_id": 393, "query": "propane gas dryer", "explicit": {"product_type": "gas dryer"}}
+{"query_id": 394, "query": "gray leather cocktail table", "explicit": {"color": "gray", "material": "leather", "product_type": "cocktail table"}}
+{"query_id": 395, "query": "pantry grey", "explicit": {"color": "gray", "product_type": "pantry"}}
+{"query_id": 396, "query": "alyse 8 light", "explicit": {"color": "light", "product_type": "light"}}
+{"query_id": 397, "query": "maryford queen tufted bed", "explicit": {"product_type": "bed"}}
+{"query_id": 398, "query": "super bright lights", "explicit": {"color": "super", "product_type": "light"}}
+{"query_id": 399, "query": "12v dirt bike", "explicit": {"product_type": "bike"}}
+{"query_id": 400, "query": "small ladies rocker swivel recliner", "explicit": {"product_type": "rocker recliner"}}
+{"query_id": 401, "query": "glass lsmp shades", "explicit": {"color": "glas", "material": "glas", "product_type": "glas shade"}}
+{"query_id": 402, "query": "modern farmhouse lighting semi flush mount", "explicit": {"color": "modern", "style": "modern", "product_type": "lighting flush mount"}}
+{"query_id": 403, "query": "wood rack wide", "explicit": {"color": "wood", "material": "wood", "product_type": "rack"}}
+{"query_id": 404, "query": "large cushion outdoor chair", "explicit": {"style": "chair", "product_type": "large cushion outdoor chair"}}
+{"query_id": 405, "query": "queen ann style living room chair", "explicit": {"color": "living", "style": "style", "product_type": "living room chair"}}
+{"query_id": 406, "query": "refrigerator with ice an water in door", "explicit": {"color": "ice", "material": "ice", "product_type": "refrigerator ice water door"}}
+{"query_id": 407, "query": "huge bookcase", "explicit": {"product_type": "bookcase"}}
+{"query_id": 408, "query": "girl reading statue", "explicit": {"product_type": "statue"}}
+{"query_id": 409, "query": "teal chair", "explicit": {"color": "teal", "style": "chair", "product_type": "chair"}}
+{"query_id": 410, "query": "pool floats", "explicit": {"color": "pool"}}
+{"query_id": 411, "query": "outdoor clock", "explicit": {"product_type": "outdoor clock"}}
+{"query_id": 412, "query": "jennie tufted upholstered low profile platform bed", "explicit": {"color": "low", "material": "upholstered", "product_type": "bed"}}
+{"query_id": 413, "query": "burruss patio sectional with cushions", "explicit": {"product_type": "patio sectional cushion"}}
+{"query_id": 414, "query": "shower hooks", "explicit": {"product_type": "shower hook"}}
+{"query_id": 415, "query": "toilet paper stand", "explicit": {"material": "paper", "product_type": "toilet paper stand"}}
+{"query_id": 416, "query": "wayfair coffee table", "explicit": {"color": "coffee", "product_type": "coffee table"}}
+{"query_id": 417, "query": "twin bed frame", "explicit": {"color": "frame", "material": "frame", "product_type": "bed frame"}}
+{"query_id": 418, "query": "writing desk", "explicit": {"product_type": "desk"}}
+{"query_id": 419, "query": "living room ideas", "explicit": {"color": "living", "product_type": "living room"}}
+{"query_id": 420, "query": "tile backsplash", "explicit": {"product_type": "tile backsplash"}}
+{"query_id": 421, "query": "dining room tables", "explicit": {"product_type": "dining room table"}}
+{"query_id": 422, "query": "ergonomic chair", "explicit": {"style": "chair", "product_type": "ergonomic chair"}}
+{"query_id": 423, "query": "wall shelves", "explicit": {"product_type": "wall shelve"}}
+{"query_id": 424, "query": "wayfair comforters", "explicit": {"material": "comforter", "product_type": "comforter"}}
+{"query_id": 425, "query": "side table with storage", "explicit": {"color": "side", "style": "storage", "product_type": "table storage"}}
+{"query_id": 426, "query": "outdoor storage", "explicit": {"style": "storage", "product_type": "outdoor storage"}}
+{"query_id": 427, "query": "lowes tile", "explicit": {"product_type": "tile"}}
+{"query_id": 428, "query": "kitchen storage cabinet", "explicit": {"style": "storage", "product_type": "kitchen storage cabinet"}}
+{"query_id": 429, "query": "gray dresser", "explicit": {"color": "gray", "product_type": "dresser"}}
+{"query_id": 430, "query": "30 inch bathroom vanity", "explicit": {"product_type": "bathroom vanity"}}
+{"query_id": 431, "query": "shoe bench entryway", "explicit": {"product_type": "shoe"}}
+{"query_id": 432, "query": "butcher block island", "explicit": {"color": "butcher", "product_type": "island"}}
+{"query_id": 433, "query": "trundle daybed", "explicit": {"product_type": "daybed"}}
+{"query_id": 434, "query": "bathroom lighting", "explicit": {"product_type": "bathroom lighting"}}
+{"query_id": 435, "query": "shoe closet", "explicit": {"product_type": "shoe closet"}}
+{"query_id": 436, "query": "full bed with trundle", "explicit": {"product_type": "bed"}}
+{"query_id": 437, "query": "kitchen islands with seating", "explicit": {"product_type": "kitchen island seating"}}
+{"query_id": 438, "query": "indoor water fountain", "explicit": {"color": "water", "material": "water", "product_type": "indoor water fountain"}}
+{"query_id": 439, "query": "parsons chairs", "explicit": {"style": "chair", "product_type": "chair"}}
+{"query_id": 440, "query": "wood bar stools", "explicit": {"color": "wood", "material": "wood", "product_type": "bar stool"}}
+{"query_id": 441, "query": "desk for kids", "explicit": {"product_type": "desk kid"}}
+{"query_id": 442, "query": "above toilet cabinet", "explicit": {"product_type": "toilet cabinet"}}
+{"query_id": 443, "query": "patio design", "explicit": {"product_type": "patio"}}
+{"query_id": 444, "query": "outdoor lounge chair", "explicit": {"style": "chair", "product_type": "outdoor lounge chair"}}
+{"query_id": 445, "query": "chaise lounge couch", "explicit": {"product_type": "chaise lounge sofa"}}
+{"query_id": 446, "query": "card table", "explicit": {"product_type": "card table"}}
+{"query_id": 447, "query": "tall buffet cabinet", "explicit": {"product_type": "buffet cabinet"}}
+{"query_id": 448, "query": "bed side table", "explicit": {"color": "side", "product_type": "bed table"}}
+{"query_id": 449, "query": "living room designs", "explicit": {"color": "living", "product_type": "living room"}}
+{"query_id": 451, "query": "aiden black velvet bed", "explicit": {"color": "black", "material": "velvet", "product_type": "bed"}}
+{"query_id": 452, "query": "day bed indian", "explicit": {"product_type": "bed"}}
+{"query_id": 453, "query": "midcentury tv unit", "explicit": {"product_type": "unit"}}
+{"query_id": 454, "query": "carpet 5x6", "explicit": {"product_type": "carpet"}}
+{"query_id": 455, "query": "deer coat hooks", "explicit": {"color": "coat", "product_type": "coat hook"}}
+{"query_id": 456, "query": "wall design shelf", "explicit": {"product_type": "wall"}}
+{"query_id": 457, "query": "5 gang light switch", "explicit": {"color": "light", "product_type": "light"}}
+{"query_id": 458, "query": "bubble guppies chair", "explicit": {"color": "bubble", "style": "chair", "product_type": "chair"}}
+{"query_id": 459, "query": "tye dye duvet cover", "explicit": {"product_type": "duvet cover"}}
+{"query_id": 460, "query": "small wardrobe grey", "explicit": {"color": "gray", "product_type": "wardrobe"}}
+{"query_id": 461, "query": "luau string lights", "explicit": {"color": "light", "product_type": "string light"}}
+{"query_id": 462, "query": "large bases", "explicit": {"product_type": "large base"}}
+{"query_id": 463, "query": "bistro sets patio", "explicit": {"product_type": "patio"}}
+{"query_id": 464, "query": "cake cutlery", "explicit": {"product_type": "cake"}}
+{"query_id": 465, "query": "white abstract", "explicit": {"color": "white"}}
+{"query_id": 466, "query": "rock climbing wall kids", "explicit": {"color": "rock", "product_type": "climbing wall kid"}}
+{"query_id": 467, "query": "town & country living curtains", "explicit": {"color": "country", "style": "country", "product_type": "living curtain"}}
+{"query_id": 468, "query": "glow in the dark silent wall clock", "explicit": {"color": "glow", "product_type": "wall clock"}}
+{"query_id": 469, "query": "garage sports storage rack", "explicit": {"style": "garage", "product_type": "garage sport storage rack"}}
+{"query_id": 470, "query": "elephant framed", "explicit": {"color": "framed"}}
+{"query_id": 471, "query": "adjustable height artist stool", "explicit": {"product_type": "adjustable stool"}}
+{"query_id": 472, "query": "window wall accent", "explicit": {"color": "accent", "product_type": "wall accent"}}
+{"query_id": 473, "query": "chair pillow cushion", "explicit": {"color": "pillow", "style": "chair", "product_type": "chair pillow cushion"}}
+{"query_id": 474, "query": "48 inch bathroom vanity with trough sink", "explicit": {"product_type": "bathroom vanity sink"}}
+{"query_id": 475, "query": "rattan truck", "explicit": {"color": "rattan", "material": "rattan"}}
+{"query_id": 476, "query": "hardwood beds", "explicit": {"material": "hardwood", "product_type": "hardwood bed"}}
+{"query_id": 478, "query": "worn leather office chair", "explicit": {"color": "worn", "material": "leather", "style": "worn", "product_type": "office chair"}}
+{"query_id": 479, "query": "garage door mail slot", "explicit": {"style": "garage", "product_type": "garage door"}}
+{"query_id": 480, "query": "pictures to hang over fireplace", "explicit": {"material": "over", "product_type": "picture fireplace"}}
+{"query_id": 481, "query": "emma headboard", "explicit": {"product_type": "headboard"}}
+{"query_id": 482, "query": "48 inch kitchen hood", "explicit": {"product_type": "kitchen hood"}}
+{"query_id": 483, "query": "rustic twig", "explicit": {"color": "rustic", "material": "twig", "style": "rustic"}}
+{"query_id": 484, "query": "nespresso vertuo next premium by breville with aeroccino", "explicit": {}}
+{"query_id": 485, "query": "pedistole sink", "explicit": {"product_type": "sink"}}
+{"query_id": 486, "query": "54 in bench cushion", "explicit": {"product_type": "cushion"}}
+{"query_id": 487, "query": "rack glass", "explicit": {"color": "glas", "material": "glas", "product_type": "rack glas"}}

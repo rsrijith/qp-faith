@@ -1,0 +1,7 @@
+{
+ "tag": "probe-mistral4-exp",
+ "n": 55,
+ "rerank_norfilter_recall": 0.811028225507784,
+ "rerank_hardfilter_recall": 0.3806619730539972,
+ "rerank_harm": 0.4303662524537867
+}

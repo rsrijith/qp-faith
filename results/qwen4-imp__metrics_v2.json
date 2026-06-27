@@ -1,0 +1,54 @@
+{
+  "tag": "qwen4-imp",
+  "n_queries": 480,
+  "parse_fail": 0,
+  "parse_fail_rate": 0.0,
+  "total_slots": 806,
+  "total_spurious": 15,
+  "total_harmful": 8,
+  "frac_q_with_spurious": [
+    0.025,
+    0.0125,
+    0.03958333333333333
+  ],
+  "harmful_SCR_of_spurious": [
+    0.5333333333333333,
+    0.2857142857142857,
+    0.75
+  ],
+  "conflict_rate_within_populated": [
+    0.8131944444444443,
+    0.5533258928571427,
+    0.9728395061728397
+  ],
+  "facet_coverage_confound": [
+    0.5270833333333333,
+    0.2857142857142857,
+    0.73828125
+  ],
+  "product_type_harmful": 6,
+  "product_type_clean_harm_singleclass": 4,
+  "product_type_harm_multiclass_artifact": 2,
+  "per_slot": {
+    "color": {
+      "emitted": 86,
+      "spurious": 4,
+      "harmful": 1
+    },
+    "material": {
+      "emitted": 61,
+      "spurious": 1,
+      "harmful": 1
+    },
+    "product_type": {
+      "emitted": 361,
+      "spurious": 6,
+      "harmful": 6
+    },
+    "style": {
+      "emitted": 298,
+      "spurious": 4,
+      "harmful": 0
+    }
+  }
+}

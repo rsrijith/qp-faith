@@ -1,0 +1,8 @@
+{
+  "model": "gpt-5.2",
+  "source": "probe",
+  "mode": "expansion",
+  "n": 1162,
+  "input_tokens": 145539,
+  "output_tokens": 49458
+}

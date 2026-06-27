@@ -1,0 +1,29 @@
+{
+  "n_queries": 480,
+  "n_pairs": 9228,
+  "brand_pop": 0.9734503684438665,
+  "color_pop": 0.7250758560901603,
+  "label_dist": {
+    "Exact": 5836,
+    "Substitute": 2044,
+    "Irrelevant": 1134,
+    "Complement": 214
+  },
+  "sample_queries": [
+    "bathroom fan quiet",
+    "plant trays without holes",
+    "baby gate with door",
+    "#10 envelopes without security tint",
+    "pencils",
+    "the all american rejects shirt",
+    "a trapezoid is not a dinosaur",
+    "-it's not love i'm drunk tshirt",
+    "dr axe collagen capsules",
+    "heres the skinny probiotic",
+    "probiotics for women",
+    "alex and ani bracelet",
+    "prek school supplies",
+    "tv mount 40 rca",
+    "color changing lights"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "run": "expansion-pilot",
+  "model": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+  "revision": "c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed",
+  "quant": "4bit",
+  "dataset": "WANDS",
+  "n_queries": 480,
+  "decoding": "greedy(temp=0)",
+  "seed": 13,
+  "mode": "expansion",
+  "plans_sha": "2e81b496363cd5e1",
+  "scored_sha": "05316ab0c060b7df",
+  "dollars_spent": 0.0
+}

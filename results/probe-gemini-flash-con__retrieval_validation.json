@@ -1,0 +1,16 @@
+{
+  "tag": "probe-gemini-flash-con",
+  "k": 100,
+  "n_entity": 3,
+  "n_typed": 0,
+  "mean_recall_drop_real_retrieval": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "mean_label_exclusion": [
+    NaN,
+    NaN,
+    NaN
+  ]
+}

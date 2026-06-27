@@ -1,0 +1,70 @@
+{
+  "model": "llama4-con",
+  "n_queries": 480,
+  "harm_slots": [
+    "color",
+    "material",
+    "style"
+  ],
+  "plan_slots_emitted": 1111,
+  "total_spurious": 427,
+  "frac_q_with_spurious": [
+    0.42083333333333334,
+    0.3770833333333333,
+    0.46458333333333335
+  ],
+  "spurious_per_query": [
+    0.8895833333333333,
+    0.7811979166666667,
+    1.0042187499999997
+  ],
+  "harmful_SCR_of_all_spurious": [
+    0.6370023419203747,
+    0.5925058548009368,
+    0.6814988290398126
+  ],
+  "harmful_SCR_when_facet_populated": [
+    0.9577464788732394,
+    0.9330985915492958,
+    0.9788732394366197
+  ],
+  "facet_coverage_confound": [
+    0.5248021842346948,
+    0.4815439677500463,
+    0.5677912434149393
+  ],
+  "conflict_rate_within_populated": [
+    0.8243029648678073,
+    0.7864129280443403,
+    0.8606685141367018
+  ],
+  "exact_recall_loss_at_plan": [
+    0.6004042501040178,
+    0.562158988971258,
+    0.6397708296944197
+  ],
+  "n_spurious_with_populated_facet": 284,
+  "seed": 13,
+  "per_slot": {
+    "color": {
+      "emitted": 252,
+      "spurious": 105,
+      "harmful": 56
+    },
+    "material": {
+      "emitted": 196,
+      "spurious": 128,
+      "harmful": 62
+    },
+    "product_type": {
+      "emitted": 367,
+      "spurious": 89,
+      "harmful": 84
+    },
+    "style": {
+      "emitted": 296,
+      "spurious": 105,
+      "harmful": 70
+    }
+  }
+}

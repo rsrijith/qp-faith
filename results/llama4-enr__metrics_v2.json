@@ -1,0 +1,54 @@
+{
+  "tag": "llama4-enr",
+  "n_queries": 480,
+  "parse_fail": 125,
+  "parse_fail_rate": 0.2604,
+  "total_slots": 434,
+  "total_spurious": 143,
+  "total_harmful": 106,
+  "frac_q_with_spurious": [
+    0.21041666666666667,
+    0.175,
+    0.24791666666666667
+  ],
+  "harmful_SCR_of_spurious": [
+    0.7412587412587412,
+    0.6578857245854363,
+    0.8275932730356133
+  ],
+  "conflict_rate_within_populated": [
+    0.8114449173880758,
+    0.7426190178511822,
+    0.8837956878000056
+  ],
+  "facet_coverage_confound": [
+    0.7444753677084425,
+    0.6652203365431126,
+    0.8222985048200621
+  ],
+  "product_type_harmful": 73,
+  "product_type_clean_harm_singleclass": 18,
+  "product_type_harm_multiclass_artifact": 55,
+  "per_slot": {
+    "color": {
+      "emitted": 54,
+      "spurious": 15,
+      "harmful": 4
+    },
+    "material": {
+      "emitted": 54,
+      "spurious": 29,
+      "harmful": 13
+    },
+    "product_type": {
+      "emitted": 271,
+      "spurious": 75,
+      "harmful": 73
+    },
+    "style": {
+      "emitted": 55,
+      "spurious": 24,
+      "harmful": 16
+    }
+  }
+}

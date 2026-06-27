@@ -1,0 +1,8 @@
+{
+  "model": "claude-sonnet-4-6",
+  "source": "probe",
+  "mode": "exp_optional",
+  "n": 73,
+  "input_tokens": 11251,
+  "output_tokens": 3239
+}

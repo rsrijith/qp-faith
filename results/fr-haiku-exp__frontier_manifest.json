@@ -1,0 +1,8 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "source": "wands",
+  "mode": "expansion",
+  "n": 480,
+  "input_tokens": 69599,
+  "output_tokens": 23695
+}

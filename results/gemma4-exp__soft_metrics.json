@@ -1,0 +1,11 @@
+{
+  "tag": "gemma4-exp",
+  "n_queries": 472,
+  "lambda_": 0.5,
+  "mean_ndcg10_drop_soft": 0.018334194275498168,
+  "ci": [
+    0.007287328826978478,
+    0.02905311487125881
+  ],
+  "frac_queries_with_any_drop": 0.2563559322033898
+}

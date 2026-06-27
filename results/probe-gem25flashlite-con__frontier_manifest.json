@@ -1,0 +1,8 @@
+{
+  "model": "gemini-2.5-flash-lite",
+  "source": "probe",
+  "mode": "conservative",
+  "n": 73,
+  "input_tokens": 7725,
+  "output_tokens": 1161
+}

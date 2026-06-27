@@ -1,0 +1,22 @@
+{
+  "tag": "probe-gemma4-con",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.3548387096774194,
+    0.1935483870967742,
+    0.5483870967741935
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.7243055489835001,
+    0.5251138084576032,
+    0.9005234153975722
+  ],
+  "A_n_typed": 11,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

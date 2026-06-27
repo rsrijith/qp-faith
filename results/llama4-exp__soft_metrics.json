@@ -1,0 +1,11 @@
+{
+  "tag": "llama4-exp",
+  "n_queries": 472,
+  "lambda_": 0.5,
+  "mean_ndcg10_drop_soft": 0.02477472441685375,
+  "ci": [
+    0.010858119277804373,
+    0.03874871884245294
+  ],
+  "frac_queries_with_any_drop": 0.336864406779661
+}

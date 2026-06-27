@@ -1,0 +1,54 @@
+{
+  "tag": "fr-haiku-exp",
+  "n_queries": 480,
+  "parse_fail": 0,
+  "parse_fail_rate": 0.0,
+  "total_slots": 1271,
+  "total_spurious": 600,
+  "total_harmful": 336,
+  "frac_q_with_spurious": [
+    0.8541666666666666,
+    0.8208333333333333,
+    0.8854166666666666
+  ],
+  "harmful_SCR_of_spurious": [
+    0.56,
+    0.515850710945649,
+    0.6035990179499637
+  ],
+  "conflict_rate_within_populated": [
+    0.6950363017570281,
+    0.6553606363655512,
+    0.7336531030304502
+  ],
+  "facet_coverage_confound": [
+    0.4657054382689368,
+    0.4276070058130985,
+    0.5025606207960869
+  ],
+  "product_type_harmful": 42,
+  "product_type_clean_harm_singleclass": 9,
+  "product_type_harm_multiclass_artifact": 33,
+  "per_slot": {
+    "color": {
+      "emitted": 99,
+      "spurious": 47,
+      "harmful": 24
+    },
+    "material": {
+      "emitted": 318,
+      "spurious": 251,
+      "harmful": 112
+    },
+    "product_type": {
+      "emitted": 379,
+      "spurious": 44,
+      "harmful": 42
+    },
+    "style": {
+      "emitted": 475,
+      "spurious": 258,
+      "harmful": 158
+    }
+  }
+}

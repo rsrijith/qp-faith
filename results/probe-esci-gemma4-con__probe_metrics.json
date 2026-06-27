@@ -1,0 +1,22 @@
+{
+  "tag": "probe-esci-gemma4-con",
+  "n_A": 1162,
+  "n_B": 0,
+  "A_product_type_forced_rate": [
+    0.5223752151462995,
+    0.4939759036144578,
+    0.5499139414802066
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "A_n_typed": 607,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    NaN,
+    NaN,
+    NaN
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "probe-haiku-con",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.9354838709677419,
+    0.8387096774193549,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8757351021585866,
+    0.7927709781181037,
+    0.9457422636794444
+  ],
+  "A_n_typed": 29,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

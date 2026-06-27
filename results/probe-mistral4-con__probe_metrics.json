@@ -1,0 +1,22 @@
+{
+  "tag": "probe-mistral4-con",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.967741935483871,
+    0.9032258064516129,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8858201498071469,
+    0.8003296739077438,
+    0.9581449200989489
+  ],
+  "A_n_typed": 30,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

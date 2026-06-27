@@ -1,0 +1,7 @@
+{
+ "tag": "probe-gemma4-exp",
+ "n": 55,
+ "rerank_norfilter_recall": 0.811028225507784,
+ "rerank_hardfilter_recall": 0.4256488380607023,
+ "rerank_harm": 0.3853793874470815
+}

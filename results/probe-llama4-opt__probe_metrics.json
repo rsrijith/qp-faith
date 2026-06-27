@@ -1,0 +1,22 @@
+{
+  "tag": "probe-llama4-opt",
+  "n_A": 31,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.12903225806451613,
+    0.03225806451612903,
+    0.25806451612903225
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8838380524939329,
+    0.7927867383512545,
+    0.9582279148218427
+  ],
+  "A_n_typed": 4,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

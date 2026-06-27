@@ -1,0 +1,22 @@
+{
+  "tag": "probe-esci-llama4-con",
+  "n_A": 1162,
+  "n_B": 0,
+  "A_product_type_forced_rate": [
+    0.9027538726333907,
+    0.8846815834767642,
+    0.9182444061962134
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "A_n_typed": 1049,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    NaN,
+    NaN,
+    NaN
+  ]
+}

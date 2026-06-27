@@ -1,0 +1,22 @@
+{
+  "tag": "probe-gpt4o-con",
+  "n_A": 43,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.8837209302325582,
+    0.7906976744186046,
+    0.9767441860465116
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.8861447435542799,
+    0.8170951940544555,
+    0.9452590983135156
+  ],
+  "A_n_typed": 38,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

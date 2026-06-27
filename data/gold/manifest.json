@@ -1,0 +1,11 @@
+{
+  "n_queries": 480,
+  "coverage": {
+    "color": "233/480 (49%)",
+    "material": "113/480 (24%)",
+    "style": "87/480 (18%)",
+    "product_type": "419/480 (87%)"
+  },
+  "n_packet_rows": 852,
+  "note": "auto reference; author verifies verification_packet.csv (keep/correct) to finalize the released gold"
+}

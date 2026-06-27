@@ -1,0 +1,7 @@
+{
+ "tag": "probe-llama4-exp",
+ "n": 55,
+ "rerank_norfilter_recall": 0.811028225507784,
+ "rerank_hardfilter_recall": 0.49264849068353034,
+ "rerank_harm": 0.3183797348242535
+}

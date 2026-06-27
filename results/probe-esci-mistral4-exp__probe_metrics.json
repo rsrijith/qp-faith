@@ -1,0 +1,22 @@
+{
+  "tag": "probe-esci-mistral4-exp",
+  "n_A": 1162,
+  "n_B": 0,
+  "A_product_type_forced_rate": [
+    0.9879518072289156,
+    0.9810671256454389,
+    0.9939759036144579
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "A_n_typed": 1148,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    NaN,
+    NaN,
+    NaN
+  ]
+}

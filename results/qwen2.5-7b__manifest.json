@@ -1,0 +1,14 @@
+{
+  "run": "conservative-pilot",
+  "model": "mlx-community/Qwen2.5-7B-Instruct-bf16",
+  "revision": "349a12f0e5f131c3914e3a66e78a3db71e9f9527",
+  "quant": "bf16",
+  "dataset": "WANDS",
+  "n_queries": 480,
+  "decoding": "greedy(temp=0)",
+  "seed": 13,
+  "plans_sha": "b659ef04f8465e41",
+  "scored_sha": "cf277f185860db6a",
+  "dollars_spent": 0.0,
+  "git": "303da5e"
+}
