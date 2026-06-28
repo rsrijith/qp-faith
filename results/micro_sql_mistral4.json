@@ -1,0 +1,282 @@
+{
+ "model": "mlx-community/Mistral-7B-Instruct-v0.3-4bit",
+ "n": 55,
+ "category_equality_spurious_rate": 0.0,
+ "rows": [
+  {
+   "q": "dinosaur",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "rooster",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "butterfly",
+   "where": "WHERE clause could be used to narrow the catalog to products with 'butterfly' in their title or category:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "bees",
+   "where": "WHERE clause could look like this:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "queen",
+   "where": "WHERE clause could be used to narrow down the catalog to potentially relevant products:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "sunflowers",
+   "where": "WHERE clause could be used to narrow the catalog to products related to sunflowers:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "simple",
+   "where": "WHERE clause:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "flamingo",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "lily",
+   "where": "WHERE clause would be a good starting point:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "elephant",
+   "where": "WHERE clause would be a good starting point:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "bear",
+   "where": "WHERE clause would cover all these possibilities:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "bulb",
+   "where": "WHERE clause would be a good starting point:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "fish",
+   "where": "WHERE title LIKE '%fish%' OR description LIKE '%fish%' OR category LIKE '%fish%' OR brand LIKE '%fish%' OR material LIKE '%fish%'",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "birds",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "owls",
+   "where": "WHERE clause to narrow the catalog to the most relevant products based on the shopper's search for 'owls' could be:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "roses",
+   "where": "WHERE clause could be used to narrow down the catalog to potentially relevant products:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "dinosaurs",
+   "where": "WHERE clause could be used to narrow the catalog to products related to dinosaurs:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "pineapples",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "daisy",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "starfish",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "lotus",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "vine",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "trunk",
+   "where": "WHERE clause that could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "cuisine",
+   "where": "WHERE clause that could help narrow down the catalog:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "ornamental",
+   "where": "WHERE clause that could be used as a starting point:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "climber",
+   "where": "WHERE clause that takes these assumptions into account:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "root",
+   "where": "WHERE clauses, each targeting a different aspect:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "giant",
+   "where": "WHERE clauses to cover these possibilities:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "blade",
+   "where": "WHERE clause:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "aloe",
+   "where": "WHERE clauses, each with a different assumption:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "feeder",
+   "where": "WHERE clause that could be used as a starting point:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "breakfast",
+   "where": "WHERE clause could be used to narrow the catalog to potentially relevant products for a breakfast search:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "lunch",
+   "where": "WHERE clause that filters the 'products' table based on the 'category' column containing the word 'lunch' or a related term:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "holly",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "succulent",
+   "where": "WHERE title LIKE '%succulent%'",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "arbor",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "spider",
+   "where": "WHERE clause would cover all these possibilities:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "triceratops",
+   "where": "Assuming that 'triceratops' is a keyword related to a product's title, category, or brand, and considering that the products table doesn't have a specific field for dinosaur-related items, we can make some educated guesses:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "sticker",
+   "where": "WHERE clause:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "dinner",
+   "where": "WHERE clause that could help narrow down the results:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "crab",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "flamingos",
+   "where": "WHERE clause could be used to narrow the catalog:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "frog",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "fruit",
+   "where": "WHERE clause that combines these two factors:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "foliage",
+   "where": "WHERE clause that could help narrow the catalog:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "octopus",
+   "where": "WHERE clause could be used:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "orchids",
+   "where": "WHERE clause could be used to narrow the catalog to products related to orchids:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "wing",
+   "where": "WHERE clause would be a good starting point:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "flour",
+   "where": "WHERE clause would be a good starting point:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "noodle",
+   "where": "WHERE clause could be used to narrow the catalog to potentially relevant products:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "stump",
+   "where": "WHERE clause would cover these possibilities:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "cereal",
+   "where": "WHERE clause could be used to narrow down the catalog to cereal products:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "condiment",
+   "where": "WHERE clause:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "casserole",
+   "where": "WHERE clause could look like this:",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "sauce",
+   "where": "WHERE clause could be used to narrow the catalog to the most relevant products for a shopper searching for 'sauce':",
+   "spurious_category_equality": false
+  }
+ ]
+}

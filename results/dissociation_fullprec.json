@@ -1,0 +1,9 @@
+{
+  "model": "Qwen2.5-7B-Instruct-bf16",
+  "n": 55,
+  "forced_rate": {
+    "expansion": 1.0,
+    "nullable": 0.982,
+    "omit_instruction": 0.091
+  }
+}

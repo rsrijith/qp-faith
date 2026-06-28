@@ -1,0 +1,36 @@
+{
+  "n_motifs": 25,
+  "motifs": [
+    "wedding",
+    "birthday",
+    "halloween",
+    "christmas",
+    "graduation",
+    "anniversary",
+    "camping",
+    "yoga",
+    "hiking",
+    "gaming",
+    "running",
+    "fishing",
+    "baby shower",
+    "retirement",
+    "tailgate",
+    "space",
+    "ocean",
+    "superhero",
+    "unicorn",
+    "tropical",
+    "western",
+    "nautical",
+    "vintage",
+    "minimalist",
+    "industrial"
+  ],
+  "forced_rate": {
+    "qwen4": 1.0,
+    "llama4": 1.0,
+    "mistral4": 1.0,
+    "gemma4": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "dense_exclusion_mean": 0.947361843845221,
+  "dense_exclusion_ci": [
+    0.9149073268625867,
+    0.973389598850873
+  ],
+  "dense_relset_class_span_median": 7
+}

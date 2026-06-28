@@ -1,0 +1,282 @@
+{
+ "model": "mlx-community/gemma-2-9b-it-4bit",
+ "n": 55,
+ "category_equality_spurious_rate": 0.0,
+ "rows": [
+  {
+   "q": "dinosaur",
+   "where": "WHERE title LIKE '%dinosaur%' OR description LIKE '%dinosaur%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "rooster",
+   "where": "WHERE title LIKE '%rooster%' OR description LIKE '%rooster%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "butterfly",
+   "where": "WHERE title LIKE '%butterfly%' OR description LIKE '%butterfly%' OR brand LIKE '%butterfly%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "bees",
+   "where": "WHERE title LIKE '%bees%' OR description LIKE '%bees%' OR brand LIKE '%bees%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "queen",
+   "where": "WHERE title LIKE '%queen%' OR description LIKE '%queen%' OR category LIKE '%queen%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "sunflowers",
+   "where": "WHERE title LIKE '%sunflowers%' OR description LIKE '%sunflowers%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "simple",
+   "where": "WHERE title LIKE '%simple%' OR description LIKE '%simple%' OR category LIKE '%simple%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "flamingo",
+   "where": "WHERE title LIKE '%flamingo%' OR description LIKE '%flamingo%' OR color LIKE '%flamingo%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "lily",
+   "where": "WHERE title LIKE '%lily%' OR description LIKE '%lily%' OR brand LIKE '%lily%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "elephant",
+   "where": "WHERE title LIKE '%elephant%' OR description LIKE '%elephant%' OR brand LIKE '%elephant%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "bear",
+   "where": "WHERE title LIKE '%bear%' OR description LIKE '%bear%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "bulb",
+   "where": "WHERE title LIKE '%bulb%' OR description LIKE '%bulb%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "fish",
+   "where": "WHERE title LIKE '%fish%' OR description LIKE '%fish%' OR category LIKE '%fish%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "birds",
+   "where": "WHERE title LIKE '%birds%' OR description LIKE '%birds%' OR category LIKE '%birds%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "owls",
+   "where": "WHERE title LIKE '%owls%' OR description LIKE '%owls%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "roses",
+   "where": "WHERE title LIKE '%roses%' OR description LIKE '%roses%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "dinosaurs",
+   "where": "WHERE title LIKE '%dinosaurs%' OR description LIKE '%dinosaurs%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "pineapples",
+   "where": "WHERE title LIKE '%pineapples%' OR description LIKE '%pineapples%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "daisy",
+   "where": "WHERE title LIKE '%daisy%' OR description LIKE '%daisy%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "starfish",
+   "where": "WHERE title LIKE '%starfish%' OR description LIKE '%starfish%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "lotus",
+   "where": "WHERE title LIKE '%lotus%' OR description LIKE '%lotus%' OR brand LIKE '%lotus%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "vine",
+   "where": "WHERE title LIKE '%vine%' OR description LIKE '%vine%' OR category LIKE '%vine%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "trunk",
+   "where": "WHERE title LIKE '%trunk%' OR description LIKE '%trunk%' OR category LIKE '%trunk%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "cuisine",
+   "where": "WHERE title LIKE '%cuisine%' OR description LIKE '%cuisine%' OR category LIKE '%cuisine%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "ornamental",
+   "where": "WHERE title LIKE '%ornamental%' OR description LIKE '%ornamental%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "climber",
+   "where": "WHERE title LIKE '%climber%' OR description LIKE '%climber%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "root",
+   "where": "WHERE title LIKE '%root%' OR description LIKE '%root%' OR category LIKE '%root%' OR brand LIKE '%root%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "giant",
+   "where": "WHERE title LIKE '%giant%' OR description LIKE '%giant%' OR brand LIKE '%giant%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "blade",
+   "where": "WHERE title LIKE '%blade%' OR description LIKE '%blade%' OR category LIKE '%blade%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "aloe",
+   "where": "WHERE title LIKE '%aloe%' OR description LIKE '%aloe%' OR category LIKE '%aloe%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "feeder",
+   "where": "WHERE title LIKE '%feeder%' OR description LIKE '%feeder%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "breakfast",
+   "where": "WHERE title LIKE '%breakfast%' OR description LIKE '%breakfast%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "lunch",
+   "where": "WHERE title LIKE '%lunch%' OR description LIKE '%lunch%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "holly",
+   "where": "WHERE title LIKE '%holly%' OR description LIKE '%holly%' OR brand LIKE '%holly%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "succulent",
+   "where": "WHERE title LIKE '%succulent%' OR description LIKE '%succulent%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "arbor",
+   "where": "WHERE title LIKE '%arbor%' OR description LIKE '%arbor%' OR brand LIKE '%arbor%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "spider",
+   "where": "WHERE title LIKE '%spider%' OR description LIKE '%spider%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "triceratops",
+   "where": "WHERE title LIKE '%triceratops%' OR description LIKE '%triceratops%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "sticker",
+   "where": "WHERE title LIKE '%sticker%' OR description LIKE '%sticker%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "dinner",
+   "where": "WHERE title LIKE '%dinner%' OR description LIKE '%dinner%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "crab",
+   "where": "WHERE title LIKE '%crab%' OR description LIKE '%crab%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "flamingos",
+   "where": "WHERE title LIKE '%flamingos%' OR description LIKE '%flamingos%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "frog",
+   "where": "WHERE title LIKE '%frog%' OR description LIKE '%frog%' OR brand LIKE '%frog%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "fruit",
+   "where": "WHERE title LIKE '%fruit%' OR description LIKE '%fruit%' OR category LIKE '%fruit%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "foliage",
+   "where": "WHERE title LIKE '%foliage%' OR description LIKE '%foliage%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "octopus",
+   "where": "WHERE title LIKE '%octopus%' OR description LIKE '%octopus%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "orchids",
+   "where": "WHERE title LIKE '%orchids%' OR description LIKE '%orchids%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "wing",
+   "where": "WHERE title LIKE '%wing%' OR description LIKE '%wing%' OR category LIKE '%wing%'  ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "flour",
+   "where": "WHERE title LIKE '%flour%' OR description LIKE '%flour%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "noodle",
+   "where": "WHERE title LIKE '%noodle%' OR description LIKE '%noodle%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "stump",
+   "where": "WHERE title LIKE '%stump%' OR description LIKE '%stump%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "cereal",
+   "where": "WHERE title LIKE '%cereal%' OR description LIKE '%cereal%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "condiment",
+   "where": "WHERE title LIKE '%condiment%' OR description LIKE '%condiment%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "casserole",
+   "where": "WHERE title LIKE '%casserole%' OR description LIKE '%casserole%' ",
+   "spurious_category_equality": false
+  },
+  {
+   "q": "sauce",
+   "where": "WHERE title LIKE '%sauce%' OR description LIKE '%sauce%' ",
+   "spurious_category_equality": false
+  }
+ ]
+}

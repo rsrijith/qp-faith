@@ -1,0 +1,394 @@
+{
+  "model": "Qwen2.5-7B-Instruct-4bit",
+  "n": 55,
+  "category_equality_spurious_rate": 0.018,
+  "any_category_predicate_rate_incl_faithful_LIKE": 0.982,
+  "multi_predicate_rate": 1.0,
+  "rows": [
+    {
+      "q": "dinosaur",
+      "where": "WHERE title LIKE '%dinosaur%' OR description LIKE '%dinosaur%' OR category LIKE '%dinosaur%' OR color LIKE '%dinosaur%' OR material LIKE '%dinosaur%' OR brand LIKE '%dinosaur%' OR price LIKE '%dinosaur%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "rooster",
+      "where": "WHERE title LIKE '%rooster%' OR description LIKE '%rooster%' OR category LIKE '%rooster%' OR color LIKE '%rooster%' OR material LIKE '%rooster%' OR brand LIKE '%rooster%' OR price LIKE '%rooster%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "butterfly",
+      "where": "WHERE title LIKE '%butterfly%' OR description LIKE '%butterfly%' OR category LIKE '%butterfly%' OR color LIKE '%butterfly%' OR material LIKE '%butterfly%' OR brand LIKE '%butterfly%' OR price LIKE '%butterfly%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "bees",
+      "where": "WHERE title LIKE '%bees%' OR description LIKE '%bees%' OR category LIKE '%bees%' OR color LIKE '%bees%' OR material LIKE '%bees%' OR brand LIKE '%bees%' OR price LIKE '%bees%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "queen",
+      "where": "WHERE title LIKE '%queen%' OR description LIKE '%queen%' OR category LIKE '%queen%' OR color LIKE '%queen%' OR material LIKE '%queen%' OR brand LIKE '%queen%' OR price LIKE '%queen%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "sunflowers",
+      "where": "WHERE title LIKE '%sunflowers%' OR description LIKE '%sunflowers%' OR category LIKE '%sunflowers%' OR color LIKE '%sunflowers%' OR material LIKE '%sunflowers%' OR brand LIKE '%sunflowers%' OR price LIKE '%sunflowers%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "simple",
+      "where": "WHERE title LIKE '%simple%' OR description LIKE '%simple%' OR category LIKE '%simple%' OR color LIKE '%simple%' OR material LIKE '%simple%' OR brand LIKE '%simple%' OR price LIKE '%simple%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "flamingo",
+      "where": "WHERE title LIKE '%flamingo%' OR description LIKE '%flamingo%' OR category LIKE '%flamingo%' OR color LIKE '%flamingo%' OR material LIKE '%flamingo%' OR brand LIKE '%flamingo%' AND price > 0",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "lily",
+      "where": "WHERE title LIKE '%lily%' OR description LIKE '%lily%' OR category LIKE '%lily%' OR color LIKE '%lily%' OR material LIKE '%lily%' OR brand LIKE '%lily%' OR price LIKE '%lily%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "elephant",
+      "where": "WHERE title LIKE '%elephant%' OR description LIKE '%elephant%' OR category LIKE '%elephant%' OR brand LIKE '%elephant%' OR color LIKE '%elephant%' OR material LIKE '%elephant%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "bear",
+      "where": "WHERE title LIKE '%bear%' OR description LIKE '%bear%' OR category LIKE '%bear%' OR color LIKE '%bear%' OR material LIKE '%bear%' OR brand LIKE '%bear%' OR price LIKE '%bear%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "bulb",
+      "where": "WHERE title LIKE '%bulb%' OR description LIKE '%bulb%' OR category LIKE '%bulb%' OR color LIKE '%bulb%' OR material LIKE '%bulb%' OR brand LIKE '%bulb%' AND price > 0",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "fish",
+      "where": "WHERE title LIKE '%fish%' OR description LIKE '%fish%' OR category LIKE '%fish%' OR color LIKE '%fish%' OR material LIKE '%fish%' OR brand LIKE '%fish%' OR price LIKE '%fish%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "birds",
+      "where": "WHERE title LIKE '%birds%' OR description LIKE '%birds%' OR category LIKE '%birds%' OR brand LIKE '%birds%' OR color LIKE '%birds%' OR material LIKE '%birds%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "owls",
+      "where": "WHERE title LIKE '%owls%' OR description LIKE '%owls%' OR category LIKE '%owls%' OR color LIKE '%owls%' OR material LIKE '%owls%' OR brand LIKE '%owls%' OR price LIKE '%owls%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "roses",
+      "where": "WHERE title LIKE '%roses%' OR description LIKE '%roses%' OR category LIKE '%roses%' OR color LIKE '%roses%' OR material LIKE '%roses%' OR brand LIKE '%roses%' OR price LIKE '%roses%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "dinosaurs",
+      "where": "WHERE title LIKE '%dinosaur%' OR description LIKE '%dinosaur%' OR category LIKE '%dinosaur%' OR brand LIKE '%dinosaur%' OR color LIKE '%dinosaur%' OR material LIKE '%dinosaur%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "pineapples",
+      "where": "WHERE category = 'Fruits' AND title LIKE '%pineapple%' OR description LIKE '%pineapple%' OR brand LIKE '%pineapple%' OR color LIKE '%pineapple%' OR material LIKE '%pineapple%'",
+      "category_predicate": false,
+      "spurious_category_equality": true,
+      "n_predicates": 5
+    },
+    {
+      "q": "daisy",
+      "where": "WHERE title LIKE '%daisy%' OR description LIKE '%daisy%' OR category LIKE '%daisy%' OR color LIKE '%daisy%' OR material LIKE '%daisy%' OR brand LIKE '%daisy%' OR price LIKE '%daisy%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "starfish",
+      "where": "WHERE title LIKE '%starfish%' OR description LIKE '%starfish%' OR category LIKE '%starfish%' OR color LIKE '%starfish%' OR material LIKE '%starfish%' OR brand LIKE '%starfish%' OR price LIKE '%starfish%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "lotus",
+      "where": "WHERE title LIKE '%lotus%' OR description LIKE '%lotus%' OR category LIKE '%lotus%' OR color LIKE '%lotus%' OR material LIKE '%lotus%' OR brand LIKE '%lotus%' OR price LIKE '%lotus%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "vine",
+      "where": "WHERE title LIKE '%vine%' OR description LIKE '%vine%' OR category LIKE '%vine%' OR color LIKE '%vine%' OR material LIKE '%vine%' OR brand LIKE '%vine%' OR price LIKE '%vine%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "trunk",
+      "where": "WHERE title LIKE '%trunk%' OR description LIKE '%trunk%' OR category LIKE '%trunk%' OR color LIKE '%trunk%' OR material LIKE '%trunk%' OR brand LIKE '%trunk%' OR price LIKE '%trunk%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "cuisine",
+      "where": "WHERE category LIKE '%cuisine%' OR title LIKE '%cuisine%' OR description LIKE '%cuisine%' OR brand LIKE '%cuisine%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 4
+    },
+    {
+      "q": "ornamental",
+      "where": "WHERE title LIKE '%ornamental%' OR description LIKE '%ornamental%' OR category LIKE '%ornamental%' OR color LIKE '%ornamental%' OR material LIKE '%ornamental%' OR brand LIKE '%ornamental%' OR price LIKE '%ornamental%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "climber",
+      "where": "WHERE title LIKE '%climber%' OR description LIKE '%climber%' OR category LIKE '%climber%' OR color LIKE '%climber%' OR material LIKE '%climber%' OR brand LIKE '%climber%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "root",
+      "where": "WHERE title LIKE '%root%' OR description LIKE '%root%' OR category LIKE '%root%' OR color LIKE '%root%' OR material LIKE '%root%' OR brand LIKE '%root%' OR price LIKE '%root%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "giant",
+      "where": "WHERE title LIKE '%giant%' OR description LIKE '%giant%' OR brand LIKE '%giant%' OR category LIKE '%giant%' OR color LIKE '%giant%' OR material LIKE '%giant%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "blade",
+      "where": "WHERE title LIKE '%blade%' OR description LIKE '%blade%' OR category LIKE '%blade%' OR color LIKE '%blade%' OR material LIKE '%blade%' OR brand LIKE '%blade%' OR price LIKE '%blade%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "aloe",
+      "where": "WHERE title LIKE '%aloe%' OR description LIKE '%aloe%' OR category LIKE '%aloe%' OR color LIKE '%aloe%' OR material LIKE '%aloe%' OR brand LIKE '%aloe%' OR price LIKE '%aloe%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "feeder",
+      "where": "WHERE title LIKE '%feeder%' OR description LIKE '%feeder%' OR category LIKE '%feeder%' OR color LIKE '%feeder%' OR material LIKE '%feeder%' OR brand LIKE '%feeder%' OR price LIKE '%feeder%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "breakfast",
+      "where": "WHERE title LIKE '%breakfast%' OR description LIKE '%breakfast%' OR category LIKE '%breakfast%' OR color LIKE '%breakfast%' OR material LIKE '%breakfast%' OR brand LIKE '%breakfast%' OR price LIKE '%breakfast%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "lunch",
+      "where": "WHERE title LIKE '%lunch%' OR description LIKE '%lunch%' OR category LIKE '%lunch%' OR brand LIKE '%lunch%' OR color LIKE '%lunch%' OR material LIKE '%lunch%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "holly",
+      "where": "WHERE title LIKE '%holly%' OR description LIKE '%holly%' OR category LIKE '%holly%' OR color LIKE '%holly%' OR material LIKE '%holly%' OR brand LIKE '%holly%' OR price LIKE '%holly%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "succulent",
+      "where": "WHERE title LIKE '%succulent%' OR description LIKE '%succulent%' OR category LIKE '%succulent%' OR color LIKE '%succulent%' OR material LIKE '%succulent%' OR brand LIKE '%succulent%' AND price > 0",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "arbor",
+      "where": "WHERE title LIKE '%arbor%' OR description LIKE '%arbor%' OR category LIKE '%arbor%' OR color LIKE '%arbor%' OR material LIKE '%arbor%' OR brand LIKE '%arbor%' OR price LIKE '%arbor%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "spider",
+      "where": "WHERE title LIKE '%spider%' OR description LIKE '%spider%' OR category LIKE '%spider%' OR color LIKE '%spider%' OR material LIKE '%spider%' OR brand LIKE '%spider%' OR price LIKE '%spider%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "triceratops",
+      "where": "WHERE title LIKE '%triceratops%' OR description LIKE '%triceratops%' OR category LIKE '%triceratops%' OR color LIKE '%triceratops%' OR material LIKE '%triceratops%' OR brand LIKE '%triceratops%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "sticker",
+      "where": "WHERE title LIKE '%sticker%' OR description LIKE '%sticker%' OR category LIKE '%sticker%' OR color LIKE '%sticker%' OR material LIKE '%sticker%' OR brand LIKE '%sticker%' OR price LIKE '%sticker%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "dinner",
+      "where": "WHERE title LIKE '%dinner%' OR description LIKE '%dinner%' OR category LIKE '%dinner%' OR color LIKE '%dinner%' OR material LIKE '%dinner%' OR brand LIKE '%dinner%' AND price > 0",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "crab",
+      "where": "WHERE title LIKE '%crab%' OR description LIKE '%crab%' OR category LIKE '%crab%' OR color LIKE '%crab%' OR material LIKE '%crab%' OR brand LIKE '%crab%' OR price LIKE '%crab%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "flamingos",
+      "where": "WHERE title LIKE '%flamingos%' OR description LIKE '%flamingos%' OR category LIKE '%flamingos%' OR color LIKE '%flamingos%' OR material LIKE '%flamingos%' OR brand LIKE '%flamingos%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "frog",
+      "where": "WHERE title LIKE '%frog%' OR description LIKE '%frog%' OR category LIKE '%frog%' OR color LIKE '%frog%' OR material LIKE '%frog%' OR brand LIKE '%frog%' OR price LIKE '%frog%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "fruit",
+      "where": "WHERE category LIKE '%fruit%' OR title LIKE '%fruit%' OR description LIKE '%fruit%' OR brand LIKE '%fruit%' OR color LIKE '%fruit%' OR material LIKE '%fruit%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "foliage",
+      "where": "WHERE title LIKE '%foliage%' OR description LIKE '%foliage%' OR category LIKE '%foliage%' OR color LIKE '%foliage%' OR material LIKE '%foliage%' OR brand LIKE '%foliage%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "octopus",
+      "where": "WHERE title LIKE '%octopus%' OR description LIKE '%octopus%' OR category LIKE '%octopus%' OR color LIKE '%octopus%' OR material LIKE '%octopus%' OR brand LIKE '%octopus%' OR price LIKE '%octopus%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "orchids",
+      "where": "WHERE title LIKE '%orchids%' OR description LIKE '%orchids%' OR category LIKE '%orchids%' OR brand LIKE '%orchids%' OR color LIKE '%orchids%' OR material LIKE '%orchids%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "wing",
+      "where": "WHERE title LIKE '%wing%' OR description LIKE '%wing%' OR category LIKE '%wing%' OR color LIKE '%wing%' OR material LIKE '%wing%' OR brand LIKE '%wing%' OR price LIKE '%wing%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "flour",
+      "where": "WHERE title LIKE '%flour%' OR description LIKE '%flour%' OR category LIKE '%flour%' OR color LIKE '%flour%' OR material LIKE '%flour%' OR brand LIKE '%flour%' AND price > 0",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "noodle",
+      "where": "WHERE title LIKE '%noodle%' OR description LIKE '%noodle%' OR category LIKE '%noodle%' OR brand LIKE '%noodle%' OR color LIKE '%noodle%' OR material LIKE '%noodle%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "stump",
+      "where": "WHERE title LIKE '%stump%' OR description LIKE '%stump%' OR category LIKE '%stump%' OR color LIKE '%stump%' OR material LIKE '%stump%' OR brand LIKE '%stump%' OR price LIKE '%stump%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "cereal",
+      "where": "WHERE category LIKE '%cereal%' OR title LIKE '%cereal%' OR description LIKE '%cereal%' OR brand LIKE '%cereal%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 4
+    },
+    {
+      "q": "condiment",
+      "where": "WHERE title LIKE '%condiment%' OR description LIKE '%condiment%' OR category LIKE '%condiment%' OR brand LIKE '%condiment%' OR color LIKE '%condiment%' OR material LIKE '%condiment%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    },
+    {
+      "q": "casserole",
+      "where": "WHERE title LIKE '%casserole%' OR description LIKE '%casserole%' OR category LIKE '%casserole%' OR color LIKE '%casserole%' OR material LIKE '%casserole%' OR brand LIKE '%casserole%' OR price LIKE '%casserole%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 7
+    },
+    {
+      "q": "sauce",
+      "where": "WHERE title LIKE '%sauce%' OR description LIKE '%sauce%' OR category LIKE '%sauce%' OR brand LIKE '%sauce%' OR color LIKE '%sauce%' OR material LIKE '%sauce%'",
+      "category_predicate": true,
+      "spurious_category_equality": false,
+      "n_predicates": 6
+    }
+  ]
+}
