@@ -1,0 +1,35 @@
+{
+  "design": "trained query-type classifier (MiniLM embeddings + LogisticRegression, class_weight balanced, seed 13); vs the paper's head-noun rule (concrete recall 1.00, precision 0.56).",
+  "n_train": 947,
+  "n_heldout": 129,
+  "cv_5fold": {
+    "typeless_detection": {
+      "precision": 0.479,
+      "recall": 0.742,
+      "f1": 0.582
+    },
+    "concrete_detection": {
+      "precision": 0.958,
+      "recall": 0.878,
+      "f1": 0.916
+    }
+  },
+  "heldout_human_labels": {
+    "typeless_detection": {
+      "precision": 0.622,
+      "recall": 0.988,
+      "f1": 0.763
+    },
+    "concrete_detection": {
+      "precision": 0.5,
+      "recall": 0.02,
+      "f1": 0.039
+    }
+  },
+  "paper_headnoun_baseline": {
+    "concrete_detection": {
+      "recall": 1.0,
+      "precision": 0.56
+    }
+  }
+}

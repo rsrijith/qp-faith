@@ -1,0 +1,359 @@
+{
+  "design": "R1.5 mitigation-by-type on 480 organic WANDS queries; ground truth = auto_reference.explicit.product_type (typed vs type-less); expansion (aggressive) vs omit_instruction (fix); emission-based false-omission / false-application; query-clustered bootstrap; seed 13.",
+  "n_typed": 419,
+  "n_typeless": 61,
+  "by_model": {
+    "qwen4": {
+      "expansion": {
+        "parse_failure_rate": 0.0,
+        "n_parseable_typed": 419,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          0.9672,
+          0.918,
+          1.0
+        ],
+        "false_omission": [
+          0.0024,
+          0.0,
+          0.0072
+        ],
+        "category_recall": [
+          0.9976,
+          0.9928,
+          1.0
+        ],
+        "value_recall": [
+          0.8496,
+          0.8162,
+          0.8831
+        ],
+        "category_precision": 0.8763
+      },
+      "omit_instruction": {
+        "parse_failure_rate": 0.0,
+        "n_parseable_typed": 419,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          0.6066,
+          0.4918,
+          0.7213
+        ],
+        "false_omission": [
+          0.0167,
+          0.0048,
+          0.0286
+        ],
+        "category_recall": [
+          0.9833,
+          0.969,
+          0.9952
+        ],
+        "value_recall": [
+          0.8568,
+          0.8234,
+          0.8902
+        ],
+        "category_precision": 0.9176
+      }
+    },
+    "llama4": {
+      "expansion": {
+        "parse_failure_rate": 0.0104,
+        "n_parseable_typed": 414,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "false_omission": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "category_recall": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "value_recall": [
+          0.6522,
+          0.6063,
+          0.6981
+        ],
+        "category_precision": 0.8716
+      },
+      "omit_instruction": {
+        "parse_failure_rate": 1.0,
+        "n_parseable_typed": 0,
+        "n_parseable_typeless": 0,
+        "false_application": [
+          null,
+          null,
+          null
+        ],
+        "false_omission": [
+          null,
+          null,
+          null
+        ],
+        "category_recall": [
+          null,
+          null,
+          null
+        ],
+        "value_recall": [
+          null,
+          null,
+          null
+        ],
+        "category_precision": null
+      }
+    },
+    "mistral4": {
+      "expansion": {
+        "parse_failure_rate": 0.0479,
+        "n_parseable_typed": 397,
+        "n_parseable_typeless": 60,
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "false_omission": [
+          0.0076,
+          0.0,
+          0.0176
+        ],
+        "category_recall": [
+          0.9924,
+          0.9824,
+          1.0
+        ],
+        "value_recall": [
+          0.4509,
+          0.4005,
+          0.4988
+        ],
+        "category_precision": 0.8678
+      },
+      "omit_instruction": {
+        "parse_failure_rate": 0.0125,
+        "n_parseable_typed": 413,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          0.4918,
+          0.3607,
+          0.607
+        ],
+        "false_omission": [
+          0.1404,
+          0.109,
+          0.1768
+        ],
+        "category_recall": [
+          0.8596,
+          0.8257,
+          0.8935
+        ],
+        "value_recall": [
+          0.3753,
+          0.3269,
+          0.4213
+        ],
+        "category_precision": 0.9221
+      }
+    },
+    "gemma4": {
+      "expansion": {
+        "parse_failure_rate": 0.0042,
+        "n_parseable_typed": 417,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          0.9672,
+          0.918,
+          1.0
+        ],
+        "false_omission": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "category_recall": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "value_recall": [
+          0.4245,
+          0.3789,
+          0.4724
+        ],
+        "category_precision": 0.8761
+      },
+      "omit_instruction": {
+        "parse_failure_rate": 0.0063,
+        "n_parseable_typed": 417,
+        "n_parseable_typeless": 60,
+        "false_application": [
+          0.3167,
+          0.2,
+          0.4333
+        ],
+        "false_omission": [
+          0.2014,
+          0.1631,
+          0.2398
+        ],
+        "category_recall": [
+          0.7986,
+          0.7602,
+          0.8369
+        ],
+        "value_recall": [
+          0.6211,
+          0.5755,
+          0.6667
+        ],
+        "category_precision": 0.946
+      }
+    },
+    "haiku": {
+      "expansion": {
+        "parse_failure_rate": 0.0,
+        "n_parseable_typed": 419,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "false_omission": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "category_recall": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "value_recall": [
+          0.9069,
+          0.8783,
+          0.9332
+        ],
+        "category_precision": 0.8729
+      },
+      "omit_instruction": {
+        "parse_failure_rate": 0.0,
+        "n_parseable_typed": 419,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          0.4426,
+          0.3279,
+          0.5738
+        ],
+        "false_omission": [
+          0.0191,
+          0.0072,
+          0.0334
+        ],
+        "category_recall": [
+          0.9809,
+          0.9666,
+          0.9928
+        ],
+        "value_recall": [
+          0.8759,
+          0.8425,
+          0.9069
+        ],
+        "category_precision": 0.9384
+      }
+    },
+    "sonnet": {
+      "expansion": {
+        "parse_failure_rate": 0.0,
+        "n_parseable_typed": 419,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          0.9836,
+          0.9508,
+          1.0
+        ],
+        "false_omission": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "category_recall": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "value_recall": [
+          0.926,
+          0.8998,
+          0.9499
+        ],
+        "category_precision": 0.8747
+      },
+      "omit_instruction": {
+        "parse_failure_rate": 0.0,
+        "n_parseable_typed": 419,
+        "n_parseable_typeless": 61,
+        "false_application": [
+          0.1803,
+          0.0984,
+          0.2787
+        ],
+        "false_omission": [
+          0.0931,
+          0.0668,
+          0.1217
+        ],
+        "category_recall": [
+          0.9069,
+          0.8783,
+          0.9332
+        ],
+        "value_recall": [
+          0.8186,
+          0.7804,
+          0.8544
+        ],
+        "category_precision": 0.9719
+      }
+    }
+  },
+  "pooled_local": {
+    "expansion": {
+      "false_application_pooled": [
+        0.9835,
+        0.9671,
+        0.9959
+      ],
+      "false_omission_pooled": [
+        0.0024,
+        0.0006,
+        0.0049
+      ],
+      "parse_failure_rate_pooled": 0.0156
+    },
+    "omit_instruction": {
+      "false_application_pooled": [
+        0.4725,
+        0.4011,
+        0.544
+      ],
+      "false_omission_pooled": [
+        0.1193,
+        0.1017,
+        0.1369
+      ],
+      "parse_failure_rate_pooled": 0.2547
+    }
+  }
+}

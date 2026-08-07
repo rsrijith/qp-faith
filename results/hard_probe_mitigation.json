@@ -1,0 +1,140 @@
+{
+  "design": "category false-application on 165 HARD type-less queries (55 misspelled, 55 compositional entity+entity, 55 attribute-modifier), aggressive vs omit-instruction fix. Any product_type emission is a false application.",
+  "by_model": {
+    "qwen4": {
+      "name": "Qwen2.5-7B",
+      "misspelled": {
+        "aggressive": [
+          0.982,
+          0.945,
+          1.0,
+          55
+        ],
+        "fix": [
+          0.4,
+          0.273,
+          0.527,
+          55
+        ]
+      },
+      "compositional_entity": {
+        "aggressive": [
+          0.945,
+          0.873,
+          1.0,
+          55
+        ],
+        "fix": [
+          0.4,
+          0.273,
+          0.527,
+          55
+        ]
+      },
+      "modifier": {
+        "aggressive": [
+          1.0,
+          1.0,
+          1.0,
+          55
+        ],
+        "fix": [
+          0.818,
+          0.709,
+          0.909,
+          55
+        ]
+      }
+    },
+    "haiku": {
+      "name": "Haiku 4.5",
+      "misspelled": {
+        "aggressive": [
+          1.0,
+          1.0,
+          1.0,
+          55
+        ],
+        "fix": [
+          0.455,
+          0.327,
+          0.582,
+          55
+        ]
+      },
+      "compositional_entity": {
+        "aggressive": [
+          0.836,
+          0.727,
+          0.927,
+          55
+        ],
+        "fix": [
+          0.4,
+          0.273,
+          0.527,
+          55
+        ]
+      },
+      "modifier": {
+        "aggressive": [
+          1.0,
+          1.0,
+          1.0,
+          55
+        ],
+        "fix": [
+          0.745,
+          0.618,
+          0.855,
+          55
+        ]
+      }
+    },
+    "gpt4o": {
+      "name": "gpt-4o",
+      "misspelled": {
+        "aggressive": [
+          1.0,
+          1.0,
+          1.0,
+          55
+        ],
+        "fix": [
+          0.0,
+          0.0,
+          0.0,
+          55
+        ]
+      },
+      "compositional_entity": {
+        "aggressive": [
+          0.836,
+          0.727,
+          0.927,
+          55
+        ],
+        "fix": [
+          0.0,
+          0.0,
+          0.0,
+          55
+        ]
+      },
+      "modifier": {
+        "aggressive": [
+          1.0,
+          1.0,
+          1.0,
+          55
+        ],
+        "fix": [
+          0.073,
+          0.018,
+          0.145,
+          55
+        ]
+      }
+    }
+  }
+}

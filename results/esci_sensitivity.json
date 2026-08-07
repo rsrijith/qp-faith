@@ -1,0 +1,773 @@
+{
+  "framing": "COUNTERFACTUAL exclusion analysis on judged products: exclusion is measured within each query's human-Exact pool, not by retrieval over the full catalog (that is the separate D-earn full-catalog run). 4 local planners, cached plans.",
+  "normalization_rules": {
+    "case": "all values lowercased.",
+    "punctuation": "non-alphanumeric characters collapsed to spaces (norm()).",
+    "missing_facet_value": "an empty product brand/color never matches an emitted value (counts against 'kept'); an empty EMITTED value is not a fire.",
+    "multi_valued_fields": "token-overlap match, so a value overlapping any token of a multi-token product value counts as a match (lenient; biases toward UNDER-counting exclusion).",
+    "aliases_abbreviations": "NOT normalized here (e.g. 'iphone case' -> 'Apple' is not inferred). The conservative routing rate bounds this; the human entailment audit (R1.3e) quantifies the residual.",
+    "spurious_definition": "emitted value whose head token is absent from the query text."
+  },
+  "sensitivity_min_exact": {
+    "3": {
+      "expansion": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.02,
+              "per_fire_exclusion": 0.494,
+              "end_to_end_loss": 0.01,
+              "n_fires": 9
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.152,
+              "per_fire_exclusion": 0.851,
+              "end_to_end_loss": 0.129,
+              "n_fires": 67
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.172,
+              "per_fire_exclusion": 0.858,
+              "end_to_end_loss": 0.148,
+              "n_fires": 76
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.059,
+              "per_fire_exclusion": 0.656,
+              "end_to_end_loss": 0.039,
+              "n_fires": 26
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.101,
+              0.087,
+              0.116
+            ],
+            "per_fire_exclusion": [
+              0.807,
+              0.754,
+              0.859
+            ],
+            "end_to_end_loss": [
+              0.081,
+              0.069,
+              0.094
+            ]
+          },
+          "n_queries": 441
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.116,
+              "per_fire_exclusion": 0.828,
+              "end_to_end_loss": 0.096,
+              "n_fires": 51
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.429,
+              "per_fire_exclusion": 0.831,
+              "end_to_end_loss": 0.356,
+              "n_fires": 189
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.322,
+              "per_fire_exclusion": 0.855,
+              "end_to_end_loss": 0.275,
+              "n_fires": 142
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.077,
+              "per_fire_exclusion": 0.778,
+              "end_to_end_loss": 0.06,
+              "n_fires": 34
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.236,
+              0.216,
+              0.256
+            ],
+            "per_fire_exclusion": [
+              0.834,
+              0.811,
+              0.857
+            ],
+            "end_to_end_loss": [
+              0.197,
+              0.18,
+              0.214
+            ]
+          },
+          "n_queries": 441
+        }
+      },
+      "conservative": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.0,
+              "per_fire_exclusion": null,
+              "end_to_end_loss": 0.0,
+              "n_fires": 0
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.068,
+              "per_fire_exclusion": 0.867,
+              "end_to_end_loss": 0.059,
+              "n_fires": 30
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.007,
+              "per_fire_exclusion": 0.424,
+              "end_to_end_loss": 0.003,
+              "n_fires": 3
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.02,
+              "per_fire_exclusion": 0.667,
+              "end_to_end_loss": 0.014,
+              "n_fires": 9
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.024,
+              0.017,
+              0.031
+            ],
+            "per_fire_exclusion": [
+              0.792,
+              0.667,
+              0.905
+            ],
+            "end_to_end_loss": [
+              0.019,
+              0.013,
+              0.026
+            ]
+          },
+          "n_queries": 441
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.011,
+              "per_fire_exclusion": 0.892,
+              "end_to_end_loss": 0.01,
+              "n_fires": 5
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.163,
+              "per_fire_exclusion": 0.914,
+              "end_to_end_loss": 0.149,
+              "n_fires": 72
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.005,
+              "per_fire_exclusion": 0.944,
+              "end_to_end_loss": 0.004,
+              "n_fires": 2
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.02,
+              "per_fire_exclusion": 0.862,
+              "end_to_end_loss": 0.018,
+              "n_fires": 9
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.05,
+              0.04,
+              0.06
+            ],
+            "per_fire_exclusion": [
+              0.908,
+              0.871,
+              0.942
+            ],
+            "end_to_end_loss": [
+              0.045,
+              0.036,
+              0.055
+            ]
+          },
+          "n_queries": 441
+        }
+      }
+    },
+    "5": {
+      "expansion": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.022,
+              "per_fire_exclusion": 0.494,
+              "end_to_end_loss": 0.011,
+              "n_fires": 9
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.156,
+              "per_fire_exclusion": 0.858,
+              "end_to_end_loss": 0.134,
+              "n_fires": 63
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.181,
+              "per_fire_exclusion": 0.866,
+              "end_to_end_loss": 0.156,
+              "n_fires": 73
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.059,
+              "per_fire_exclusion": 0.669,
+              "end_to_end_loss": 0.04,
+              "n_fires": 24
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.105,
+              0.09,
+              0.12
+            ],
+            "per_fire_exclusion": [
+              0.815,
+              0.76,
+              0.865
+            ],
+            "end_to_end_loss": [
+              0.085,
+              0.072,
+              0.099
+            ]
+          },
+          "n_queries": 404
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.121,
+              "per_fire_exclusion": 0.842,
+              "end_to_end_loss": 0.102,
+              "n_fires": 49
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.431,
+              "per_fire_exclusion": 0.832,
+              "end_to_end_loss": 0.358,
+              "n_fires": 174
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.332,
+              "per_fire_exclusion": 0.851,
+              "end_to_end_loss": 0.282,
+              "n_fires": 134
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.074,
+              "per_fire_exclusion": 0.773,
+              "end_to_end_loss": 0.057,
+              "n_fires": 30
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.239,
+              0.219,
+              0.26
+            ],
+            "per_fire_exclusion": [
+              0.835,
+              0.812,
+              0.858
+            ],
+            "end_to_end_loss": [
+              0.2,
+              0.182,
+              0.218
+            ]
+          },
+          "n_queries": 404
+        }
+      },
+      "conservative": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.0,
+              "per_fire_exclusion": null,
+              "end_to_end_loss": 0.0,
+              "n_fires": 0
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.062,
+              "per_fire_exclusion": 0.88,
+              "end_to_end_loss": 0.054,
+              "n_fires": 25
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.007,
+              "per_fire_exclusion": 0.424,
+              "end_to_end_loss": 0.003,
+              "n_fires": 3
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.017,
+              "per_fire_exclusion": 0.714,
+              "end_to_end_loss": 0.012,
+              "n_fires": 7
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.022,
+              0.015,
+              0.029
+            ],
+            "per_fire_exclusion": [
+              0.808,
+              0.673,
+              0.922
+            ],
+            "end_to_end_loss": [
+              0.017,
+              0.012,
+              0.024
+            ]
+          },
+          "n_queries": 404
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.01,
+              "per_fire_exclusion": 0.865,
+              "end_to_end_loss": 0.009,
+              "n_fires": 4
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.163,
+              "per_fire_exclusion": 0.906,
+              "end_to_end_loss": 0.148,
+              "n_fires": 66
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.005,
+              "per_fire_exclusion": 0.944,
+              "end_to_end_loss": 0.005,
+              "n_fires": 2
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.02,
+              "per_fire_exclusion": 0.845,
+              "end_to_end_loss": 0.017,
+              "n_fires": 8
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.05,
+              0.04,
+              0.061
+            ],
+            "per_fire_exclusion": [
+              0.899,
+              0.859,
+              0.934
+            ],
+            "end_to_end_loss": [
+              0.045,
+              0.035,
+              0.055
+            ]
+          },
+          "n_queries": 404
+        }
+      }
+    },
+    "7": {
+      "expansion": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.025,
+              "per_fire_exclusion": 0.494,
+              "end_to_end_loss": 0.012,
+              "n_fires": 9
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.144,
+              "per_fire_exclusion": 0.866,
+              "end_to_end_loss": 0.125,
+              "n_fires": 52
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.183,
+              "per_fire_exclusion": 0.874,
+              "end_to_end_loss": 0.16,
+              "n_fires": 66
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.058,
+              "per_fire_exclusion": 0.707,
+              "end_to_end_loss": 0.041,
+              "n_fires": 21
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.102,
+              0.087,
+              0.118
+            ],
+            "per_fire_exclusion": [
+              0.824,
+              0.769,
+              0.878
+            ],
+            "end_to_end_loss": [
+              0.084,
+              0.071,
+              0.099
+            ]
+          },
+          "n_queries": 361
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.125,
+              "per_fire_exclusion": 0.845,
+              "end_to_end_loss": 0.105,
+              "n_fires": 45
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.438,
+              "per_fire_exclusion": 0.821,
+              "end_to_end_loss": 0.359,
+              "n_fires": 158
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.332,
+              "per_fire_exclusion": 0.842,
+              "end_to_end_loss": 0.28,
+              "n_fires": 120
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.069,
+              "per_fire_exclusion": 0.792,
+              "end_to_end_loss": 0.055,
+              "n_fires": 25
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.241,
+              0.219,
+              0.263
+            ],
+            "per_fire_exclusion": [
+              0.829,
+              0.804,
+              0.854
+            ],
+            "end_to_end_loss": [
+              0.2,
+              0.18,
+              0.219
+            ]
+          },
+          "n_queries": 361
+        }
+      },
+      "conservative": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.0,
+              "per_fire_exclusion": null,
+              "end_to_end_loss": 0.0,
+              "n_fires": 0
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.058,
+              "per_fire_exclusion": 0.857,
+              "end_to_end_loss": 0.05,
+              "n_fires": 21
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.008,
+              "per_fire_exclusion": 0.424,
+              "end_to_end_loss": 0.004,
+              "n_fires": 3
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.019,
+              "per_fire_exclusion": 0.714,
+              "end_to_end_loss": 0.014,
+              "n_fires": 7
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.021,
+              0.015,
+              0.029
+            ],
+            "per_fire_exclusion": [
+              0.783,
+              0.63,
+              0.912
+            ],
+            "end_to_end_loss": [
+              0.017,
+              0.011,
+              0.024
+            ]
+          },
+          "n_queries": 361
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.011,
+              "per_fire_exclusion": 0.865,
+              "end_to_end_loss": 0.01,
+              "n_fires": 4
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.163,
+              "per_fire_exclusion": 0.895,
+              "end_to_end_loss": 0.146,
+              "n_fires": 59
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.006,
+              "per_fire_exclusion": 0.944,
+              "end_to_end_loss": 0.005,
+              "n_fires": 2
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.011,
+              "per_fire_exclusion": 0.814,
+              "end_to_end_loss": 0.009,
+              "n_fires": 4
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.048,
+              0.037,
+              0.06
+            ],
+            "per_fire_exclusion": [
+              0.89,
+              0.847,
+              0.93
+            ],
+            "end_to_end_loss": [
+              0.043,
+              0.033,
+              0.053
+            ]
+          },
+          "n_queries": 361
+        }
+      }
+    },
+    "10": {
+      "expansion": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.023,
+              "per_fire_exclusion": 0.35,
+              "end_to_end_loss": 0.008,
+              "n_fires": 7
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.134,
+              "per_fire_exclusion": 0.876,
+              "end_to_end_loss": 0.117,
+              "n_fires": 40
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.177,
+              "per_fire_exclusion": 0.875,
+              "end_to_end_loss": 0.155,
+              "n_fires": 53
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.067,
+              "per_fire_exclusion": 0.743,
+              "end_to_end_loss": 0.05,
+              "n_fires": 20
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.1,
+              0.084,
+              0.117
+            ],
+            "per_fire_exclusion": [
+              0.822,
+              0.76,
+              0.881
+            ],
+            "end_to_end_loss": [
+              0.083,
+              0.068,
+              0.098
+            ]
+          },
+          "n_queries": 299
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.134,
+              "per_fire_exclusion": 0.839,
+              "end_to_end_loss": 0.112,
+              "n_fires": 40
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.435,
+              "per_fire_exclusion": 0.813,
+              "end_to_end_loss": 0.353,
+              "n_fires": 130
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.334,
+              "per_fire_exclusion": 0.837,
+              "end_to_end_loss": 0.28,
+              "n_fires": 100
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.08,
+              "per_fire_exclusion": 0.792,
+              "end_to_end_loss": 0.064,
+              "n_fires": 24
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.246,
+              0.221,
+              0.271
+            ],
+            "per_fire_exclusion": [
+              0.823,
+              0.795,
+              0.85
+            ],
+            "end_to_end_loss": [
+              0.202,
+              0.182,
+              0.223
+            ]
+          },
+          "n_queries": 299
+        }
+      },
+      "conservative": {
+        "brand": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.0,
+              "per_fire_exclusion": null,
+              "end_to_end_loss": 0.0,
+              "n_fires": 0
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.06,
+              "per_fire_exclusion": 0.889,
+              "end_to_end_loss": 0.054,
+              "n_fires": 18
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.01,
+              "per_fire_exclusion": 0.424,
+              "end_to_end_loss": 0.004,
+              "n_fires": 3
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.02,
+              "per_fire_exclusion": 0.667,
+              "end_to_end_loss": 0.013,
+              "n_fires": 6
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.023,
+              0.014,
+              0.032
+            ],
+            "per_fire_exclusion": [
+              0.788,
+              0.63,
+              0.926
+            ],
+            "end_to_end_loss": [
+              0.018,
+              0.011,
+              0.026
+            ]
+          },
+          "n_queries": 299
+        },
+        "color": {
+          "by_model": {
+            "qwen4": {
+              "spurious_routing_rate": 0.013,
+              "per_fire_exclusion": 0.865,
+              "end_to_end_loss": 0.012,
+              "n_fires": 4
+            },
+            "llama4": {
+              "spurious_routing_rate": 0.174,
+              "per_fire_exclusion": 0.883,
+              "end_to_end_loss": 0.154,
+              "n_fires": 52
+            },
+            "mistral4": {
+              "spurious_routing_rate": 0.003,
+              "per_fire_exclusion": 1.0,
+              "end_to_end_loss": 0.003,
+              "n_fires": 1
+            },
+            "gemma4": {
+              "spurious_routing_rate": 0.01,
+              "per_fire_exclusion": 0.789,
+              "end_to_end_loss": 0.008,
+              "n_fires": 3
+            }
+          },
+          "pooled": {
+            "spurious_routing_rate": [
+              0.05,
+              0.038,
+              0.063
+            ],
+            "per_fire_exclusion": [
+              0.879,
+              0.831,
+              0.923
+            ],
+            "end_to_end_loss": [
+              0.044,
+              0.033,
+              0.055
+            ]
+          },
+          "n_queries": 299
+        }
+      }
+    }
+  }
+}

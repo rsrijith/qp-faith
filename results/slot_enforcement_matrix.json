@@ -1,0 +1,120 @@
+{
+  "instrument": "55 WANDS type-less entity motifs; relevant sets from the cached probe plans (probe-*-exp__probe_plans.jsonl, expansion prompt). Any emitted slot value on a type-less query is spurious by construction.",
+  "planners": [
+    "probe-gem25flashlite-exp",
+    "probe-gem3flash-api-exp",
+    "probe-gem3flash-exp",
+    "probe-gemma4-exp",
+    "probe-gpt4o-exp",
+    "probe-gpt52-exp",
+    "probe-groq-llama70-exp",
+    "probe-haiku-exp",
+    "probe-llama4-exp",
+    "probe-mistral-large-exp",
+    "probe-mistral4-exp",
+    "probe-qwen4-exp",
+    "probe-sonnet-exp",
+    "probe-together-llama70-exp"
+  ],
+  "matching": "validate_enforcement.py token logic (deplural + nonempty subset/equality).",
+  "value_source": "the planner's ACTUAL emitted value per slot per motif (not a guess).",
+  "missing_value_rule": "identical across slots: full-hard-filter excludes a missing facet; conflict-only retains it.",
+  "soft_penalty_note": "soft-penalty realized recall@100 loss is 0 by construction (candidates demoted, not removed). Measured soft demotion for the category slot is small: mean nDCG@10 drop 0.006-0.025 across the four local planners (expansion, dense weight lambda=0.5, results/*_soft_metrics.json); the enforcement sweep (results/probe-*__enforce_dense.json) shows realized recall@100 loss rising from ~0 at soft lambdas to ~0.72-0.76 only at the hard endpoint lambda=0.",
+  "matrix": {
+    "category": {
+      "coverage_mean": 0.949,
+      "relevant_set_spread_mean_distinct_values": 9.7,
+      "full_hard_filter_exclusion": [
+        0.952,
+        0.92,
+        0.978,
+        55
+      ],
+      "conflict_only_exclusion": [
+        0.9,
+        0.864,
+        0.933,
+        55
+      ],
+      "soft_penalty_realized_recall_loss": 0.0,
+      "n_motifs_emitted": 55,
+      "n_planner_motif_pairs": 707
+    },
+    "brand": {
+      "coverage_mean": 0.0,
+      "relevant_set_spread_mean_distinct_values": 0.0,
+      "full_hard_filter_exclusion": [
+        1.0,
+        1.0,
+        1.0,
+        55
+      ],
+      "conflict_only_exclusion": [
+        0.0,
+        0.0,
+        0.0,
+        55
+      ],
+      "soft_penalty_realized_recall_loss": 0.0,
+      "n_motifs_emitted": 55,
+      "n_planner_motif_pairs": 386
+    },
+    "color": {
+      "coverage_mean": 0.655,
+      "relevant_set_spread_mean_distinct_values": 16.13,
+      "full_hard_filter_exclusion": [
+        0.866,
+        0.826,
+        0.903,
+        55
+      ],
+      "conflict_only_exclusion": [
+        0.533,
+        0.458,
+        0.605,
+        55
+      ],
+      "soft_penalty_realized_recall_loss": 0.0,
+      "n_motifs_emitted": 55,
+      "n_planner_motif_pairs": 453
+    },
+    "material": {
+      "coverage_mean": 0.634,
+      "relevant_set_spread_mean_distinct_values": 7.11,
+      "full_hard_filter_exclusion": [
+        0.945,
+        0.916,
+        0.967,
+        55
+      ],
+      "conflict_only_exclusion": [
+        0.569,
+        0.484,
+        0.652,
+        55
+      ],
+      "soft_penalty_realized_recall_loss": 0.0,
+      "n_motifs_emitted": 55,
+      "n_planner_motif_pairs": 485
+    },
+    "style": {
+      "coverage_mean": 0.476,
+      "relevant_set_spread_mean_distinct_values": 8.64,
+      "full_hard_filter_exclusion": [
+        0.958,
+        0.938,
+        0.976,
+        55
+      ],
+      "conflict_only_exclusion": [
+        0.43,
+        0.367,
+        0.491,
+        55
+      ],
+      "soft_penalty_realized_recall_loss": 0.0,
+      "n_motifs_emitted": 55,
+      "n_planner_motif_pairs": 611
+    }
+  }
+}

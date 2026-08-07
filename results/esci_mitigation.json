@@ -1,0 +1,143 @@
+{
+  "design": "category omit-instruction on 404 ESCI queries; typed = aggressive planner emitted a product_type whose head token is in the query; false_application on not-typed, false_omission on typed. From cached plans, no new runs.",
+  "by_model": {
+    "qwen4": {
+      "name": "Qwen2.5-7B",
+      "n_typed": 339,
+      "n_typeless": 65,
+      "false_application_fix": [
+        0.246,
+        0.138,
+        0.354
+      ],
+      "false_application_baseline": [
+        0.985,
+        0.954,
+        1.0
+      ],
+      "false_omission_fix": [
+        0.032,
+        0.015,
+        0.053
+      ],
+      "parse_fail_rate": 0.0
+    },
+    "llama4": {
+      "name": "Llama-3.1-8B",
+      "n_typed": 217,
+      "n_typeless": 187,
+      "false_application_fix": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "false_application_baseline": [
+        0.968,
+        0.941,
+        0.989
+      ],
+      "false_omission_fix": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "parse_fail_rate": 0.0
+    },
+    "mistral4": {
+      "name": "Mistral-7B",
+      "n_typed": 119,
+      "n_typeless": 285,
+      "false_application_fix": [
+        0.642,
+        0.586,
+        0.698
+      ],
+      "false_application_baseline": [
+        0.895,
+        0.86,
+        0.93
+      ],
+      "false_omission_fix": [
+        0.193,
+        0.126,
+        0.269
+      ],
+      "parse_fail_rate": 0.0
+    },
+    "gemma4": {
+      "name": "Gemma-2-9B",
+      "n_typed": 158,
+      "n_typeless": 246,
+      "false_application_fix": [
+        0.337,
+        0.276,
+        0.394
+      ],
+      "false_application_baseline": [
+        0.992,
+        0.98,
+        1.0
+      ],
+      "false_omission_fix": [
+        0.165,
+        0.108,
+        0.222
+      ],
+      "parse_fail_rate": 0.0
+    },
+    "gpt4o": {
+      "name": "gpt-4o",
+      "n_typed": 320,
+      "n_typeless": 84,
+      "false_application_fix": [
+        0.095,
+        0.036,
+        0.167
+      ],
+      "false_application_baseline": [
+        0.952,
+        0.905,
+        0.988
+      ],
+      "false_omission_fix": [
+        0.228,
+        0.184,
+        0.275
+      ],
+      "parse_fail_rate": 0.0
+    },
+    "gpt52": {
+      "name": "gpt-5.2",
+      "n_typed": 185,
+      "n_typeless": 219,
+      "false_application_fix": [
+        0.114,
+        0.073,
+        0.155
+      ],
+      "false_application_baseline": [
+        0.872,
+        0.826,
+        0.913
+      ],
+      "false_omission_fix": [
+        0.173,
+        0.119,
+        0.227
+      ],
+      "parse_fail_rate": 0.0
+    }
+  },
+  "pooled": {
+    "false_application_fix": [
+      0.29,
+      0.262,
+      0.318
+    ],
+    "false_omission_fix": [
+      0.286,
+      0.262,
+      0.31
+    ]
+  }
+}

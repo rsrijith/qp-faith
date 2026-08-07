@@ -1,0 +1,48 @@
+{
+  "estimand_note": "Two pooled summaries are reported. The QUERY-ONLY interval treats the 4 models as fixed and clusters over queries (what the submitted paper reported). The HIERARCHICAL interval resamples models AND queries, so it reflects the much larger between-model variation. Per-model estimates (esci_sensitivity.json) remain the primary evidence; the hierarchical interval is the honest pooled CI.",
+  "definitions": {
+    "macro_average": "mean over queries of the per-query end-to-end loss (each query weighted equally); this is what both intervals below summarize.",
+    "micro_average": "mean over query-model FIRES of the per-fire exclusion (each fire weighted equally); reported in esci_sensitivity.json as per_fire_exclusion.",
+    "end_to_end_loss": "per query, spurious ? per-fire-exclusion : 0 (absolute recall difference on the human-Exact pool, not a relative reduction)."
+  },
+  "results": {
+    "brand": {
+      "macro_end_to_end_loss_query_only_ci": [
+        0.085,
+        0.072,
+        0.099
+      ],
+      "macro_end_to_end_loss_hierarchical_ci": [
+        0.085,
+        0.023,
+        0.147
+      ],
+      "reconciliation": {
+        "pooled_routing_rate": 0.093,
+        "pooled_per_fire_exclusion": 0.912,
+        "product": 0.085,
+        "direct_per_query_macro_loss": 0.085,
+        "match": true
+      }
+    },
+    "color": {
+      "macro_end_to_end_loss_query_only_ci": [
+        0.2,
+        0.182,
+        0.218
+      ],
+      "macro_end_to_end_loss_hierarchical_ci": [
+        0.2,
+        0.075,
+        0.324
+      ],
+      "reconciliation": {
+        "pooled_routing_rate": 0.239,
+        "pooled_per_fire_exclusion": 0.837,
+        "product": 0.2,
+        "direct_per_query_macro_loss": 0.2,
+        "match": true
+      }
+    }
+  }
+}

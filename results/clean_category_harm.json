@@ -1,0 +1,141 @@
+{
+  "design": "clean-category recall@100 harm on electronics + apparel using the REAL McAuley category hierarchy as the hard filter (vs the paper's title proxy); BM25-title retrieval, motif-cluster bootstrap, 4 planners, expansion prompt; seed 13.",
+  "by_domain": {
+    "electronics": {
+      "expansion": {
+        "catalog_category_coverage": 0.92,
+        "title_recall100_loss": {
+          "mean": 0.485,
+          "lo": 0.35,
+          "hi": 0.615,
+          "n_motifs": 28
+        },
+        "category_fullpath_recall100_loss": {
+          "mean": 0.13,
+          "lo": 0.047,
+          "hi": 0.231,
+          "n_motifs": 28
+        },
+        "category_leaf_recall100_loss": {
+          "mean": 0.136,
+          "lo": 0.05,
+          "hi": 0.238,
+          "n_motifs": 28
+        },
+        "category_leaf_label_exclusion": {
+          "mean": 0.996,
+          "lo": 0.988,
+          "hi": 1.0,
+          "n_motifs": 28
+        },
+        "category_fullpath_label_exclusion": {
+          "mean": 0.988,
+          "lo": 0.968,
+          "hi": 1.0,
+          "n_motifs": 28
+        }
+      },
+      "conservative": {
+        "catalog_category_coverage": 0.92,
+        "title_recall100_loss": {
+          "mean": 0.378,
+          "lo": 0.251,
+          "hi": 0.508,
+          "n_motifs": 28
+        },
+        "category_fullpath_recall100_loss": {
+          "mean": 0.113,
+          "lo": 0.045,
+          "hi": 0.19,
+          "n_motifs": 28
+        },
+        "category_leaf_recall100_loss": {
+          "mean": 0.128,
+          "lo": 0.058,
+          "hi": 0.208,
+          "n_motifs": 28
+        },
+        "category_leaf_label_exclusion": {
+          "mean": 0.991,
+          "lo": 0.975,
+          "hi": 1.0,
+          "n_motifs": 28
+        },
+        "category_fullpath_label_exclusion": {
+          "mean": 0.973,
+          "lo": 0.935,
+          "hi": 0.999,
+          "n_motifs": 28
+        }
+      }
+    },
+    "apparel": {
+      "expansion": {
+        "catalog_category_coverage": 1.0,
+        "title_recall100_loss": {
+          "mean": 0.376,
+          "lo": 0.252,
+          "hi": 0.508,
+          "n_motifs": 33
+        },
+        "category_fullpath_recall100_loss": {
+          "mean": 0.181,
+          "lo": 0.103,
+          "hi": 0.27,
+          "n_motifs": 33
+        },
+        "category_leaf_recall100_loss": {
+          "mean": 0.265,
+          "lo": 0.174,
+          "hi": 0.366,
+          "n_motifs": 33
+        },
+        "category_leaf_label_exclusion": {
+          "mean": 0.992,
+          "lo": 0.982,
+          "hi": 0.997,
+          "n_motifs": 33
+        },
+        "category_fullpath_label_exclusion": {
+          "mean": 0.76,
+          "lo": 0.68,
+          "hi": 0.833,
+          "n_motifs": 33
+        }
+      },
+      "conservative": {
+        "catalog_category_coverage": 1.0,
+        "title_recall100_loss": {
+          "mean": 0.342,
+          "lo": 0.212,
+          "hi": 0.482,
+          "n_motifs": 33
+        },
+        "category_fullpath_recall100_loss": {
+          "mean": 0.199,
+          "lo": 0.105,
+          "hi": 0.305,
+          "n_motifs": 33
+        },
+        "category_leaf_recall100_loss": {
+          "mean": 0.268,
+          "lo": 0.159,
+          "hi": 0.388,
+          "n_motifs": 33
+        },
+        "category_leaf_label_exclusion": {
+          "mean": 0.986,
+          "lo": 0.96,
+          "hi": 0.999,
+          "n_motifs": 33
+        },
+        "category_fullpath_label_exclusion": {
+          "mean": 0.859,
+          "lo": 0.765,
+          "hi": 0.936,
+          "n_motifs": 33
+        }
+      }
+    }
+  }
+}

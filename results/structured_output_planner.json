@@ -1,0 +1,41 @@
+{
+  "design": "category false-application (spurious product_type) on 55 type-less motifs via STRICT structured-output (json_schema, nullable product_type); neutral vs aggressive prompt; temp 0.",
+  "by_model": {
+    "gpt-4o": {
+      "neutral": {
+        "false_application": [
+          0.273,
+          0.164,
+          0.4
+        ],
+        "n_error": 0
+      },
+      "aggressive": {
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "n_error": 0
+      }
+    },
+    "gpt-4o-mini": {
+      "neutral": {
+        "false_application": [
+          0.436,
+          0.309,
+          0.564
+        ],
+        "n_error": 0
+      },
+      "aggressive": {
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "n_error": 0
+      }
+    }
+  }
+}

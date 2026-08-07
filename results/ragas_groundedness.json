@@ -1,0 +1,33 @@
+{
+  "judge_model": "gpt-4o-mini",
+  "metric": "ragas.Faithfulness (statement decomposition + LLM verdict vs retrieved context); ragas 0.2.15; temperature 0; default threshold; seed 13",
+  "n_instances": 356,
+  "pass_definition": "faithfulness score in [0,1]; per-query mean then query-clustered bootstrap",
+  "misrouted": {
+    "n_queries": 54,
+    "n_instances": 225,
+    "mean_faithfulness": [
+      0.572,
+      0.498,
+      0.645
+    ]
+  },
+  "legitimate": {
+    "n_queries": 88,
+    "n_instances": 88,
+    "mean_faithfulness": [
+      0.898,
+      0.83,
+      0.955
+    ]
+  },
+  "fabricated": {
+    "n_queries": 43,
+    "n_instances": 43,
+    "mean_faithfulness": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

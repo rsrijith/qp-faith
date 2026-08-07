@@ -1,0 +1,144 @@
+{
+  "n_misrouted_pairs": 493,
+  "n_misrouted_motifs": 55,
+  "n_familyB_pairs": 161,
+  "n_familyB_queries": 18,
+  "n_implicit_controls": 12,
+  "implicit_controls": [
+    [
+      "sectional",
+      "sofa"
+    ],
+    [
+      "recliner",
+      "chair"
+    ],
+    [
+      "duvet",
+      "bedding"
+    ],
+    [
+      "runner",
+      "rug"
+    ],
+    [
+      "sconce",
+      "lamp"
+    ],
+    [
+      "credenza",
+      "cabinet"
+    ],
+    [
+      "hutch",
+      "cabinet"
+    ],
+    [
+      "bunk",
+      "bed"
+    ],
+    [
+      "armoire",
+      "wardrobe"
+    ],
+    [
+      "vanity",
+      "table"
+    ],
+    [
+      "chaise",
+      "chair"
+    ],
+    [
+      "ottoman",
+      "stool"
+    ]
+  ],
+  "effective_n_note": "rates are per-distinct-query means; CIs bootstrap the query clusters",
+  "V_value_validity_misrouted": [
+    0.947,
+    0.925,
+    0.968
+  ],
+  "V_value_validity_fabricated": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "L_lexical_misrouted": [
+    0.103,
+    0.055,
+    0.16
+  ],
+  "L_lexical_legitB": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "L_lexical_implicit": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "C_grounded_misrouted__nli-deberta-v3-base": [
+    0.678,
+    0.612,
+    0.743
+  ],
+  "n_content_grader_motifs": 54,
+  "C_grounded_legitB__nli-deberta-v3-base": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "C_grounded_relevantset_misrouted__nli-deberta-v3-base": [
+    0.285,
+    0.218,
+    0.356
+  ],
+  "Q_pass_misrouted__nli-deberta-v3-base": [
+    0.214,
+    0.147,
+    0.287
+  ],
+  "Q_pass_legitB__nli-deberta-v3-base": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Q_pass_implicit__nli-deberta-v3-base": [
+    0.333,
+    0.083,
+    0.583
+  ],
+  "C_grounded_misrouted__nli-roberta-base": [
+    0.649,
+    0.585,
+    0.711
+  ],
+  "C_grounded_legitB__nli-roberta-base": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "C_grounded_relevantset_misrouted__nli-roberta-base": [
+    0.291,
+    0.22,
+    0.37
+  ],
+  "Q_pass_misrouted__nli-roberta-base": [
+    0.22,
+    0.156,
+    0.293
+  ],
+  "Q_pass_legitB__nli-roberta-base": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Q_pass_implicit__nli-roberta-base": [
+    0.333,
+    0.083,
+    0.583
+  ]
+}

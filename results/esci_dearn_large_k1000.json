@@ -1,0 +1,451 @@
+{
+  "design": "real BM25 retrieval over the full ESCI-US catalog (large); top-K=1000; routed brand/color applied as an upstream hard pre-filter; recall@k / nDCG@k on human-Exact products; 4 local planners; MIN_EXACT=5; qrels = data/esci/pool.parquet; seed 13.",
+  "version": "large",
+  "K": 1000,
+  "n_queries": 404,
+  "catalog_size": 1215851,
+  "expansion": {
+    "brand": {
+      "base_recall@10": [
+        0.1596,
+        0.1485,
+        0.171
+      ],
+      "filtered_recall@10": [
+        0.1269,
+        0.1175,
+        0.1367
+      ],
+      "recall_loss@10": [
+        0.0327,
+        0.0257,
+        0.04
+      ],
+      "spurious_only_recall_loss@10": [
+        0.0123,
+        0.0084,
+        0.0168
+      ],
+      "spurious_only_recall_loss@10_hierarchical": [
+        0.0123,
+        0.0044,
+        0.0211
+      ],
+      "base_ndcg@10": [
+        0.2139,
+        0.2006,
+        0.2276
+      ],
+      "ndcg_loss@10": [
+        0.0407,
+        0.033,
+        0.0488
+      ],
+      "spurious_only_ndcg_loss@10": [
+        0.0153,
+        0.0104,
+        0.0206
+      ],
+      "base_recall@100": [
+        0.4373,
+        0.4202,
+        0.4542
+      ],
+      "filtered_recall@100": [
+        0.3598,
+        0.3424,
+        0.3773
+      ],
+      "recall_loss@100": [
+        0.0774,
+        0.0665,
+        0.0883
+      ],
+      "spurious_only_recall_loss@100": [
+        0.032,
+        0.0245,
+        0.0398
+      ],
+      "spurious_only_recall_loss@100_hierarchical": [
+        0.032,
+        0.0083,
+        0.0565
+      ],
+      "base_ndcg@100": [
+        0.3134,
+        0.2993,
+        0.3274
+      ],
+      "ndcg_loss@100": [
+        0.0565,
+        0.0478,
+        0.0654
+      ],
+      "spurious_only_ndcg_loss@100": [
+        0.0224,
+        0.0169,
+        0.0284
+      ],
+      "spurious_subset_recall_loss@100": [
+        0.3056,
+        0.2478,
+        0.3647
+      ],
+      "spurious_routing_rate": [
+        0.1046,
+        0.0897,
+        0.1194
+      ],
+      "by_model": {
+        "qwen4": {
+          "recall_loss@100": 0.0434,
+          "spurious_routing_rate": 0.0223
+        },
+        "llama4": {
+          "recall_loss@100": 0.1154,
+          "spurious_routing_rate": 0.1559
+        },
+        "mistral4": {
+          "recall_loss@100": 0.1074,
+          "spurious_routing_rate": 0.1807
+        },
+        "gemma4": {
+          "recall_loss@100": 0.0435,
+          "spurious_routing_rate": 0.0594
+        }
+      }
+    },
+    "color": {
+      "base_recall@10": [
+        0.1596,
+        0.1486,
+        0.1705
+      ],
+      "filtered_recall@10": [
+        0.1219,
+        0.1126,
+        0.1319
+      ],
+      "recall_loss@10": [
+        0.0377,
+        0.0315,
+        0.0443
+      ],
+      "spurious_only_recall_loss@10": [
+        0.0279,
+        0.0224,
+        0.0336
+      ],
+      "spurious_only_recall_loss@10_hierarchical": [
+        0.0279,
+        0.0092,
+        0.0471
+      ],
+      "base_ndcg@10": [
+        0.2139,
+        0.2007,
+        0.2271
+      ],
+      "ndcg_loss@10": [
+        0.0456,
+        0.0379,
+        0.0537
+      ],
+      "spurious_only_ndcg_loss@10": [
+        0.0334,
+        0.0269,
+        0.0404
+      ],
+      "base_recall@100": [
+        0.4373,
+        0.4208,
+        0.4543
+      ],
+      "filtered_recall@100": [
+        0.3271,
+        0.3112,
+        0.3441
+      ],
+      "recall_loss@100": [
+        0.1102,
+        0.0976,
+        0.1233
+      ],
+      "spurious_only_recall_loss@100": [
+        0.0846,
+        0.0736,
+        0.096
+      ],
+      "spurious_only_recall_loss@100_hierarchical": [
+        0.0846,
+        0.0299,
+        0.1397
+      ],
+      "base_ndcg@100": [
+        0.3134,
+        0.2991,
+        0.3274
+      ],
+      "ndcg_loss@100": [
+        0.074,
+        0.0651,
+        0.0835
+      ],
+      "spurious_only_ndcg_loss@100": [
+        0.0569,
+        0.049,
+        0.0653
+      ],
+      "spurious_subset_recall_loss@100": [
+        0.3534,
+        0.3181,
+        0.3879
+      ],
+      "spurious_routing_rate": [
+        0.2395,
+        0.2191,
+        0.2599
+      ],
+      "by_model": {
+        "qwen4": {
+          "recall_loss@100": 0.1102,
+          "spurious_routing_rate": 0.1213
+        },
+        "llama4": {
+          "recall_loss@100": 0.1761,
+          "spurious_routing_rate": 0.4307
+        },
+        "mistral4": {
+          "recall_loss@100": 0.1302,
+          "spurious_routing_rate": 0.3317
+        },
+        "gemma4": {
+          "recall_loss@100": 0.0244,
+          "spurious_routing_rate": 0.0743
+        }
+      }
+    }
+  },
+  "conservative": {
+    "brand": {
+      "base_recall@10": [
+        0.1596,
+        0.1488,
+        0.1702
+      ],
+      "filtered_recall@10": [
+        0.1454,
+        0.1347,
+        0.1559
+      ],
+      "recall_loss@10": [
+        0.0143,
+        0.01,
+        0.019
+      ],
+      "spurious_only_recall_loss@10": [
+        0.0041,
+        0.002,
+        0.0067
+      ],
+      "spurious_only_recall_loss@10_hierarchical": [
+        0.0041,
+        0.0,
+        0.0108
+      ],
+      "base_ndcg@10": [
+        0.2139,
+        0.2002,
+        0.2275
+      ],
+      "ndcg_loss@10": [
+        0.019,
+        0.0136,
+        0.0245
+      ],
+      "spurious_only_ndcg_loss@10": [
+        0.0053,
+        0.0026,
+        0.0083
+      ],
+      "base_recall@100": [
+        0.4373,
+        0.4201,
+        0.4543
+      ],
+      "filtered_recall@100": [
+        0.4027,
+        0.3849,
+        0.4201
+      ],
+      "recall_loss@100": [
+        0.0346,
+        0.0275,
+        0.0419
+      ],
+      "spurious_only_recall_loss@100": [
+        0.0085,
+        0.0048,
+        0.0126
+      ],
+      "spurious_only_recall_loss@100_hierarchical": [
+        0.0085,
+        0.0001,
+        0.0224
+      ],
+      "base_ndcg@100": [
+        0.3134,
+        0.2998,
+        0.3274
+      ],
+      "ndcg_loss@100": [
+        0.0259,
+        0.0202,
+        0.0324
+      ],
+      "spurious_only_ndcg_loss@100": [
+        0.0065,
+        0.0036,
+        0.0097
+      ],
+      "spurious_subset_recall_loss@100": [
+        0.3936,
+        0.2673,
+        0.5185
+      ],
+      "spurious_routing_rate": [
+        0.0217,
+        0.0149,
+        0.0291
+      ],
+      "by_model": {
+        "qwen4": {
+          "recall_loss@100": 0.028,
+          "spurious_routing_rate": 0.0
+        },
+        "llama4": {
+          "recall_loss@100": 0.0646,
+          "spurious_routing_rate": 0.0619
+        },
+        "mistral4": {
+          "recall_loss@100": 0.0173,
+          "spurious_routing_rate": 0.0074
+        },
+        "gemma4": {
+          "recall_loss@100": 0.0286,
+          "spurious_routing_rate": 0.0173
+        }
+      }
+    },
+    "color": {
+      "base_recall@10": [
+        0.1596,
+        0.1488,
+        0.1709
+      ],
+      "filtered_recall@10": [
+        0.1383,
+        0.128,
+        0.1489
+      ],
+      "recall_loss@10": [
+        0.0213,
+        0.0168,
+        0.0262
+      ],
+      "spurious_only_recall_loss@10": [
+        0.007,
+        0.0046,
+        0.0099
+      ],
+      "spurious_only_recall_loss@10_hierarchical": [
+        0.007,
+        0.0006,
+        0.0187
+      ],
+      "base_ndcg@10": [
+        0.2139,
+        0.2007,
+        0.2271
+      ],
+      "ndcg_loss@10": [
+        0.0284,
+        0.0225,
+        0.0343
+      ],
+      "spurious_only_ndcg_loss@10": [
+        0.0089,
+        0.0058,
+        0.0123
+      ],
+      "base_recall@100": [
+        0.4373,
+        0.4199,
+        0.454
+      ],
+      "filtered_recall@100": [
+        0.3775,
+        0.3598,
+        0.395
+      ],
+      "recall_loss@100": [
+        0.0597,
+        0.0507,
+        0.0696
+      ],
+      "spurious_only_recall_loss@100": [
+        0.0197,
+        0.0143,
+        0.0256
+      ],
+      "spurious_only_recall_loss@100_hierarchical": [
+        0.0197,
+        0.0021,
+        0.0512
+      ],
+      "base_ndcg@100": [
+        0.3134,
+        0.2994,
+        0.3276
+      ],
+      "ndcg_loss@100": [
+        0.042,
+        0.0351,
+        0.0492
+      ],
+      "spurious_only_ndcg_loss@100": [
+        0.014,
+        0.01,
+        0.0183
+      ],
+      "spurious_subset_recall_loss@100": [
+        0.3986,
+        0.3265,
+        0.4725
+      ],
+      "spurious_routing_rate": [
+        0.0495,
+        0.039,
+        0.0606
+      ],
+      "by_model": {
+        "qwen4": {
+          "recall_loss@100": 0.0683,
+          "spurious_routing_rate": 0.0099
+        },
+        "llama4": {
+          "recall_loss@100": 0.1464,
+          "spurious_routing_rate": 0.1634
+        },
+        "mistral4": {
+          "recall_loss@100": 0.005,
+          "spurious_routing_rate": 0.005
+        },
+        "gemma4": {
+          "recall_loss@100": 0.0194,
+          "spurious_routing_rate": 0.0198
+        }
+      }
+    }
+  }
+}

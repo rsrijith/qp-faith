@@ -1,0 +1,105 @@
+{
+  "n_rows": 150,
+  "n_adjudicated": 150,
+  "agreement_raw": 0.947,
+  "agreement_kappa": 0.908,
+  "agreement_kappa_random": 0.718,
+  "typeless_purity": {
+    "WANDS": {
+      "n_random": 55,
+      "human_typeless_frac": [
+        0.764,
+        0.655,
+        0.873
+      ]
+    },
+    "ESCI": {
+      "n_random": 45,
+      "human_typeless_frac": [
+        0.844,
+        0.733,
+        0.933
+      ]
+    }
+  },
+  "human_label_counts": {
+    "WANDS": {
+      "type-less": 42,
+      "ambiguous": 5,
+      "genuine-product-type": 8
+    },
+    "ESCI": {
+      "type-less": 38,
+      "genuine-product-type": 41,
+      "ambiguous": 16
+    }
+  },
+  "wands_clean_motif_count": 42,
+  "wands_impurities": [
+    [
+      "queen",
+      "ambiguous"
+    ],
+    [
+      "simple",
+      "ambiguous"
+    ],
+    [
+      "bulb",
+      "ambiguous"
+    ],
+    [
+      "trunk",
+      "ambiguous"
+    ],
+    [
+      "blade",
+      "ambiguous"
+    ],
+    [
+      "feeder",
+      "genuine-product-type"
+    ],
+    [
+      "sticker",
+      "genuine-product-type"
+    ],
+    [
+      "flour",
+      "genuine-product-type"
+    ],
+    [
+      "noodle",
+      "genuine-product-type"
+    ],
+    [
+      "cereal",
+      "genuine-product-type"
+    ],
+    [
+      "condiment",
+      "genuine-product-type"
+    ],
+    [
+      "sauce",
+      "genuine-product-type"
+    ],
+    [
+      "casserole",
+      "genuine-product-type"
+    ]
+  ],
+  "wands_expansion_routing": {
+    "full_55": [
+      0.996,
+      0.99,
+      1.0
+    ],
+    "clean_subset": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "n_clean_motifs": 42
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "n_pairs": 85,
+  "n_wordnet_candidates": 185,
+  "prior_n": 12,
+  "design": "enlarged implicit-type controls: WordNet hyponym->hypernym candidates + paper's 12, LLM-confirmed to genuine purchasable product subtypes (removes WordNet noise like berm->shelf). Query-entailment (Q) should spare these legitimate implicit types; lexical (L) cannot.",
+  "lexical_baseline_pass": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "query_entailment_pass_either": [
+    0.459,
+    0.353,
+    0.565
+  ],
+  "query_entailment_pass[cross-encoder/nli-deberta-v3-base]": [
+    0.388,
+    0.294,
+    0.494
+  ],
+  "query_entailment_pass[cross-encoder/nli-roberta-base]": [
+    0.306,
+    0.212,
+    0.4
+  ],
+  "examples_Q_fails": [
+    "banquette->bench",
+    "blanket->bed",
+    "broadloom->rug",
+    "cheval glass->mirror",
+    "chiffonier->dresser",
+    "china closet->cabinet",
+    "clothespress->wardrobe",
+    "console->table",
+    "convertible->couch",
+    "counter->table",
+    "credenza->cabinet",
+    "cushion->bed",
+    "daybed->couch",
+    "desk->table",
+    "divan->couch",
+    "divan bed->couch",
+    "dresser->cabinet",
+    "escritoire->desk",
+    "flush toilet->stool",
+    "flushless toilet->stool"
+  ]
+}

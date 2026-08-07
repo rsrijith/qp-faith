@@ -1,0 +1,64 @@
+{
+  "model": "gpt-5.2",
+  "design": "category false-application on 55 type-less WANDS motifs, gpt-5.2 at reasoning_effort low/medium/high, two prompts; query-clustered bootstrap; seed 13.",
+  "by_prompt": {
+    "default_extract": {
+      "low": {
+        "false_application": [
+          0.491,
+          0.364,
+          0.618
+        ],
+        "n": 55,
+        "n_error": 0
+      },
+      "medium": {
+        "false_application": [
+          0.436,
+          0.309,
+          0.564
+        ],
+        "n": 55,
+        "n_error": 0
+      },
+      "high": {
+        "false_application": [
+          0.473,
+          0.345,
+          0.6
+        ],
+        "n": 55,
+        "n_error": 0
+      }
+    },
+    "expansion": {
+      "low": {
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "n": 55,
+        "n_error": 0
+      },
+      "medium": {
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "n": 55,
+        "n_error": 0
+      },
+      "high": {
+        "false_application": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "n": 55,
+        "n_error": 0
+      }
+    }
+  }
+}
