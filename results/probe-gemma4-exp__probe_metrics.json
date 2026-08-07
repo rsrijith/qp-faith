@@ -1,6 +1,6 @@
 {
   "tag": "probe-gemma4-exp",
-  "n_A": 31,
+  "n_A": 55,
   "n_B": 18,
   "A_product_type_forced_rate": [
     1.0,
@@ -8,11 +8,11 @@
     1.0
   ],
   "A_mean_relevant_excluded_when_typed": [
-    0.8552023767948584,
-    0.7566494984924258,
-    0.9328177743798571
+    0.8756646746740895,
+    0.8155570023488422,
+    0.926645354856291
   ],
-  "A_n_typed": 31,
+  "A_n_typed": 55,
   "B_extra_slot_injections": 7,
   "B_over_injection_rate": [
     0.3333333333333333,

@@ -1,0 +1,519 @@
+{
+  "design": "category false-application on 61 type-less ORGANIC WANDS queries (control: 419 typed), four ecological prompts x 9 planners; parse-failure separated; query-clustered bootstrap; seed 13.",
+  "n_typeless": 61,
+  "n_typed": 419,
+  "by_condition": {
+    "stock_selfquery": {
+      "qwen4": {
+        "false_application_typeless": [
+          0.459,
+          0.344,
+          0.59
+        ],
+        "correct_application_typed": [
+          0.84,
+          0.802,
+          0.874
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "llama4": {
+        "false_application_typeless": [
+          0.459,
+          0.328,
+          0.59
+        ],
+        "correct_application_typed": [
+          0.859,
+          0.826,
+          0.89
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "mistral4": {
+        "false_application_typeless": [
+          0.661,
+          0.536,
+          0.786
+        ],
+        "correct_application_typed": [
+          0.673,
+          0.625,
+          0.718
+        ],
+        "parse_failure_rate": 0.056,
+        "n_typeless_parseable": 56
+      },
+      "gemma4": {
+        "false_application_typeless": [
+          0.098,
+          0.033,
+          0.18
+        ],
+        "correct_application_typed": [
+          0.222,
+          0.182,
+          0.263
+        ],
+        "parse_failure_rate": 0.002,
+        "n_typeless_parseable": 61
+      },
+      "haiku": {
+        "false_application_typeless": [
+          0.246,
+          0.131,
+          0.361
+        ],
+        "correct_application_typed": [
+          0.797,
+          0.759,
+          0.833
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "sonnet": {
+        "false_application_typeless": [
+          0.311,
+          0.197,
+          0.426
+        ],
+        "correct_application_typed": [
+          0.943,
+          0.919,
+          0.964
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "together-llama70": {
+        "false_application_typeless": [
+          0.361,
+          0.246,
+          0.476
+        ],
+        "correct_application_typed": [
+          0.823,
+          0.788,
+          0.859
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "gpt4o": {
+        "false_application_typeless": [
+          0.23,
+          0.131,
+          0.344
+        ],
+        "correct_application_typed": [
+          0.838,
+          0.802,
+          0.874
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "gpt52": {
+        "false_application_typeless": [
+          0.279,
+          0.164,
+          0.393
+        ],
+        "correct_application_typed": [
+          0.938,
+          0.914,
+          0.959
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      }
+    },
+    "default_extract": {
+      "qwen4": {
+        "false_application_typeless": [
+          0.443,
+          0.328,
+          0.574
+        ],
+        "correct_application_typed": [
+          0.893,
+          0.862,
+          0.921
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "llama4": {
+        "false_application_typeless": [
+          0.705,
+          0.59,
+          0.82
+        ],
+        "correct_application_typed": [
+          0.874,
+          0.84,
+          0.905
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "mistral4": {
+        "false_application_typeless": [
+          0.623,
+          0.491,
+          0.755
+        ],
+        "correct_application_typed": [
+          0.957,
+          0.935,
+          0.976
+        ],
+        "parse_failure_rate": 0.121,
+        "n_typeless_parseable": 53
+      },
+      "gemma4": {
+        "false_application_typeless": [
+          0.213,
+          0.115,
+          0.328
+        ],
+        "correct_application_typed": [
+          0.575,
+          0.525,
+          0.623
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "haiku": {
+        "false_application_typeless": [
+          0.492,
+          0.361,
+          0.623
+        ],
+        "correct_application_typed": [
+          0.974,
+          0.957,
+          0.988
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "sonnet": {
+        "false_application_typeless": [
+          0.459,
+          0.328,
+          0.59
+        ],
+        "correct_application_typed": [
+          0.981,
+          0.967,
+          0.993
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "together-llama70": {
+        "false_application_typeless": [
+          0.443,
+          0.311,
+          0.574
+        ],
+        "correct_application_typed": [
+          0.919,
+          0.89,
+          0.945
+        ],
+        "parse_failure_rate": 0.002,
+        "n_typeless_parseable": 61
+      },
+      "gpt4o": {
+        "false_application_typeless": [
+          0.311,
+          0.197,
+          0.426
+        ],
+        "correct_application_typed": [
+          0.943,
+          0.919,
+          0.964
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "gpt52": {
+        "false_application_typeless": [
+          0.426,
+          0.311,
+          0.557
+        ],
+        "correct_application_typed": [
+          0.986,
+          0.974,
+          0.995
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      }
+    },
+    "practitioner_shopping": {
+      "qwen4": {
+        "false_application_typeless": [
+          0.525,
+          0.393,
+          0.656
+        ],
+        "correct_application_typed": [
+          0.938,
+          0.914,
+          0.959
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "llama4": {
+        "false_application_typeless": [
+          0.77,
+          0.656,
+          0.869
+        ],
+        "correct_application_typed": [
+          0.99,
+          0.981,
+          0.998
+        ],
+        "parse_failure_rate": 0.002,
+        "n_typeless_parseable": 61
+      },
+      "mistral4": {
+        "false_application_typeless": [
+          0.617,
+          0.483,
+          0.733
+        ],
+        "correct_application_typed": [
+          0.656,
+          0.61,
+          0.704
+        ],
+        "parse_failure_rate": 0.052,
+        "n_typeless_parseable": 60
+      },
+      "gemma4": {
+        "false_application_typeless": [
+          0.525,
+          0.393,
+          0.656
+        ],
+        "correct_application_typed": [
+          0.988,
+          0.976,
+          0.998
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "haiku": {
+        "false_application_typeless": [
+          0.541,
+          0.41,
+          0.656
+        ],
+        "correct_application_typed": [
+          0.976,
+          0.962,
+          0.99
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "sonnet": {
+        "false_application_typeless": [
+          0.377,
+          0.262,
+          0.508
+        ],
+        "correct_application_typed": [
+          0.986,
+          0.974,
+          0.995
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "together-llama70": {
+        "false_application_typeless": [
+          0.459,
+          0.328,
+          0.574
+        ],
+        "correct_application_typed": [
+          0.93,
+          0.904,
+          0.954
+        ],
+        "parse_failure_rate": 0.004,
+        "n_typeless_parseable": 61
+      },
+      "gpt4o": {
+        "false_application_typeless": [
+          0.393,
+          0.279,
+          0.509
+        ],
+        "correct_application_typed": [
+          0.988,
+          0.976,
+          0.998
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "gpt52": {
+        "false_application_typeless": [
+          0.377,
+          0.262,
+          0.508
+        ],
+        "correct_application_typed": [
+          0.955,
+          0.933,
+          0.974
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      }
+    },
+    "practitioner_narrow": {
+      "qwen4": {
+        "false_application_typeless": [
+          0.705,
+          0.59,
+          0.82
+        ],
+        "correct_application_typed": [
+          0.981,
+          0.967,
+          0.993
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "llama4": {
+        "false_application_typeless": [
+          0.803,
+          0.705,
+          0.902
+        ],
+        "correct_application_typed": [
+          0.976,
+          0.959,
+          0.99
+        ],
+        "parse_failure_rate": 0.004,
+        "n_typeless_parseable": 61
+      },
+      "mistral4": {
+        "false_application_typeless": [
+          0.393,
+          0.268,
+          0.518
+        ],
+        "correct_application_typed": [
+          0.527,
+          0.481,
+          0.578
+        ],
+        "parse_failure_rate": 0.065,
+        "n_typeless_parseable": 56
+      },
+      "gemma4": {
+        "false_application_typeless": [
+          0.754,
+          0.639,
+          0.852
+        ],
+        "correct_application_typed": [
+          0.981,
+          0.967,
+          0.993
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "haiku": {
+        "false_application_typeless": [
+          0.59,
+          0.475,
+          0.721
+        ],
+        "correct_application_typed": [
+          0.979,
+          0.964,
+          0.99
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "sonnet": {
+        "false_application_typeless": [
+          0.426,
+          0.311,
+          0.541
+        ],
+        "correct_application_typed": [
+          0.981,
+          0.967,
+          0.993
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "together-llama70": {
+        "false_application_typeless": [
+          0.492,
+          0.377,
+          0.623
+        ],
+        "correct_application_typed": [
+          0.959,
+          0.938,
+          0.976
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "gpt4o": {
+        "false_application_typeless": [
+          0.525,
+          0.393,
+          0.656
+        ],
+        "correct_application_typed": [
+          0.993,
+          0.983,
+          1.0
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      },
+      "gpt52": {
+        "false_application_typeless": [
+          0.459,
+          0.344,
+          0.59
+        ],
+        "correct_application_typed": [
+          0.974,
+          0.957,
+          0.988
+        ],
+        "parse_failure_rate": 0.0,
+        "n_typeless_parseable": 61
+      }
+    }
+  }
+}

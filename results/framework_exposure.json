@@ -1,0 +1,41 @@
+{
+  "design": "LangChain SelfQueryRetriever shipped query constructor; category-filter rate on 55 type-less motifs; neutral vs narrowing catalog description; temp 0.",
+  "by_model": {
+    "gpt-4o": {
+      "neutral": {
+        "category_filter_rate": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "n_error": 0
+      },
+      "narrowing": {
+        "category_filter_rate": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "n_error": 6
+      }
+    },
+    "gpt-4o-mini": {
+      "neutral": {
+        "category_filter_rate": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "n_error": 0
+      },
+      "narrowing": {
+        "category_filter_rate": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "n_error": 0
+      }
+    }
+  }
+}

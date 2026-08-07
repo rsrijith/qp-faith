@@ -1,0 +1,22 @@
+{
+  "tag": "probe-gpt52-opt",
+  "n_A": 55,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.03636363636363636,
+    0.0,
+    0.09090909090909091
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.5721153846153846,
+    0.375,
+    0.7692307692307693
+  ],
+  "A_n_typed": 2,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

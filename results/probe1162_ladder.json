@@ -1,0 +1,240 @@
+{
+  "design": "category false-application on the 1,162-motif ESCI probe (type-less by construction), 4 local planners x 4 ecological prompts; full vs edible-removed clean subset (R1.1 correction); parse-failure separated; query-clustered bootstrap; seed 13.",
+  "n_motifs_full": 1162,
+  "n_edible_removed": 214,
+  "n_clean": 948,
+  "by_condition": {
+    "stock_selfquery": {
+      "qwen4": {
+        "false_application_full_1162": [
+          0.014,
+          0.008,
+          0.021
+        ],
+        "false_application_edible_removed": [
+          0.017,
+          0.009,
+          0.025
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      },
+      "llama4": {
+        "false_application_full_1162": [
+          0.316,
+          0.29,
+          0.343
+        ],
+        "false_application_edible_removed": [
+          0.332,
+          0.303,
+          0.362
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      },
+      "mistral4": {
+        "false_application_full_1162": [
+          0.716,
+          0.687,
+          0.745
+        ],
+        "false_application_edible_removed": [
+          0.702,
+          0.669,
+          0.734
+        ],
+        "parse_failure_rate": 0.201,
+        "n_scored": 929
+      },
+      "gemma4": {
+        "false_application_full_1162": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "false_application_edible_removed": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      }
+    },
+    "default_extract": {
+      "qwen4": {
+        "false_application_full_1162": [
+          0.133,
+          0.113,
+          0.153
+        ],
+        "false_application_edible_removed": [
+          0.151,
+          0.129,
+          0.174
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      },
+      "llama4": {
+        "false_application_full_1162": [
+          0.444,
+          0.416,
+          0.472
+        ],
+        "false_application_edible_removed": [
+          0.479,
+          0.447,
+          0.511
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      },
+      "mistral4": {
+        "false_application_full_1162": [
+          0.476,
+          0.436,
+          0.517
+        ],
+        "false_application_edible_removed": [
+          0.476,
+          0.431,
+          0.521
+        ],
+        "parse_failure_rate": 0.51,
+        "n_scored": 569
+      },
+      "gemma4": {
+        "false_application_full_1162": [
+          0.003,
+          0.001,
+          0.007
+        ],
+        "false_application_edible_removed": [
+          0.004,
+          0.001,
+          0.008
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      }
+    },
+    "practitioner_shopping": {
+      "qwen4": {
+        "false_application_full_1162": [
+          0.112,
+          0.095,
+          0.131
+        ],
+        "false_application_edible_removed": [
+          0.122,
+          0.101,
+          0.145
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      },
+      "llama4": {
+        "false_application_full_1162": [
+          0.682,
+          0.656,
+          0.709
+        ],
+        "false_application_edible_removed": [
+          0.703,
+          0.673,
+          0.731
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      },
+      "mistral4": {
+        "false_application_full_1162": [
+          0.804,
+          0.781,
+          0.828
+        ],
+        "false_application_edible_removed": [
+          0.804,
+          0.779,
+          0.829
+        ],
+        "parse_failure_rate": 0.028,
+        "n_scored": 1129
+      },
+      "gemma4": {
+        "false_application_full_1162": [
+          0.428,
+          0.399,
+          0.456
+        ],
+        "false_application_edible_removed": [
+          0.443,
+          0.41,
+          0.474
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      }
+    },
+    "practitioner_narrow": {
+      "qwen4": {
+        "false_application_full_1162": [
+          0.657,
+          0.631,
+          0.685
+        ],
+        "false_application_edible_removed": [
+          0.662,
+          0.633,
+          0.693
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1162
+      },
+      "llama4": {
+        "false_application_full_1162": [
+          0.912,
+          0.896,
+          0.928
+        ],
+        "false_application_edible_removed": [
+          0.919,
+          0.901,
+          0.936
+        ],
+        "parse_failure_rate": 0.002,
+        "n_scored": 1160
+      },
+      "mistral4": {
+        "false_application_full_1162": [
+          0.406,
+          0.379,
+          0.434
+        ],
+        "false_application_edible_removed": [
+          0.388,
+          0.356,
+          0.419
+        ],
+        "parse_failure_rate": 0.019,
+        "n_scored": 1140
+      },
+      "gemma4": {
+        "false_application_full_1162": [
+          0.76,
+          0.736,
+          0.784
+        ],
+        "false_application_edible_removed": [
+          0.782,
+          0.754,
+          0.808
+        ],
+        "parse_failure_rate": 0.0,
+        "n_scored": 1159
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tag": "dom-apparel-qwen4-expansion",
+  "n_entity": 33,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.32044599871610085,
+    0.1908240698433349,
+    0.46237791767071346
+  ]
+}

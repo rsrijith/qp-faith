@@ -1,0 +1,25 @@
+{
+  "design": "type-less prevalence in real query sets; WANDS from auto_reference, ESCI via gpt-4o-mini classification; bootstrap CIs, seed 13.",
+  "WANDS": {
+    "n": 480,
+    "typeless_fraction": [
+      0.127,
+      0.098,
+      0.158
+    ]
+  },
+  "ESCI": {
+    "n": 480,
+    "typeless_fraction": [
+      0.131,
+      0.102,
+      0.16
+    ],
+    "label_breakdown": {
+      "type-less": 63,
+      "genuine-product-type": 404,
+      "ambiguous": 13,
+      "ERROR": 0
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tag": "dom-apparel-mistral4-conservative",
+  "n_entity": 33,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.431553760702159,
+    0.29471783623993403,
+    0.5802148147612968
+  ]
+}

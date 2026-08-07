@@ -1,11 +1,13 @@
-.venv/
+# Regenerable caches and source catalogs are not redistributed.
+# Rebuild them with the commands in README "Reproduce".
+results/dearn/
+results/**/*.parquet
+results/*.parquet
+results/*.npy
+results/**/*.npy
+results/*.log
+data/*.csv
+data/**/*.parquet
 __pycache__/
 *.pyc
-.DS_Store
-*.parquet
-*.npy
-data/product.csv
-data/query.csv
-data/label.csv
-catalog*.parquet
-backup_*/
+.venv/

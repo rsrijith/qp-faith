@@ -1,0 +1,9 @@
+{
+  "k": 5,
+  "temp": 0.8,
+  "entity_agreement": 0.720909090909091,
+  "concrete_agreement": 0.6944444444444444,
+  "entity_distinct": 2.109090909090909,
+  "concrete_distinct": 1.9305555555555556,
+  "separation_auc": 0.4672348484848485
+}

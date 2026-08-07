@@ -1,0 +1,15 @@
+{
+  "tag": "dom-electronics-qwen4-expansion",
+  "n_entity": 28,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.41250598857182214,
+    0.26091913867126376,
+    0.5623934013540621
+  ]
+}

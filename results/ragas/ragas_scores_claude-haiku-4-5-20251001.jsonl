@@ -1,0 +1,356 @@
+{"id": "mis::aloe::plant", "arm": "misrouted", "query": "aloe", "type": "plant", "faithfulness": 0.0}
+{"id": "mis::aloe::skin care", "arm": "misrouted", "query": "aloe", "type": "skin care", "faithfulness": 0.0}
+{"id": "mis::arbor::Furniture", "arm": "misrouted", "query": "arbor", "type": "Furniture", "faithfulness": 1.0}
+{"id": "mis::arbor::plant", "arm": "misrouted", "query": "arbor", "type": "plant", "faithfulness": 0.0}
+{"id": "mis::arbor::tree", "arm": "misrouted", "query": "arbor", "type": "tree", "faithfulness": 0.0}
+{"id": "mis::bear::Toys", "arm": "misrouted", "query": "bear", "type": "Toys", "faithfulness": 1.0}
+{"id": "mis::bear::jewelry", "arm": "misrouted", "query": "bear", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::bear::plush toy", "arm": "misrouted", "query": "bear", "type": "plush toy", "faithfulness": 0.0}
+{"id": "mis::bear::stuffed animal / plush toy", "arm": "misrouted", "query": "bear", "type": "stuffed animal / plush toy", "faithfulness": 0.0}
+{"id": "mis::bear::toy", "arm": "misrouted", "query": "bear", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::bees::Home & Garden", "arm": "misrouted", "query": "bees", "type": "Home & Garden", "faithfulness": 1.0}
+{"id": "mis::bees::bee-themed decor", "arm": "misrouted", "query": "bees", "type": "bee-themed decor", "faithfulness": 0.0}
+{"id": "mis::bees::beekeeping supplies", "arm": "misrouted", "query": "bees", "type": "beekeeping supplies", "faithfulness": 0.0}
+{"id": "mis::bees::decor", "arm": "misrouted", "query": "bees", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::bees::home decor", "arm": "misrouted", "query": "bees", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::bees::jewelry", "arm": "misrouted", "query": "bees", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::bees::toy", "arm": "misrouted", "query": "bees", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::birds::Home Decor", "arm": "misrouted", "query": "birds", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::birds::bird feeder", "arm": "misrouted", "query": "birds", "type": "bird feeder", "faithfulness": 0.0}
+{"id": "mis::birds::bird-themed home decor", "arm": "misrouted", "query": "birds", "type": "bird-themed home decor", "faithfulness": 0.0}
+{"id": "mis::birds::birdhouse", "arm": "misrouted", "query": "birds", "type": "birdhouse", "faithfulness": 0.0}
+{"id": "mis::birds::jewelry", "arm": "misrouted", "query": "birds", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::birds::toy", "arm": "misrouted", "query": "birds", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::birds::toys", "arm": "misrouted", "query": "birds", "type": "toys", "faithfulness": 1.0}
+{"id": "mis::blade::Kitchen", "arm": "misrouted", "query": "blade", "type": "Kitchen", "faithfulness": 1.0}
+{"id": "mis::blade::Kitchen Knife", "arm": "misrouted", "query": "blade", "type": "Kitchen Knife", "faithfulness": 0.0}
+{"id": "mis::blade::knife", "arm": "misrouted", "query": "blade", "type": "knife", "faithfulness": 0.0}
+{"id": "mis::blade::knives", "arm": "misrouted", "query": "blade", "type": "knives", "faithfulness": 0.0}
+{"id": "mis::breakfast::breakfast food", "arm": "misrouted", "query": "breakfast", "type": "breakfast food", "faithfulness": 0.0}
+{"id": "mis::breakfast::dining", "arm": "misrouted", "query": "breakfast", "type": "dining", "faithfulness": 1.0}
+{"id": "mis::breakfast::dishes", "arm": "misrouted", "query": "breakfast", "type": "dishes", "faithfulness": 1.0}
+{"id": "mis::breakfast::food", "arm": "misrouted", "query": "breakfast", "type": "food", "faithfulness": 0.0}
+{"id": "mis::bulb::Lighting", "arm": "misrouted", "query": "bulb", "type": "Lighting", "faithfulness": 1.0}
+{"id": "mis::bulb::light bulb", "arm": "misrouted", "query": "bulb", "type": "light bulb", "faithfulness": 1.0}
+{"id": "mis::bulb::lighting", "arm": "misrouted", "query": "bulb", "type": "lighting", "faithfulness": 1.0}
+{"id": "mis::butterfly::butterfly jewelry", "arm": "misrouted", "query": "butterfly", "type": "butterfly jewelry", "faithfulness": 0.0}
+{"id": "mis::butterfly::butterfly wall decor", "arm": "misrouted", "query": "butterfly", "type": "butterfly wall decor", "faithfulness": 0.0}
+{"id": "mis::butterfly::jewelry", "arm": "misrouted", "query": "butterfly", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::butterfly::wall decor", "arm": "misrouted", "query": "butterfly", "type": "wall decor", "faithfulness": 0.0}
+{"id": "mis::casserole::casserole dish", "arm": "misrouted", "query": "casserole", "type": "casserole dish", "faithfulness": 0.0}
+{"id": "mis::casserole::cookware", "arm": "misrouted", "query": "casserole", "type": "cookware", "faithfulness": 1.0}
+{"id": "mis::cereal::food", "arm": "misrouted", "query": "cereal", "type": "food", "faithfulness": 0.0}
+{"id": "mis::condiment::food", "arm": "misrouted", "query": "condiment", "type": "food", "faithfulness": 0.0}
+{"id": "mis::condiment::sauce", "arm": "misrouted", "query": "condiment", "type": "sauce", "faithfulness": 0.0}
+{"id": "mis::crab::Kitchen & Dining", "arm": "misrouted", "query": "crab", "type": "Kitchen & Dining", "faithfulness": 1.0}
+{"id": "mis::crab::food", "arm": "misrouted", "query": "crab", "type": "food", "faithfulness": 0.0}
+{"id": "mis::crab::jewelry", "arm": "misrouted", "query": "crab", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::crab::seafood / crab meat", "arm": "misrouted", "query": "crab", "type": "seafood / crab meat", "faithfulness": 0.0}
+{"id": "mis::cuisine::Kitchen", "arm": "misrouted", "query": "cuisine", "type": "Kitchen", "faithfulness": 1.0}
+{"id": "mis::cuisine::cookware", "arm": "misrouted", "query": "cuisine", "type": "cookware", "faithfulness": 1.0}
+{"id": "mis::cuisine::cookware set", "arm": "misrouted", "query": "cuisine", "type": "cookware set", "faithfulness": 0.0}
+{"id": "mis::cuisine::kitchen decor", "arm": "misrouted", "query": "cuisine", "type": "kitchen decor", "faithfulness": 0.0}
+{"id": "mis::daisy::dress", "arm": "misrouted", "query": "daisy", "type": "dress", "faithfulness": 0.0}
+{"id": "mis::daisy::floral dress", "arm": "misrouted", "query": "daisy", "type": "floral dress", "faithfulness": 0.0}
+{"id": "mis::daisy::jewelry", "arm": "misrouted", "query": "daisy", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::dinner::dinnerware", "arm": "misrouted", "query": "dinner", "type": "dinnerware", "faithfulness": 1.0}
+{"id": "mis::dinner::dinnerware set", "arm": "misrouted", "query": "dinner", "type": "dinnerware set", "faithfulness": 0.0}
+{"id": "mis::dinosaur::toy", "arm": "misrouted", "query": "dinosaur", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::dinosaur::toys", "arm": "misrouted", "query": "dinosaur", "type": "toys", "faithfulness": 1.0}
+{"id": "mis::dinosaurs::Toys", "arm": "misrouted", "query": "dinosaurs", "type": "Toys", "faithfulness": 1.0}
+{"id": "mis::dinosaurs::toy", "arm": "misrouted", "query": "dinosaurs", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::dinosaurs::toys", "arm": "misrouted", "query": "dinosaurs", "type": "toys", "faithfulness": 1.0}
+{"id": "mis::elephant::Decorative", "arm": "misrouted", "query": "elephant", "type": "Decorative", "faithfulness": 1.0}
+{"id": "mis::elephant::jewelry", "arm": "misrouted", "query": "elephant", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::elephant::toy", "arm": "misrouted", "query": "elephant", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::feeder::Pet Supplies", "arm": "misrouted", "query": "feeder", "type": "Pet Supplies", "faithfulness": 0.0}
+{"id": "mis::feeder::bird feeder", "arm": "misrouted", "query": "feeder", "type": "bird feeder", "faithfulness": 0.0}
+{"id": "mis::feeder::pet bird feeder", "arm": "misrouted", "query": "feeder", "type": "pet bird feeder", "faithfulness": 0.0}
+{"id": "mis::feeder::pet feeder", "arm": "misrouted", "query": "feeder", "type": "pet feeder", "faithfulness": 0.0}
+{"id": "mis::feeder::pet supplies", "arm": "misrouted", "query": "feeder", "type": "pet supplies", "faithfulness": 0.0}
+{"id": "mis::fish::aquarium", "arm": "misrouted", "query": "fish", "type": "aquarium", "faithfulness": 1.0}
+{"id": "mis::fish::decor", "arm": "misrouted", "query": "fish", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::fish::fish food", "arm": "misrouted", "query": "fish", "type": "fish food", "faithfulness": 0.0}
+{"id": "mis::fish::fishing rod", "arm": "misrouted", "query": "fish", "type": "fishing rod", "faithfulness": 0.0}
+{"id": "mis::fish::jewelry", "arm": "misrouted", "query": "fish", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::flamingo::Decorative", "arm": "misrouted", "query": "flamingo", "type": "Decorative", "faithfulness": 1.0}
+{"id": "mis::flamingo::clothing", "arm": "misrouted", "query": "flamingo", "type": "clothing", "faithfulness": 1.0}
+{"id": "mis::flamingo::decor", "arm": "misrouted", "query": "flamingo", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::flamingo::decorative figurine or garden ornament", "arm": "misrouted", "query": "flamingo", "type": "decorative figurine or garden ornament", "faithfulness": 0.0}
+{"id": "mis::flamingo::home decor", "arm": "misrouted", "query": "flamingo", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::flamingo::jewelry", "arm": "misrouted", "query": "flamingo", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::flamingos::Home Decor", "arm": "misrouted", "query": "flamingos", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::flamingos::decor", "arm": "misrouted", "query": "flamingos", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::flamingos::decorative figurine or garden ornament", "arm": "misrouted", "query": "flamingos", "type": "decorative figurine or garden ornament", "faithfulness": 0.0}
+{"id": "mis::flamingos::dress", "arm": "misrouted", "query": "flamingos", "type": "dress", "faithfulness": 0.0}
+{"id": "mis::flamingos::home decor", "arm": "misrouted", "query": "flamingos", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::flamingos::jewelry", "arm": "misrouted", "query": "flamingos", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::flour::baking", "arm": "misrouted", "query": "flour", "type": "baking", "faithfulness": 1.0}
+{"id": "mis::flour::food", "arm": "misrouted", "query": "flour", "type": "food", "faithfulness": 0.0}
+{"id": "mis::foliage::Home Decor", "arm": "misrouted", "query": "foliage", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::foliage::artificial foliage plant decor", "arm": "misrouted", "query": "foliage", "type": "artificial foliage plant decor", "faithfulness": 0.0}
+{"id": "mis::foliage::artificial foliage stems", "arm": "misrouted", "query": "foliage", "type": "artificial foliage stems", "faithfulness": 0.0}
+{"id": "mis::foliage::artificial plants", "arm": "misrouted", "query": "foliage", "type": "artificial plants", "faithfulness": 1.0}
+{"id": "mis::foliage::home decor", "arm": "misrouted", "query": "foliage", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::foliage::plant", "arm": "misrouted", "query": "foliage", "type": "plant", "faithfulness": 0.0}
+{"id": "mis::foliage::planters", "arm": "misrouted", "query": "foliage", "type": "planters", "faithfulness": 1.0}
+{"id": "mis::foliage::plants", "arm": "misrouted", "query": "foliage", "type": "plants", "faithfulness": 1.0}
+{"id": "mis::frog::Decorative", "arm": "misrouted", "query": "frog", "type": "Decorative", "faithfulness": 1.0}
+{"id": "mis::frog::jewelry", "arm": "misrouted", "query": "frog", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::frog::plush toy", "arm": "misrouted", "query": "frog", "type": "plush toy", "faithfulness": 0.0}
+{"id": "mis::frog::toy", "arm": "misrouted", "query": "frog", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::fruit::food", "arm": "misrouted", "query": "fruit", "type": "food", "faithfulness": 0.0}
+{"id": "mis::giant::Furniture", "arm": "misrouted", "query": "giant", "type": "Furniture", "faithfulness": 1.0}
+{"id": "mis::giant::bike", "arm": "misrouted", "query": "giant", "type": "bike", "faithfulness": 0.0}
+{"id": "mis::holly::Christmas decor", "arm": "misrouted", "query": "holly", "type": "Christmas decor", "faithfulness": 0.0}
+{"id": "mis::holly::Women's Clothing", "arm": "misrouted", "query": "holly", "type": "Women's Clothing", "faithfulness": 0.0}
+{"id": "mis::holly::christmas decoration", "arm": "misrouted", "query": "holly", "type": "christmas decoration", "faithfulness": 0.0}
+{"id": "mis::holly::decor", "arm": "misrouted", "query": "holly", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::holly::holiday decoration", "arm": "misrouted", "query": "holly", "type": "holiday decoration", "faithfulness": 0.0}
+{"id": "mis::holly::jewelry", "arm": "misrouted", "query": "holly", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::holly::ornament", "arm": "misrouted", "query": "holly", "type": "ornament", "faithfulness": 1.0}
+{"id": "mis::holly::plant", "arm": "misrouted", "query": "holly", "type": "plant", "faithfulness": 0.0}
+{"id": "mis::lily::Clothing", "arm": "misrouted", "query": "lily", "type": "Clothing", "faithfulness": 1.0}
+{"id": "mis::lily::dress", "arm": "misrouted", "query": "lily", "type": "dress", "faithfulness": 0.0}
+{"id": "mis::lily::flower pot", "arm": "misrouted", "query": "lily", "type": "flower pot", "faithfulness": 0.0}
+{"id": "mis::lily::jewelry", "arm": "misrouted", "query": "lily", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::lotus::Home Decor", "arm": "misrouted", "query": "lotus", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::lotus::flower arrangement or decor", "arm": "misrouted", "query": "lotus", "type": "flower arrangement or decor", "faithfulness": 0.5}
+{"id": "mis::lotus::jewelry", "arm": "misrouted", "query": "lotus", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::lotus::yoga mat", "arm": "misrouted", "query": "lotus", "type": "yoga mat", "faithfulness": 0.0}
+{"id": "mis::lunch::Food & Dining", "arm": "misrouted", "query": "lunch", "type": "Food & Dining", "faithfulness": 0.0}
+{"id": "mis::lunch::bag", "arm": "misrouted", "query": "lunch", "type": "bag", "faithfulness": 0.0}
+{"id": "mis::lunch::bags", "arm": "misrouted", "query": "lunch", "type": "bags", "faithfulness": 0.0}
+{"id": "mis::lunch::food", "arm": "misrouted", "query": "lunch", "type": "food", "faithfulness": 0.0}
+{"id": "mis::lunch::lunch bag", "arm": "misrouted", "query": "lunch", "type": "lunch bag", "faithfulness": 0.0}
+{"id": "mis::lunch::lunch box", "arm": "misrouted", "query": "lunch", "type": "lunch box", "faithfulness": 0.0}
+{"id": "mis::noodle::food", "arm": "misrouted", "query": "noodle", "type": "food", "faithfulness": 0.0}
+{"id": "mis::noodle::jewelry", "arm": "misrouted", "query": "noodle", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::noodle::pasta", "arm": "misrouted", "query": "noodle", "type": "pasta", "faithfulness": 1.0}
+{"id": "mis::octopus::Decorative", "arm": "misrouted", "query": "octopus", "type": "Decorative", "faithfulness": 1.0}
+{"id": "mis::octopus::jewelry", "arm": "misrouted", "query": "octopus", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::octopus::octopus plush toy", "arm": "misrouted", "query": "octopus", "type": "octopus plush toy", "faithfulness": 0.0}
+{"id": "mis::octopus::plush toy", "arm": "misrouted", "query": "octopus", "type": "plush toy", "faithfulness": 0.0}
+{"id": "mis::octopus::toy", "arm": "misrouted", "query": "octopus", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::orchids::Plants", "arm": "misrouted", "query": "orchids", "type": "Plants", "faithfulness": 1.0}
+{"id": "mis::orchids::live orchid plant", "arm": "misrouted", "query": "orchids", "type": "live orchid plant", "faithfulness": 0.0}
+{"id": "mis::orchids::live plants", "arm": "misrouted", "query": "orchids", "type": "live plants", "faithfulness": 0.0}
+{"id": "mis::orchids::plants", "arm": "misrouted", "query": "orchids", "type": "plants", "faithfulness": 1.0}
+{"id": "mis::ornamental::Decorative", "arm": "misrouted", "query": "ornamental", "type": "Decorative", "faithfulness": 1.0}
+{"id": "mis::ornamental::decor", "arm": "misrouted", "query": "ornamental", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::ornamental::decorative figurine or ornament", "arm": "misrouted", "query": "ornamental", "type": "decorative figurine or ornament", "faithfulness": 0.5}
+{"id": "mis::ornamental::decorative object", "arm": "misrouted", "query": "ornamental", "type": "decorative object", "faithfulness": 1.0}
+{"id": "mis::ornamental::home decor", "arm": "misrouted", "query": "ornamental", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::ornamental::jewelry", "arm": "misrouted", "query": "ornamental", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::ornamental::ornament", "arm": "misrouted", "query": "ornamental", "type": "ornament", "faithfulness": 1.0}
+{"id": "mis::owls::Home Decor", "arm": "misrouted", "query": "owls", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::owls::decor", "arm": "misrouted", "query": "owls", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::owls::home decor", "arm": "misrouted", "query": "owls", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::owls::jewelry", "arm": "misrouted", "query": "owls", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::owls::ornament", "arm": "misrouted", "query": "owls", "type": "ornament", "faithfulness": 1.0}
+{"id": "mis::pineapples::food", "arm": "misrouted", "query": "pineapples", "type": "food", "faithfulness": 0.0}
+{"id": "mis::pineapples::home decor", "arm": "misrouted", "query": "pineapples", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::queen::bed", "arm": "misrouted", "query": "queen", "type": "bed", "faithfulness": 1.0}
+{"id": "mis::queen::bed frame", "arm": "misrouted", "query": "queen", "type": "bed frame", "faithfulness": 0.0}
+{"id": "mis::queen::bedding", "arm": "misrouted", "query": "queen", "type": "bedding", "faithfulness": 1.0}
+{"id": "mis::queen::bedding set", "arm": "misrouted", "query": "queen", "type": "bedding set", "faithfulness": 0.0}
+{"id": "mis::queen::furniture", "arm": "misrouted", "query": "queen", "type": "furniture", "faithfulness": 0.0}
+{"id": "mis::queen::mattress", "arm": "misrouted", "query": "queen", "type": "mattress", "faithfulness": 1.0}
+{"id": "mis::queen::queen-size bed frame", "arm": "misrouted", "query": "queen", "type": "queen-size bed frame", "faithfulness": 0.0}
+{"id": "mis::rooster::Home Decor", "arm": "misrouted", "query": "rooster", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::rooster::decor", "arm": "misrouted", "query": "rooster", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::rooster::home decor", "arm": "misrouted", "query": "rooster", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::rooster::ornament", "arm": "misrouted", "query": "rooster", "type": "ornament", "faithfulness": 1.0}
+{"id": "mis::rooster::rooster figurine or decor", "arm": "misrouted", "query": "rooster", "type": "rooster figurine or decor", "faithfulness": 0.0}
+{"id": "mis::root::all", "arm": "misrouted", "query": "root", "type": "all", "faithfulness": 0.0}
+{"id": "mis::root::beverage", "arm": "misrouted", "query": "root", "type": "beverage", "faithfulness": 1.0}
+{"id": "mis::root::hair color treatment", "arm": "misrouted", "query": "root", "type": "hair color treatment", "faithfulness": 0.0}
+{"id": "mis::root::tree", "arm": "misrouted", "query": "root", "type": "tree", "faithfulness": 0.0}
+{"id": "mis::roses::jewelry", "arm": "misrouted", "query": "roses", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::sauce::condiment sauce", "arm": "misrouted", "query": "sauce", "type": "condiment sauce", "faithfulness": 0.0}
+{"id": "mis::sauce::cooking sauce", "arm": "misrouted", "query": "sauce", "type": "cooking sauce", "faithfulness": 0.0}
+{"id": "mis::sauce::food", "arm": "misrouted", "query": "sauce", "type": "food", "faithfulness": 0.0}
+{"id": "mis::sauce::sauce", "arm": "misrouted", "query": "sauce", "type": "sauce", "faithfulness": 0.0}
+{"id": "mis::simple::clothing", "arm": "misrouted", "query": "simple", "type": "clothing", "faithfulness": 1.0}
+{"id": "mis::simple::home decor", "arm": "misrouted", "query": "simple", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::simple::jewelry", "arm": "misrouted", "query": "simple", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::spider::clothing", "arm": "misrouted", "query": "spider", "type": "clothing", "faithfulness": 1.0}
+{"id": "mis::spider::decor", "arm": "misrouted", "query": "spider", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::spider::halloween decoration", "arm": "misrouted", "query": "spider", "type": "halloween decoration", "faithfulness": 0.0}
+{"id": "mis::spider::halloween spider decoration", "arm": "misrouted", "query": "spider", "type": "halloween spider decoration", "faithfulness": 0.0}
+{"id": "mis::spider::jewelry", "arm": "misrouted", "query": "spider", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::spider::spider plant", "arm": "misrouted", "query": "spider", "type": "spider plant", "faithfulness": 0.0}
+{"id": "mis::spider::toy", "arm": "misrouted", "query": "spider", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::starfish::Home Decor", "arm": "misrouted", "query": "starfish", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::starfish::decor", "arm": "misrouted", "query": "starfish", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::starfish::home decor", "arm": "misrouted", "query": "starfish", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::starfish::jewelry", "arm": "misrouted", "query": "starfish", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::starfish::starfish decor or jewelry", "arm": "misrouted", "query": "starfish", "type": "starfish decor or jewelry", "faithfulness": 0.0}
+{"id": "mis::starfish::starfish-shaped home decor", "arm": "misrouted", "query": "starfish", "type": "starfish-shaped home decor", "faithfulness": 0.0}
+{"id": "mis::sticker::accessories", "arm": "misrouted", "query": "sticker", "type": "accessories", "faithfulness": 0.0}
+{"id": "mis::sticker::decal", "arm": "misrouted", "query": "sticker", "type": "decal", "faithfulness": 0.0}
+{"id": "mis::sticker::sticker", "arm": "misrouted", "query": "sticker", "type": "sticker", "faithfulness": 1.0}
+{"id": "mis::stump::Home & Garden", "arm": "misrouted", "query": "stump", "type": "Home & Garden", "faithfulness": 1.0}
+{"id": "mis::stump::furniture", "arm": "misrouted", "query": "stump", "type": "furniture", "faithfulness": 0.0}
+{"id": "mis::stump::home decor", "arm": "misrouted", "query": "stump", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::stump::stump grinder", "arm": "misrouted", "query": "stump", "type": "stump grinder", "faithfulness": 0.0}
+{"id": "mis::stump::table", "arm": "misrouted", "query": "stump", "type": "table", "faithfulness": 0.0}
+{"id": "mis::succulent::Plant", "arm": "misrouted", "query": "succulent", "type": "Plant", "faithfulness": 0.0}
+{"id": "mis::succulent::live succulent plant", "arm": "misrouted", "query": "succulent", "type": "live succulent plant", "faithfulness": 0.0}
+{"id": "mis::succulent::plant", "arm": "misrouted", "query": "succulent", "type": "plant", "faithfulness": 0.0}
+{"id": "mis::succulent::succulent plant", "arm": "misrouted", "query": "succulent", "type": "succulent plant", "faithfulness": 0.0}
+{"id": "mis::sunflowers::Home Decor", "arm": "misrouted", "query": "sunflowers", "type": "Home Decor", "faithfulness": 0.0}
+{"id": "mis::sunflowers::art", "arm": "misrouted", "query": "sunflowers", "type": "art", "faithfulness": 1.0}
+{"id": "mis::sunflowers::artificial flowers or floral decor", "arm": "misrouted", "query": "sunflowers", "type": "artificial flowers or floral decor", "faithfulness": 0.0}
+{"id": "mis::sunflowers::home decor", "arm": "misrouted", "query": "sunflowers", "type": "home decor", "faithfulness": 1.0}
+{"id": "mis::triceratops::Toys & Games", "arm": "misrouted", "query": "triceratops", "type": "Toys & Games", "faithfulness": 0.0}
+{"id": "mis::triceratops::jewelry", "arm": "misrouted", "query": "triceratops", "type": "jewelry", "faithfulness": 1.0}
+{"id": "mis::triceratops::toy", "arm": "misrouted", "query": "triceratops", "type": "toy", "faithfulness": 1.0}
+{"id": "mis::trunk::bag", "arm": "misrouted", "query": "trunk", "type": "bag", "faithfulness": 0.0}
+{"id": "mis::trunk::car trunk organizer/storage trunk", "arm": "misrouted", "query": "trunk", "type": "car trunk organizer/storage trunk", "faithfulness": 0.0}
+{"id": "mis::trunk::luggage", "arm": "misrouted", "query": "trunk", "type": "luggage", "faithfulness": 0.0}
+{"id": "mis::trunk::storage trunk", "arm": "misrouted", "query": "trunk", "type": "storage trunk", "faithfulness": 0.0}
+{"id": "mis::trunk::swim trunks", "arm": "misrouted", "query": "trunk", "type": "swim trunks", "faithfulness": 0.0}
+{"id": "mis::trunk::trunk", "arm": "misrouted", "query": "trunk", "type": "trunk", "faithfulness": 0.0}
+{"id": "mis::vine::Wine", "arm": "misrouted", "query": "vine", "type": "Wine", "faithfulness": 0.0}
+{"id": "mis::vine::artificial vine garland", "arm": "misrouted", "query": "vine", "type": "artificial vine garland", "faithfulness": 0.0}
+{"id": "mis::vine::decor", "arm": "misrouted", "query": "vine", "type": "decor", "faithfulness": 1.0}
+{"id": "mis::vine::plant", "arm": "misrouted", "query": "vine", "type": "plant", "faithfulness": 0.0}
+{"id": "mis::vine::wall decor", "arm": "misrouted", "query": "vine", "type": "wall decor", "faithfulness": 0.0}
+{"id": "mis::vine::wine", "arm": "misrouted", "query": "vine", "type": "wine", "faithfulness": 0.0}
+{"id": "mis::wing::chair", "arm": "misrouted", "query": "wing", "type": "chair", "faithfulness": 1.0}
+{"id": "mis::wing::chicken wings", "arm": "misrouted", "query": "wing", "type": "chicken wings", "faithfulness": 0.0}
+{"id": "mis::wing::clothing", "arm": "misrouted", "query": "wing", "type": "clothing", "faithfulness": 1.0}
+{"id": "mis::wing::costume accessory wings", "arm": "misrouted", "query": "wing", "type": "costume accessory wings", "faithfulness": 0.0}
+{"id": "mis::wing::wing chair", "arm": "misrouted", "query": "wing", "type": "wing chair", "faithfulness": 0.0}
+{"id": "leg::black beds::beds", "arm": "legitimate", "query": "black beds", "type": "beds", "faithfulness": 0.0}
+{"id": "leg::black doormats::doormats", "arm": "legitimate", "query": "black doormats", "type": "doormats", "faithfulness": 1.0}
+{"id": "leg::black nightstands::nightstands", "arm": "legitimate", "query": "black nightstands", "type": "nightstands", "faithfulness": 1.0}
+{"id": "leg::black planters::planters", "arm": "legitimate", "query": "black planters", "type": "planters", "faithfulness": 1.0}
+{"id": "leg::brown beds::beds", "arm": "legitimate", "query": "brown beds", "type": "beds", "faithfulness": 0.0}
+{"id": "leg::brown doormats::doormats", "arm": "legitimate", "query": "brown doormats", "type": "doormats", "faithfulness": 1.0}
+{"id": "leg::brown nightstands::nightstands", "arm": "legitimate", "query": "brown nightstands", "type": "nightstands", "faithfulness": 1.0}
+{"id": "leg::brown planters::planters", "arm": "legitimate", "query": "brown planters", "type": "planters", "faithfulness": 1.0}
+{"id": "leg::glass chandeliers::chandeliers", "arm": "legitimate", "query": "glass chandeliers", "type": "chandeliers", "faithfulness": 1.0}
+{"id": "leg::gray beds::beds", "arm": "legitimate", "query": "gray beds", "type": "beds", "faithfulness": 1.0}
+{"id": "leg::gray doormats::doormats", "arm": "legitimate", "query": "gray doormats", "type": "doormats", "faithfulness": 1.0}
+{"id": "leg::gray nightstands::nightstands", "arm": "legitimate", "query": "gray nightstands", "type": "nightstands", "faithfulness": 1.0}
+{"id": "leg::gray planters::planters", "arm": "legitimate", "query": "gray planters", "type": "planters", "faithfulness": 1.0}
+{"id": "leg::metal chandeliers::chandeliers", "arm": "legitimate", "query": "metal chandeliers", "type": "chandeliers", "faithfulness": 1.0}
+{"id": "leg::white beds::beds", "arm": "legitimate", "query": "white beds", "type": "beds", "faithfulness": 1.0}
+{"id": "leg::white doormats::doormats", "arm": "legitimate", "query": "white doormats", "type": "doormats", "faithfulness": 1.0}
+{"id": "leg::white nightstands::nightstands", "arm": "legitimate", "query": "white nightstands", "type": "nightstands", "faithfulness": 1.0}
+{"id": "leg::white planters::planters", "arm": "legitimate", "query": "white planters", "type": "planters", "faithfulness": 1.0}
+{"id": "fab::arbor::quzzint", "arm": "fabricated", "query": "arbor", "type": "quzzint", "faithfulness": 0.0}
+{"id": "fab::bear::zylophant", "arm": "fabricated", "query": "bear", "type": "zylophant", "faithfulness": 0.0}
+{"id": "fab::bees::grunther", "arm": "fabricated", "query": "bees", "type": "grunther", "faithfulness": 0.0}
+{"id": "fab::birds::wibbleton", "arm": "fabricated", "query": "birds", "type": "wibbleton", "faithfulness": 0.0}
+{"id": "fab::blade::snorquil", "arm": "fabricated", "query": "blade", "type": "snorquil", "faithfulness": 0.0}
+{"id": "fab::breakfast::plemtar", "arm": "fabricated", "query": "breakfast", "type": "plemtar", "faithfulness": 0.0}
+{"id": "fab::bulb::vundrisk", "arm": "fabricated", "query": "bulb", "type": "vundrisk", "faithfulness": 0.0}
+{"id": "fab::butterfly::florbex", "arm": "fabricated", "query": "butterfly", "type": "florbex", "faithfulness": 0.0}
+{"id": "fab::crab::snorquil", "arm": "fabricated", "query": "crab", "type": "snorquil", "faithfulness": 0.0}
+{"id": "fab::cuisine::plemtar", "arm": "fabricated", "query": "cuisine", "type": "plemtar", "faithfulness": 0.0}
+{"id": "fab::dinner::florbex", "arm": "fabricated", "query": "dinner", "type": "florbex", "faithfulness": 0.0}
+{"id": "fab::dinosaur::quzzint", "arm": "fabricated", "query": "dinosaur", "type": "quzzint", "faithfulness": 0.0}
+{"id": "fab::dinosaurs::zylophant", "arm": "fabricated", "query": "dinosaurs", "type": "zylophant", "faithfulness": 0.0}
+{"id": "fab::elephant::grunther", "arm": "fabricated", "query": "elephant", "type": "grunther", "faithfulness": 0.0}
+{"id": "fab::feeder::wibbleton", "arm": "fabricated", "query": "feeder", "type": "wibbleton", "faithfulness": 0.0}
+{"id": "fab::flamingo::plemtar", "arm": "fabricated", "query": "flamingo", "type": "plemtar", "faithfulness": 0.0}
+{"id": "fab::flamingos::vundrisk", "arm": "fabricated", "query": "flamingos", "type": "vundrisk", "faithfulness": 0.0}
+{"id": "fab::foliage::quzzint", "arm": "fabricated", "query": "foliage", "type": "quzzint", "faithfulness": 0.0}
+{"id": "fab::frog::zylophant", "arm": "fabricated", "query": "frog", "type": "zylophant", "faithfulness": 0.0}
+{"id": "fab::fruit::grunther", "arm": "fabricated", "query": "fruit", "type": "grunther", "faithfulness": 0.0}
+{"id": "fab::giant::wibbleton", "arm": "fabricated", "query": "giant", "type": "wibbleton", "faithfulness": 0.0}
+{"id": "fab::holly::snorquil", "arm": "fabricated", "query": "holly", "type": "snorquil", "faithfulness": 0.0}
+{"id": "fab::lily::plemtar", "arm": "fabricated", "query": "lily", "type": "plemtar", "faithfulness": 0.0}
+{"id": "fab::lotus::vundrisk", "arm": "fabricated", "query": "lotus", "type": "vundrisk", "faithfulness": 0.0}
+{"id": "fab::lunch::florbex", "arm": "fabricated", "query": "lunch", "type": "florbex", "faithfulness": 0.0}
+{"id": "fab::noodle::quzzint", "arm": "fabricated", "query": "noodle", "type": "quzzint", "faithfulness": 0.0}
+{"id": "fab::octopus::zylophant", "arm": "fabricated", "query": "octopus", "type": "zylophant", "faithfulness": 0.0}
+{"id": "fab::orchids::grunther", "arm": "fabricated", "query": "orchids", "type": "grunther", "faithfulness": 0.0}
+{"id": "fab::ornamental::wibbleton", "arm": "fabricated", "query": "ornamental", "type": "wibbleton", "faithfulness": 0.0}
+{"id": "fab::owls::snorquil", "arm": "fabricated", "query": "owls", "type": "snorquil", "faithfulness": 0.0}
+{"id": "fab::pineapples::plemtar", "arm": "fabricated", "query": "pineapples", "type": "plemtar", "faithfulness": 0.0}
+{"id": "fab::queen::vundrisk", "arm": "fabricated", "query": "queen", "type": "vundrisk", "faithfulness": 0.0}
+{"id": "fab::rooster::florbex", "arm": "fabricated", "query": "rooster", "type": "florbex", "faithfulness": 0.0}
+{"id": "fab::root::quzzint", "arm": "fabricated", "query": "root", "type": "quzzint", "faithfulness": 0.0}
+{"id": "fab::simple::wibbleton", "arm": "fabricated", "query": "simple", "type": "wibbleton", "faithfulness": 0.0}
+{"id": "fab::spider::snorquil", "arm": "fabricated", "query": "spider", "type": "snorquil", "faithfulness": 0.0}
+{"id": "fab::starfish::plemtar", "arm": "fabricated", "query": "starfish", "type": "plemtar", "faithfulness": 0.0}
+{"id": "fab::stump::florbex", "arm": "fabricated", "query": "stump", "type": "florbex", "faithfulness": 0.0}
+{"id": "fab::succulent::quzzint", "arm": "fabricated", "query": "succulent", "type": "quzzint", "faithfulness": 0.0}
+{"id": "fab::sunflowers::zylophant", "arm": "fabricated", "query": "sunflowers", "type": "zylophant", "faithfulness": 0.0}
+{"id": "fab::triceratops::grunther", "arm": "fabricated", "query": "triceratops", "type": "grunther", "faithfulness": 0.0}
+{"id": "fab::trunk::wibbleton", "arm": "fabricated", "query": "trunk", "type": "wibbleton", "faithfulness": 0.0}
+{"id": "fab::vine::snorquil", "arm": "fabricated", "query": "vine", "type": "snorquil", "faithfulness": 0.0}
+{"id": "legW::0::chair", "arm": "legitimate", "query": "salon chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::6::chair", "arm": "legitimate", "query": "acrylic clear chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::13::wall", "arm": "legitimate", "query": "outdoor privacy wall", "type": "wall", "faithfulness": 1.0}
+{"id": "legW::28::decor", "arm": "legitimate", "query": "rooster decor", "type": "decor", "faithfulness": 1.0}
+{"id": "legW::31::curtain", "arm": "legitimate", "query": "burnt orange curtains", "type": "curtain", "faithfulness": 0.0}
+{"id": "legW::34::stool", "arm": "legitimate", "query": "bar stool with backrest", "type": "stool", "faithfulness": 1.0}
+{"id": "legW::49::hook", "arm": "legitimate", "query": "moen matte black hooks", "type": "hook", "faithfulness": 1.0}
+{"id": "legW::51::dresser", "arm": "legitimate", "query": "kohen 5 drawer dresser", "type": "dresser", "faithfulness": 1.0}
+{"id": "legW::52::table", "arm": "legitimate", "query": "westling coffee table", "type": "table", "faithfulness": 0.0}
+{"id": "legW::67::mirror", "arm": "legitimate", "query": "osgood mirror", "type": "mirror", "faithfulness": 1.0}
+{"id": "legW::103::mat", "arm": "legitimate", "query": "kitchen anti fatigue mats", "type": "mat", "faithfulness": 0.0}
+{"id": "legW::105::screen", "arm": "legitimate", "query": "outdoor movie screen", "type": "screen", "faithfulness": 0.0}
+{"id": "legW::109::rug", "arm": "legitimate", "query": "hillsby oriental rug", "type": "rug", "faithfulness": 1.0}
+{"id": "legW::117::cabinet", "arm": "legitimate", "query": "tall storage cabinet", "type": "cabinet", "faithfulness": 1.0}
+{"id": "legW::121::bed", "arm": "legitimate", "query": "upholstered bed", "type": "bed", "faithfulness": 1.0}
+{"id": "legW::124::table", "arm": "legitimate", "query": "unique coffee tables", "type": "table", "faithfulness": 0.0}
+{"id": "legW::130::console", "arm": "legitimate", "query": "entertainment console", "type": "console", "faithfulness": 1.0}
+{"id": "legW::139::pillow", "arm": "legitimate", "query": "auburn throw pillows", "type": "pillow", "faithfulness": 1.0}
+{"id": "legW::146::cabinet", "arm": "legitimate", "query": "laundry vanity cabinet", "type": "cabinet", "faithfulness": 1.0}
+{"id": "legW::166::art", "arm": "legitimate", "query": "feather wall art", "type": "art", "faithfulness": 1.0}
+{"id": "legW::177::cabinet", "arm": "legitimate", "query": "rustic storage cabinet", "type": "cabinet", "faithfulness": 1.0}
+{"id": "legW::180::cushion", "arm": "legitimate", "query": "outdoor lounge cushions", "type": "cushion", "faithfulness": 1.0}
+{"id": "legW::184::canister", "arm": "legitimate", "query": "sugar canister", "type": "canister", "faithfulness": 1.0}
+{"id": "legW::186::cabinet", "arm": "legitimate", "query": "board game storage cabinet", "type": "cabinet", "faithfulness": 1.0}
+{"id": "legW::196::chest", "arm": "legitimate", "query": "chabely 5 draw chest", "type": "chest", "faithfulness": 0.0}
+{"id": "legW::209::pull", "arm": "legitimate", "query": "door pulls bronze matte 4 inch", "type": "pull", "faithfulness": 1.0}
+{"id": "legW::226::chair", "arm": "legitimate", "query": "power lift chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::235::bathroom", "arm": "legitimate", "query": "bathroom wastebasket", "type": "bathroom", "faithfulness": 1.0}
+{"id": "legW::243::stand", "arm": "legitimate", "query": "indoor multi tiered plant stand", "type": "stand", "faithfulness": 0.0}
+{"id": "legW::250::rug", "arm": "legitimate", "query": "multi color rug", "type": "rug", "faithfulness": 1.0}
+{"id": "legW::255::chair", "arm": "legitimate", "query": "desk and chair set", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::259::table", "arm": "legitimate", "query": "nursery end table", "type": "table", "faithfulness": 0.0}
+{"id": "legW::264::pillow", "arm": "legitimate", "query": "cortez pillow", "type": "pillow", "faithfulness": 1.0}
+{"id": "legW::266::chair", "arm": "legitimate", "query": "champagne velvet desk chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::267::tile", "arm": "legitimate", "query": "dolomite subway tile", "type": "tile", "faithfulness": 1.0}
+{"id": "legW::280::desk", "arm": "legitimate", "query": "johan desk by laurel foundry", "type": "desk", "faithfulness": 1.0}
+{"id": "legW::286::wall", "arm": "legitimate", "query": "hitchcock mid-century wall shelf", "type": "wall", "faithfulness": 1.0}
+{"id": "legW::300::rug", "arm": "legitimate", "query": "animal print handmade tufted wool beige/black area rug by allmodern", "type": "rug", "faithfulness": 1.0}
+{"id": "legW::303::art", "arm": "legitimate", "query": "hawaii vintage art", "type": "art", "faithfulness": 1.0}
+{"id": "legW::326::desk", "arm": "legitimate", "query": "bowersville ladder writing desk", "type": "desk", "faithfulness": 1.0}
+{"id": "legW::328::table", "arm": "legitimate", "query": "golub dining table", "type": "table", "faithfulness": 0.0}
+{"id": "legW::338::chair", "arm": "legitimate", "query": "mahone porch rocking chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::339::chair", "arm": "legitimate", "query": "ruckus chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::345::vanity", "arm": "legitimate", "query": "oriental vanity", "type": "vanity", "faithfulness": 1.0}
+{"id": "legW::353::playhouse", "arm": "legitimate", "query": "pennfield playhouse", "type": "playhouse", "faithfulness": 1.0}
+{"id": "legW::356::table", "arm": "legitimate", "query": "platform bed side table", "type": "table", "faithfulness": 0.0}
+{"id": "legW::358::mirror", "arm": "legitimate", "query": "sliding closet mirror", "type": "mirror", "faithfulness": 1.0}
+{"id": "legW::360::sofa", "arm": "legitimate", "query": "huntsville sectional sofa", "type": "sofa", "faithfulness": 0.0}
+{"id": "legW::362::decor", "arm": "legitimate", "query": "brushed gold wall decor", "type": "decor", "faithfulness": 1.0}
+{"id": "legW::367::outdoor", "arm": "legitimate", "query": "wooden chair outdoor", "type": "outdoor", "faithfulness": 1.0}
+{"id": "legW::371::chair", "arm": "legitimate", "query": "milk cow chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::373::chair", "arm": "legitimate", "query": "togo chair", "type": "chair", "faithfulness": 1.0}
+{"id": "legW::374::frame", "arm": "legitimate", "query": "sinks bed frame", "type": "frame", "faithfulness": 0.0}
+{"id": "legW::388::sectional", "arm": "legitimate", "query": "outdoor sectional doning", "type": "sectional", "faithfulness": 0.0}
+{"id": "legW::395::pantry", "arm": "legitimate", "query": "pantry grey", "type": "pantry", "faithfulness": 1.0}
+{"id": "legW::396::light", "arm": "legitimate", "query": "alyse 8 light", "type": "light", "faithfulness": 0.0}
+{"id": "legW::397::bed", "arm": "legitimate", "query": "maryford queen tufted bed", "type": "bed", "faithfulness": 1.0}
+{"id": "legW::402::mount", "arm": "legitimate", "query": "modern farmhouse lighting semi flush mount", "type": "mount", "faithfulness": 0.0}
+{"id": "legW::413::cushion", "arm": "legitimate", "query": "burruss patio sectional with cushions", "type": "cushion", "faithfulness": 1.0}
+{"id": "legW::421::table", "arm": "legitimate", "query": "dining room tables", "type": "table", "faithfulness": 0.0}
+{"id": "legW::425::storage", "arm": "legitimate", "query": "side table with storage", "type": "storage", "faithfulness": 1.0}
+{"id": "legW::430::vanity", "arm": "legitimate", "query": "30 inch bathroom vanity", "type": "vanity", "faithfulness": 1.0}
+{"id": "legW::434::lighting", "arm": "legitimate", "query": "bathroom lighting", "type": "lighting", "faithfulness": 1.0}
+{"id": "legW::438::fountain", "arm": "legitimate", "query": "indoor water fountain", "type": "fountain", "faithfulness": 1.0}
+{"id": "legW::443::patio", "arm": "legitimate", "query": "patio design", "type": "patio", "faithfulness": 1.0}
+{"id": "legW::445::sofa", "arm": "legitimate", "query": "chaise lounge couch", "type": "sofa", "faithfulness": 1.0}
+{"id": "legW::448::table", "arm": "legitimate", "query": "bed side table", "type": "table", "faithfulness": 0.0}
+{"id": "legW::456::wall", "arm": "legitimate", "query": "wall design shelf", "type": "wall", "faithfulness": 1.0}
+{"id": "legW::461::light", "arm": "legitimate", "query": "luau string lights", "type": "light", "faithfulness": 0.0}
+{"id": "legW::480::fireplace", "arm": "legitimate", "query": "pictures to hang over fireplace", "type": "fireplace", "faithfulness": 1.0}

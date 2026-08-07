@@ -1,0 +1,592 @@
+{
+ "tag": "probe-llama4-exp_nullable",
+ "forced_rate": 1.0,
+ "n": 55,
+ "plans": [
+  {
+   "query": "dinosaur",
+   "plan": {
+    "product_type": "toys",
+    "color": "multicolor",
+    "material": "plastic",
+    "style": "figurine",
+    "brand": "unknown",
+    "price_range": "under $10"
+   }
+  },
+  {
+   "query": "rooster",
+   "plan": {
+    "product_type": "Home Decor",
+    "style": "Farmhouse",
+    "brand": "Pottery Barn",
+    "price_range": "$50-$100",
+    "color": "Red"
+   }
+  },
+  {
+   "query": "butterfly",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "gold",
+    "style": "pendant",
+    "brand": "Tiffany",
+    "price_range": "high"
+   }
+  },
+  {
+   "query": "bees",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "gold",
+    "material": "metal",
+    "brand": "Tiffany",
+    "price_range": "high"
+   }
+  },
+  {
+   "query": "queen",
+   "plan": {
+    "product_type": "bedding",
+    "material": "cotton",
+    "style": "traditional",
+    "color": "white",
+    "brand": "unknown",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "sunflowers",
+   "plan": {
+    "product_type": "Home Decor",
+    "color": "Yellow",
+    "material": "Ceramic",
+    "style": "Vintage",
+    "brand": "None",
+    "price_range": "Under $20"
+   }
+  },
+  {
+   "query": "simple",
+   "plan": {
+    "color": "neutral",
+    "material": "synthetic",
+    "style": "classic",
+    "brand": "unspecified",
+    "price_range": "medium",
+    "product_type": "fashion"
+   }
+  },
+  {
+   "query": "flamingo",
+   "plan": {
+    "color": "pink",
+    "material": "plastic",
+    "style": "figurine",
+    "brand": "unknown",
+    "price_range": "under $10",
+    "product_type": "home decor"
+   }
+  },
+  {
+   "query": "lily",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "white",
+    "material": "silver",
+    "style": "pendant",
+    "brand": "Tiffany",
+    "price_range": "high"
+   }
+  },
+  {
+   "query": "elephant",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "silver",
+    "material": "metal",
+    "style": "modern",
+    "brand": "Tiffany",
+    "price_range": "high"
+   }
+  },
+  {
+   "query": "bear",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "gold",
+    "material": "metal",
+    "style": "pendant",
+    "brand": "ted baker"
+   }
+  },
+  {
+   "query": "bulb",
+   "plan": {
+    "product_type": "lighting",
+    "material": "glass",
+    "style": "modern",
+    "brand": "unknown",
+    "price_range": "under $20",
+    "color": "clear"
+   }
+  },
+  {
+   "query": "fish",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "gold",
+    "material": "metal",
+    "style": "necklace",
+    "brand": "oceanic",
+    "price_range": "expensive"
+   }
+  },
+  {
+   "query": "birds",
+   "plan": {
+    "product_type": "Home Decor",
+    "color": "Brown",
+    "material": "Wood",
+    "style": "Nature-Inspired",
+    "brand": "Pottery Barn",
+    "price_range": "Moderate"
+   }
+  },
+  {
+   "query": "owls",
+   "plan": {
+    "product_type": "Home Decor",
+    "color": "Brown",
+    "material": "Wood",
+    "style": "Rustic",
+    "brand": "Various",
+    "price_range": "Under $50"
+   }
+  },
+  {
+   "query": "roses",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "pink",
+    "material": "plastic",
+    "style": "pendant",
+    "brand": "unknown",
+    "price_range": "under $10"
+   }
+  },
+  {
+   "query": "dinosaurs",
+   "plan": {
+    "product_type": "toys",
+    "color": "various",
+    "material": "plastic",
+    "style": "figurine",
+    "brand": "unknown",
+    "price_range": "under $20"
+   }
+  },
+  {
+   "query": "pineapples",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "gold",
+    "material": "metal",
+    "style": "pendant",
+    "brand": "Tiffany",
+    "price_range": "high"
+   }
+  },
+  {
+   "query": "daisy",
+   "plan": {
+    "color": "white",
+    "material": "cotton",
+    "style": "floral",
+    "brand": "unknown",
+    "price_range": "affordable",
+    "product_type": "jewelry"
+   }
+  },
+  {
+   "query": "starfish",
+   "plan": {
+    "product_type": "jewelry",
+    "material": "metal",
+    "style": "beachy",
+    "color": "gold",
+    "brand": "unknown",
+    "price_range": "mid-range"
+   }
+  },
+  {
+   "query": "lotus",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "gold",
+    "material": "metal",
+    "style": "pendant",
+    "brand": "Tiffany",
+    "price_range": "high"
+   }
+  },
+  {
+   "query": "vine",
+   "plan": {
+    "product_type": "wine",
+    "color": "red",
+    "material": "glass",
+    "style": "bottle",
+    "brand": "unknown",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "trunk",
+   "plan": {
+    "product_type": "furniture",
+    "style": "rustic",
+    "material": "wood",
+    "color": "brown",
+    "brand": "IKEA",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "cuisine",
+   "plan": {
+    "product_type": "cookware",
+    "material": "stainless steel",
+    "style": "modern",
+    "brand": "Le Creuset",
+    "price_range": "medium-high"
+   }
+  },
+  {
+   "query": "ornamental",
+   "plan": {
+    "product_type": "jewelry",
+    "style": "decorative",
+    "material": "metal",
+    "color": "gold"
+   }
+  },
+  {
+   "query": "climber",
+   "plan": {
+    "product_type": "hiking gear",
+    "color": "black",
+    "material": "nylon",
+    "style": "backpack",
+    "brand": "the north face",
+    "price_range": "50-100"
+   }
+  },
+  {
+   "query": "root",
+   "plan": {
+    "color": "black",
+    "material": "leather",
+    "style": "casual",
+    "brand": "root",
+    "price_range": "medium",
+    "product_type": "shoes"
+   }
+  },
+  {
+   "query": "giant",
+   "plan": {
+    "product_type": "watch",
+    "color": "black",
+    "material": "leather",
+    "style": "mens",
+    "brand": "tissot",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "blade",
+   "plan": {
+    "product_type": "knives",
+    "material": "metal",
+    "style": "utility",
+    "brand": "unknown",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "aloe",
+   "plan": {
+    "product_type": "skincare",
+    "brand": "L'Oreal",
+    "color": "clear",
+    "material": "gel",
+    "price_range": "under $10"
+   }
+  },
+  {
+   "query": "feeder",
+   "plan": {
+    "product_type": "Pet Supplies",
+    "material": "Plastic",
+    "style": "Automatic",
+    "brand": "Unknown",
+    "price_range": "Under $50"
+   }
+  },
+  {
+   "query": "breakfast",
+   "plan": {
+    "product_type": "dishes",
+    "material": "porcelain",
+    "color": "white",
+    "style": "modern",
+    "brand": "Fiesta",
+    "price_range": "under $20"
+   }
+  },
+  {
+   "query": "lunch",
+   "plan": {
+    "product_type": "food"
+   }
+  },
+  {
+   "query": "holly",
+   "plan": {
+    "color": "red",
+    "material": "wood",
+    "style": "traditional",
+    "brand": "hollywillow",
+    "price_range": "medium",
+    "product_type": "furniture"
+   }
+  },
+  {
+   "query": "succulent",
+   "plan": {
+    "product_type": "plant",
+    "color": "green",
+    "material": "soil",
+    "style": "indoor",
+    "brand": "unknown",
+    "price_range": "under $20"
+   }
+  },
+  {
+   "query": "arbor",
+   "plan": {
+    "product_type": "tree",
+    "color": "green",
+    "material": "wood",
+    "style": "natural",
+    "brand": "unknown",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "spider",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "black",
+    "material": "metal",
+    "style": "pendant",
+    "brand": "none",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "triceratops",
+   "plan": {
+    "product_type": "jewelry",
+    "style": "pendant",
+    "color": "silver",
+    "material": "metal",
+    "brand": "T-Rex",
+    "price_range": "expensive"
+   }
+  },
+  {
+   "query": "sticker",
+   "plan": {
+    "product_type": "adhesive",
+    "color": "various",
+    "material": "paper",
+    "style": "square",
+    "brand": "unknown",
+    "price_range": "under $5"
+   }
+  },
+  {
+   "query": "dinner",
+   "plan": {
+    "product_type": "tableware",
+    "material": "ceramic",
+    "style": "formal",
+    "color": "white",
+    "brand": "Fiesta",
+    "price_range": "under $20"
+   }
+  },
+  {
+   "query": "crab",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "silver",
+    "material": "metal",
+    "style": "pendant",
+    "brand": "none",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "flamingos",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "pink",
+    "material": "plastic",
+    "style": "figurine",
+    "brand": "unknown",
+    "price_range": "under $10"
+   }
+  },
+  {
+   "query": "frog",
+   "plan": {
+    "product_type": "Home Decor",
+    "color": "Green",
+    "material": "Ceramic",
+    "style": "Whimsical",
+    "brand": "Froggy Friends",
+    "price_range": "Under $20"
+   }
+  },
+  {
+   "query": "fruit",
+   "plan": {
+    "product_type": "food",
+    "color": "various",
+    "material": "natural",
+    "style": "whole",
+    "brand": "none",
+    "price_range": "low"
+   }
+  },
+  {
+   "query": "foliage",
+   "plan": {
+    "product_type": "planters",
+    "color": "green",
+    "material": "ceramic",
+    "style": "modern",
+    "brand": "unknown",
+    "price_range": "mid-range"
+   }
+  },
+  {
+   "query": "octopus",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "blue",
+    "material": "plastic",
+    "style": "novelty",
+    "brand": "unknown",
+    "price_range": "under $10"
+   }
+  },
+  {
+   "query": "orchids",
+   "plan": {
+    "product_type": "plants",
+    "color": "various",
+    "material": "natural",
+    "style": "indoor",
+    "brand": "none",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "wing",
+   "plan": {
+    "product_type": "furniture",
+    "style": "modern",
+    "material": "wood",
+    "color": "brown",
+    "brand": "IKEA",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "flour",
+   "plan": {
+    "product_type": "food",
+    "material": "grain",
+    "brand": "unspecified",
+    "price_range": "under $5",
+    "color": "unspecified"
+   }
+  },
+  {
+   "query": "noodle",
+   "plan": {
+    "product_type": "jewelry",
+    "color": "silver",
+    "material": "metal",
+    "style": "chain",
+    "brand": "Tiffany",
+    "price_range": "high"
+   }
+  },
+  {
+   "query": "stump",
+   "plan": {
+    "product_type": "furniture",
+    "material": "wood",
+    "style": "rustic",
+    "color": "brown",
+    "brand": "IKEA",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "cereal",
+   "plan": {
+    "product_type": "food",
+    "price_range": "any"
+   }
+  },
+  {
+   "query": "condiment",
+   "plan": {
+    "product_type": "food",
+    "material": "glass",
+    "style": "bottle",
+    "color": "clear",
+    "brand": "unknown",
+    "price_range": "under $10"
+   }
+  },
+  {
+   "query": "casserole",
+   "plan": {
+    "product_type": "cookware",
+    "material": "ceramic",
+    "style": "oven-safe",
+    "color": "various",
+    "brand": "unknown",
+    "price_range": "moderate"
+   }
+  },
+  {
+   "query": "sauce",
+   "plan": {
+    "product_type": "condiment",
+    "brand": "unknown",
+    "color": "red",
+    "material": "liquid",
+    "price_range": "under $5",
+    "style": "bottle"
+   }
+  }
+ ]
+}

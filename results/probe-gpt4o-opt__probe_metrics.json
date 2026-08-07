@@ -1,0 +1,22 @@
+{
+  "tag": "probe-gpt4o-opt",
+  "n_A": 55,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.01818181818181818,
+    0.0,
+    0.05454545454545454
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.7692307692307693,
+    0.7692307692307693,
+    0.7692307692307693
+  ],
+  "A_n_typed": 1,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

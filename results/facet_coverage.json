@@ -1,0 +1,22 @@
+{
+  "coverage_among_relevant": {
+    "n_relevant": 1990,
+    "product_class": 0.935,
+    "color": 0.53,
+    "material": 0.513,
+    "style": 0.489,
+    "catalog_product_class": 0.934
+  },
+  "motif_class_span": {
+    "dinosaur": {
+      "distinct_nonnull": 41,
+      "distinct_incl_blank": 42,
+      "n_exact": 151
+    },
+    "flamingo": {
+      "distinct_nonnull": 14,
+      "distinct_incl_blank": 15,
+      "n_exact": 57
+    }
+  }
+}

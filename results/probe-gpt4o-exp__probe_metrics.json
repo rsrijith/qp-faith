@@ -1,19 +1,19 @@
 {
   "tag": "probe-gpt4o-exp",
-  "n_A": 43,
+  "n_A": 55,
   "n_B": 18,
   "A_product_type_forced_rate": [
-    0.9767441860465116,
-    0.9302325581395349,
+    0.9818181818181818,
+    0.9454545454545454,
     1.0
   ],
   "A_mean_relevant_excluded_when_typed": [
-    0.8921919176944988,
-    0.825053169100455,
-    0.9444346670142172
+    0.8901323335787856,
+    0.8391535879094509,
+    0.9341940018536136
   ],
-  "A_n_typed": 42,
-  "B_extra_slot_injections": 34,
+  "A_n_typed": 54,
+  "B_extra_slot_injections": 35,
   "B_over_injection_rate": [
     1.0,
     1.0,

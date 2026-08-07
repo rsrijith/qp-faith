@@ -1,0 +1,2338 @@
+[
+ {
+  "model": "qwen4",
+  "query": "dinosaur",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "rooster",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "butterfly",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "bees",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "queen",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "sunflowers",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "simple",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "flamingo",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "lily",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "elephant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "bear",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "bulb",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "fish",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "birds",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "owls",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "roses",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "dinosaurs",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "pineapples",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "daisy",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "starfish",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "lotus",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "vine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "qwen4",
+  "query": "trunk",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "cuisine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "ornamental",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "climber",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "root",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "giant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "blade",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "aloe",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "qwen4",
+  "query": "feeder",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "breakfast",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "lunch",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "holly",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "succulent",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "arbor",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "spider",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "triceratops",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "sticker",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "dinner",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "crab",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "flamingos",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "frog",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "fruit",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "foliage",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "octopus",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "orchids",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "wing",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "qwen4",
+  "query": "flour",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "noodle",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "qwen4",
+  "query": "stump",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "cereal",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "condiment",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "casserole",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "sauce",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "white doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "gray nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "black planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "qwen4",
+  "query": "white beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "brown planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "black doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "metal chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "black beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "gray planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "black nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "brown nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "gray beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "white planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "brown beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "white nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "glass chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "qwen4",
+  "query": "brown doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "qwen4",
+  "query": "gray doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "dinosaur",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "rooster",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "butterfly",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "bees",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "queen",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "sunflowers",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "simple",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "flamingo",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "lily",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "elephant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "bear",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "bulb",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "fish",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "birds",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "owls",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "roses",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "dinosaurs",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "pineapples",
+  "family": "A_entity",
+  "emit_rate": 0.6,
+  "type_agreement": 0.4,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "daisy",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "starfish",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "lotus",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "vine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "trunk",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "cuisine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "ornamental",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "climber",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.2,
+  "distinct": 5
+ },
+ {
+  "model": "llama4",
+  "query": "root",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "giant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "blade",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "aloe",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "feeder",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "breakfast",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "lunch",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "holly",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "succulent",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "arbor",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "spider",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "triceratops",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "sticker",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "dinner",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "crab",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "flamingos",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "frog",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.2,
+  "distinct": 5
+ },
+ {
+  "model": "llama4",
+  "query": "fruit",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "foliage",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "octopus",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "orchids",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "wing",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.2,
+  "distinct": 5
+ },
+ {
+  "model": "llama4",
+  "query": "flour",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "noodle",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "llama4",
+  "query": "stump",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "cereal",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "condiment",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.2,
+  "distinct": 5
+ },
+ {
+  "model": "llama4",
+  "query": "casserole",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "sauce",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "white doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "gray nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "black planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "white beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "brown planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "black doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "metal chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "black beds",
+  "family": "B_attr",
+  "emit_rate": 0.8,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "gray planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "black nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "brown nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "gray beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "llama4",
+  "query": "white planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "brown beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "white nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "llama4",
+  "query": "glass chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "brown doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "llama4",
+  "query": "gray doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "dinosaur",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.4,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "rooster",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "butterfly",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "bees",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "mistral4",
+  "query": "queen",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "sunflowers",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "simple",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "flamingo",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "lily",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "mistral4",
+  "query": "elephant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "bear",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "bulb",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "fish",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "birds",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "owls",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.8,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "roses",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "dinosaurs",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "pineapples",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "daisy",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "mistral4",
+  "query": "starfish",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.8,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "lotus",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.8,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "vine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "trunk",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "cuisine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "ornamental",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "climber",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.4,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "root",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "giant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "blade",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "aloe",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "feeder",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "breakfast",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.8,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "lunch",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "holly",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "succulent",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "arbor",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "spider",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "triceratops",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "sticker",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "dinner",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "crab",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "flamingos",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "frog",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "fruit",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "foliage",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "octopus",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "mistral4",
+  "query": "orchids",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.2,
+  "distinct": 5
+ },
+ {
+  "model": "mistral4",
+  "query": "wing",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "flour",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "noodle",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "stump",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "mistral4",
+  "query": "cereal",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.8,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "condiment",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "casserole",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "sauce",
+  "family": "A_entity",
+  "emit_rate": 0.6,
+  "type_agreement": 0.6,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "white doormats",
+  "family": "B_attr",
+  "emit_rate": 0.8,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "gray nightstands",
+  "family": "B_attr",
+  "emit_rate": 0.4,
+  "type_agreement": 0.2,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "black planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "white beds",
+  "family": "B_attr",
+  "emit_rate": 0.8,
+  "type_agreement": 0.4,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "brown planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "black doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "metal chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "black beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "gray planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "mistral4",
+  "query": "black nightstands",
+  "family": "B_attr",
+  "emit_rate": 0.2,
+  "type_agreement": 0.2,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "brown nightstands",
+  "family": "B_attr",
+  "emit_rate": 0.4,
+  "type_agreement": 0.4,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "gray beds",
+  "family": "B_attr",
+  "emit_rate": 0.6,
+  "type_agreement": 0.6,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "white planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "brown beds",
+  "family": "B_attr",
+  "emit_rate": 0.6,
+  "type_agreement": 0.6,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "white nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "mistral4",
+  "query": "glass chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "brown doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "mistral4",
+  "query": "gray doormats",
+  "family": "B_attr",
+  "emit_rate": 0.4,
+  "type_agreement": 0.2,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "dinosaur",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "rooster",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "butterfly",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "bees",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 4
+ },
+ {
+  "model": "gemma4",
+  "query": "queen",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "sunflowers",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "simple",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "flamingo",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "lily",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "elephant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "bear",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "bulb",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "fish",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "birds",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "owls",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "roses",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "dinosaurs",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "pineapples",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.4,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "daisy",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "starfish",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "lotus",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "vine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "trunk",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "cuisine",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "ornamental",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.8,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "climber",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "root",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "giant",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "blade",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "aloe",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "feeder",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "breakfast",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "lunch",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "holly",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "succulent",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "arbor",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "spider",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "triceratops",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "sticker",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "dinner",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "crab",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "flamingos",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.8,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "frog",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "fruit",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "foliage",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "octopus",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "orchids",
+  "family": "A_entity",
+  "emit_rate": 0.8,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "wing",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "flour",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "noodle",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "stump",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "cereal",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "condiment",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "casserole",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "sauce",
+  "family": "A_entity",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "white doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "gray nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "black planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "white beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "brown planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "black doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "metal chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "black beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "gray planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "black nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "brown nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "gray beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "white planters",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.8,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "brown beds",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.4,
+  "distinct": 3
+ },
+ {
+  "model": "gemma4",
+  "query": "white nightstands",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "glass chandeliers",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 1.0,
+  "distinct": 1
+ },
+ {
+  "model": "gemma4",
+  "query": "brown doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 2
+ },
+ {
+  "model": "gemma4",
+  "query": "gray doormats",
+  "family": "B_attr",
+  "emit_rate": 1.0,
+  "type_agreement": 0.6,
+  "distinct": 3
+ }
+]

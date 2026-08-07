@@ -1,0 +1,22 @@
+{
+  "tag": "probe-together-llama70",
+  "n_A": 3,
+  "n_B": 0,
+  "A_product_type_forced_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.9425399479747306,
+    0.875,
+    0.9782608695652174
+  ],
+  "A_n_typed": 3,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    NaN,
+    NaN,
+    NaN
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tag": "dom-electronics-llama4-expansion",
+  "n_entity": 28,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.5017957935491429,
+    0.3556527478581486,
+    0.6423968128543119
+  ]
+}

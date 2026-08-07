@@ -1,0 +1,15 @@
+{
+  "tag": "dom-apparel-gemma4-expansion",
+  "n_entity": 33,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.3729757124213726,
+    0.24718149829050728,
+    0.5191891611194646
+  ]
+}

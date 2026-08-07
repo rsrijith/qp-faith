@@ -1,0 +1,185 @@
+{"q": "alarm", "t": "clock", "genuine": false}
+{"q": "altar", "t": "table", "genuine": false}
+{"q": "armchair", "t": "chair", "genuine": true}
+{"q": "armoire", "t": "wardrobe", "genuine": true}
+{"q": "backing", "t": "bed", "genuine": false}
+{"q": "banquette", "t": "bench", "genuine": true}
+{"q": "berm", "t": "shelf", "genuine": false}
+{"q": "berth", "t": "bed", "genuine": false}
+{"q": "blanket", "t": "bed", "genuine": true}
+{"q": "board", "t": "table", "genuine": false}
+{"q": "bookshelf", "t": "shelf", "genuine": true}
+{"q": "booth", "t": "table", "genuine": true}
+{"q": "broadloom", "t": "rug", "genuine": true}
+{"q": "brussels carpet", "t": "rug", "genuine": true}
+{"q": "bunk", "t": "bed", "genuine": false}
+{"q": "calcium light", "t": "lamp", "genuine": false}
+{"q": "calendar", "t": "table", "genuine": false}
+{"q": "campstool", "t": "stool", "genuine": true}
+{"q": "candle", "t": "lamp", "genuine": false}
+{"q": "chaise", "t": "chair", "genuine": true}
+{"q": "chaise longue", "t": "chair", "genuine": true}
+{"q": "cheval glass", "t": "mirror", "genuine": true}
+{"q": "chichi", "t": "dresser", "genuine": false}
+{"q": "chiffonier", "t": "dresser", "genuine": true}
+{"q": "chimneypiece", "t": "shelf", "genuine": false}
+{"q": "china closet", "t": "cabinet", "genuine": true}
+{"q": "chronometer", "t": "clock", "genuine": true}
+{"q": "clepsydra", "t": "clock", "genuine": false}
+{"q": "clothes closet", "t": "wardrobe", "genuine": true}
+{"q": "clothespress", "t": "wardrobe", "genuine": true}
+{"q": "coal seam", "t": "bed", "genuine": false}
+{"q": "coat closet", "t": "wardrobe", "genuine": false}
+{"q": "commode", "t": "dresser", "genuine": false}
+{"q": "console", "t": "table", "genuine": true}
+{"q": "contents", "t": "table", "genuine": false}
+{"q": "convertible", "t": "couch", "genuine": true}
+{"q": "cot", "t": "bed", "genuine": true}
+{"q": "couch", "t": "bed", "genuine": false}
+{"q": "council board", "t": "table", "genuine": false}
+{"q": "counter", "t": "table", "genuine": true}
+{"q": "course", "t": "bed", "genuine": false}
+{"q": "crap", "t": "stool", "genuine": false}
+{"q": "credenza", "t": "cabinet", "genuine": true}
+{"q": "cushion", "t": "bed", "genuine": true}
+{"q": "davenport", "t": "desk", "genuine": false}
+{"q": "davy jones", "t": "bed", "genuine": false}
+{"q": "daybed", "t": "couch", "genuine": true}
+{"q": "deathbed", "t": "bed", "genuine": false}
+{"q": "desk", "t": "table", "genuine": true}
+{"q": "dirt", "t": "stool", "genuine": false}
+{"q": "divan", "t": "couch", "genuine": true}
+{"q": "divan bed", "t": "couch", "genuine": true}
+{"q": "dog do", "t": "stool", "genuine": false}
+{"q": "dog shit", "t": "stool", "genuine": false}
+{"q": "dog turd", "t": "stool", "genuine": false}
+{"q": "doggy do", "t": "stool", "genuine": false}
+{"q": "dresser", "t": "cabinet", "genuine": true}
+{"q": "droppings", "t": "stool", "genuine": false}
+{"q": "drugget", "t": "rug", "genuine": true}
+{"q": "dung", "t": "stool", "genuine": false}
+{"q": "duvet", "t": "bedding", "genuine": true}
+{"q": "escritoire", "t": "desk", "genuine": true}
+{"q": "flash", "t": "lamp", "genuine": false}
+{"q": "flash bulb", "t": "lamp", "genuine": false}
+{"q": "flashbulb", "t": "lamp", "genuine": false}
+{"q": "flashgun", "t": "lamp", "genuine": false}
+{"q": "flowerbed", "t": "bed", "genuine": false}
+{"q": "flush toilet", "t": "stool", "genuine": true}
+{"q": "flushless toilet", "t": "stool", "genuine": true}
+{"q": "flying carpet", "t": "rug", "genuine": false}
+{"q": "footrest", "t": "stool", "genuine": true}
+{"q": "footstool", "t": "stool", "genuine": true}
+{"q": "four-poster", "t": "bed", "genuine": true}
+{"q": "glass", "t": "mirror", "genuine": false}
+{"q": "glory hole", "t": "cabinet", "genuine": false}
+{"q": "gueridon", "t": "table", "genuine": true}
+{"q": "hammock", "t": "bed", "genuine": false}
+{"q": "hand glass", "t": "mirror", "genuine": false}
+{"q": "hearthrug", "t": "rug", "genuine": true}
+{"q": "highboy", "t": "dresser", "genuine": true}
+{"q": "highchair", "t": "chair", "genuine": true}
+{"q": "hob", "t": "shelf", "genuine": false}
+{"q": "hotbed", "t": "bed", "genuine": false}
+{"q": "hurricane lantern", "t": "lamp", "genuine": true}
+{"q": "hutch", "t": "cabinet", "genuine": true}
+{"q": "interlayer", "t": "bed", "genuine": false}
+{"q": "kalon tripa", "t": "chair", "genuine": false}
+{"q": "kurdistan", "t": "rug", "genuine": false}
+{"q": "ladder-back", "t": "chair", "genuine": true}
+{"q": "lake bottom", "t": "bed", "genuine": false}
+{"q": "lantern", "t": "lamp", "genuine": true}
+{"q": "lavatory", "t": "stool", "genuine": false}
+{"q": "lazaretto", "t": "cabinet", "genuine": false}
+{"q": "lift", "t": "bed", "genuine": false}
+{"q": "limelight", "t": "lamp", "genuine": false}
+{"q": "looking glass", "t": "mirror", "genuine": true}
+{"q": "love seat", "t": "couch", "genuine": true}
+{"q": "loveseat", "t": "couch", "genuine": true}
+{"q": "lowboy", "t": "dresser", "genuine": true}
+{"q": "mantel", "t": "shelf", "genuine": false}
+{"q": "mantelpiece", "t": "shelf", "genuine": false}
+{"q": "mantle", "t": "shelf", "genuine": false}
+{"q": "mantlepiece", "t": "shelf", "genuine": false}
+{"q": "meconium", "t": "stool", "genuine": false}
+{"q": "medicine chest", "t": "cabinet", "genuine": true}
+{"q": "melaena", "t": "stool", "genuine": false}
+{"q": "melena", "t": "stool", "genuine": false}
+{"q": "mount", "t": "bed", "genuine": false}
+{"q": "muck", "t": "stool", "genuine": false}
+{"q": "nammad", "t": "rug", "genuine": false}
+{"q": "neon tube", "t": "lamp", "genuine": true}
+{"q": "numdah", "t": "rug", "genuine": false}
+{"q": "ocean bottom", "t": "bed", "genuine": false}
+{"q": "ocean floor", "t": "bed", "genuine": false}
+{"q": "ottoman", "t": "stool", "genuine": true}
+{"q": "overlay", "t": "bed", "genuine": false}
+{"q": "overmantel", "t": "shelf", "genuine": true}
+{"q": "penalty box", "t": "bench", "genuine": false}
+{"q": "pew", "t": "bench", "genuine": true}
+{"q": "photoflash", "t": "lamp", "genuine": false}
+{"q": "pier glass", "t": "mirror", "genuine": true}
+{"q": "platen", "t": "table", "genuine": false}
+{"q": "ply", "t": "bed", "genuine": false}
+{"q": "poop", "t": "stool", "genuine": false}
+{"q": "potty chair", "t": "stool", "genuine": true}
+{"q": "potty seat", "t": "stool", "genuine": true}
+{"q": "prayer mat", "t": "rug", "genuine": true}
+{"q": "prie-dieu", "t": "bench", "genuine": false}
+{"q": "rear light", "t": "lamp", "genuine": false}
+{"q": "recliner", "t": "chair", "genuine": true}
+{"q": "red carpet", "t": "rug", "genuine": true}
+{"q": "river bottom", "t": "bed", "genuine": false}
+{"q": "riverbed", "t": "bed", "genuine": false}
+{"q": "roadbed", "t": "bed", "genuine": false}
+{"q": "rocker", "t": "chair", "genuine": true}
+{"q": "row", "t": "bed", "genuine": false}
+{"q": "runner", "t": "rug", "genuine": true}
+{"q": "sack", "t": "bed", "genuine": false}
+{"q": "sconce", "t": "lamp", "genuine": true}
+{"q": "sea bottom", "t": "bed", "genuine": false}
+{"q": "sea floor", "t": "bed", "genuine": false}
+{"q": "seabed", "t": "bed", "genuine": false}
+{"q": "secretaire", "t": "desk", "genuine": true}
+{"q": "secretary", "t": "desk", "genuine": true}
+{"q": "sectional", "t": "sofa", "genuine": true}
+{"q": "seedbed", "t": "bed", "genuine": false}
+{"q": "settee", "t": "bench", "genuine": true}
+{"q": "settle", "t": "bench", "genuine": false}
+{"q": "shit", "t": "stool", "genuine": false}
+{"q": "shite", "t": "stool", "genuine": false}
+{"q": "sickbed", "t": "bed", "genuine": true}
+{"q": "sofa bed", "t": "couch", "genuine": true}
+{"q": "speculum", "t": "mirror", "genuine": false}
+{"q": "spot", "t": "lamp", "genuine": false}
+{"q": "spotlight", "t": "lamp", "genuine": true}
+{"q": "squab", "t": "couch", "genuine": false}
+{"q": "stair-carpet", "t": "rug", "genuine": true}
+{"q": "stand", "t": "table", "genuine": false}
+{"q": "storm lantern", "t": "lamp", "genuine": true}
+{"q": "streambed", "t": "bed", "genuine": false}
+{"q": "streetlight", "t": "lamp", "genuine": false}
+{"q": "taboret", "t": "stool", "genuine": true}
+{"q": "tabouret", "t": "stool", "genuine": true}
+{"q": "taillight", "t": "lamp", "genuine": false}
+{"q": "tallboy", "t": "dresser", "genuine": true}
+{"q": "taper", "t": "lamp", "genuine": false}
+{"q": "tete-a-tete", "t": "couch", "genuine": true}
+{"q": "tier", "t": "bed", "genuine": false}
+{"q": "tornado lantern", "t": "lamp", "genuine": true}
+{"q": "truckle", "t": "bed", "genuine": false}
+{"q": "trundle", "t": "bed", "genuine": true}
+{"q": "tuffet", "t": "stool", "genuine": true}
+{"q": "turd", "t": "stool", "genuine": false}
+{"q": "vanity", "t": "table", "genuine": true}
+{"q": "vice chairman", "t": "chair", "genuine": false}
+{"q": "vis-a-vis", "t": "couch", "genuine": false}
+{"q": "wall", "t": "bed", "genuine": false}
+{"q": "water glass", "t": "clock", "genuine": false}
+{"q": "wax light", "t": "lamp", "genuine": false}
+{"q": "wheelchair", "t": "chair", "genuine": true}
+{"q": "wilton", "t": "rug", "genuine": true}
+{"q": "wilton carpet", "t": "rug", "genuine": true}
+{"q": "window seat", "t": "bench", "genuine": true}
+{"q": "worktable", "t": "table", "genuine": true}
+{"q": "writing table", "t": "desk", "genuine": true}

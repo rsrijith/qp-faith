@@ -1,0 +1,9 @@
+{
+  "model": "Meta-Llama-3.1-8B-Instruct-bf16",
+  "n": 55,
+  "forced_rate": {
+    "expansion": 1.0,
+    "nullable": 1.0,
+    "omit_instruction": 0.364
+  }
+}

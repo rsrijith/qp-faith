@@ -1,6 +1,6 @@
 {
   "tag": "probe-qwen4-exp",
-  "n_A": 31,
+  "n_A": 55,
   "n_B": 18,
   "A_product_type_forced_rate": [
     1.0,
@@ -8,11 +8,11 @@
     1.0
   ],
   "A_mean_relevant_excluded_when_typed": [
-    0.8889934397795457,
-    0.8064862739544406,
-    0.9527491182706475
+    0.894147604868525,
+    0.838967168052011,
+    0.9390135252531351
   ],
-  "A_n_typed": 31,
+  "A_n_typed": 55,
   "B_extra_slot_injections": 7,
   "B_over_injection_rate": [
     0.3888888888888889,

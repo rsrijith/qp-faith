@@ -1,0 +1,151 @@
+row,motif,source,llm_label,llm_rationale,n_distinct_class,human_label,notes,stratum,random_flag
+1,dinosaur,WANDS,type-less,"It refers to a theme that can be applied to various product categories like toys, decor, and clothing.",41,type-less,,type-less,1
+2,butterfly,WANDS,type-less,It refers to a decorative motif that can appear on various products.,28,type-less,,type-less,1
+3,queen,WANDS,ambiguous,It can refer to a bed size or a royal figure.,25,ambiguous,Technically it is ambiguous by your definition but no one buys a queen in e-commerce website so it means the bed size.  The only ambiguous part here is it could be a costume of a queen.,ambiguous,1
+4,sunflowers,WANDS,type-less,It refers to a decorative motif that can appear on various products.,17,type-less,,type-less,1
+5,flamingo,WANDS,type-less,A shopper searching for 'flamingo' is likely looking for items featuring the motif rather than a specific product category.,15,type-less,,type-less,1
+6,bees,WANDS,type-less,"The term 'bees' refers to a theme that could apply to various products like decor, art, or clothing.",27,type-less,,type-less,1
+7,rooster,WANDS,type-less,A shopper searching for 'rooster' is likely looking for themed items across various categories.,30,type-less,,type-less,1
+8,simple,WANDS,ambiguous,The term 'simple' can describe a style or design but is not a specific product category.,15,ambiguous,,ambiguous,1
+9,lily,WANDS,type-less,It refers to a flower that can inspire various themed products across categories.,15,type-less,,type-less,1
+10,bulb,WANDS,ambiguous,It could refer to a light bulb or a plant bulb.,12,ambiguous,,ambiguous,1
+11,bear,WANDS,type-less,"A shopper searching for 'bear' is likely looking for items featuring bears, such as decor or clothing, rather than a specific product category.",14,type-less,,type-less,1
+12,fish,WANDS,type-less,"A shopper searching for 'fish' may want themed items like decor or toys, not a specific product category.",12,type-less,,type-less,1
+13,birds,WANDS,type-less,"The term 'birds' refers to a theme that can apply to various products like decor, toys, and art.",12,type-less,,type-less,1
+14,elephant,WANDS,type-less,The term 'elephant' refers to a decorative motif that can appear on various products.,14,type-less,,type-less,1
+15,roses,WANDS,type-less,"A shopper searching for 'roses' is likely looking for items featuring or themed on roses, such as decor or gifts.",11,type-less,,type-less,1
+16,owls,WANDS,type-less,"The term 'owls' refers to a decorative motif that can appear on various products like art, textiles, and home decor.",12,type-less,,type-less,1
+17,pineapples,WANDS,type-less,The term refers to a fruit but does not specify a product category.,10,type-less,,type-less,1
+18,lotus,WANDS,type-less,It refers to a decorative motif that can appear on various products.,9,type-less,,type-less,1
+19,dinosaurs,WANDS,type-less,"The term refers to a theme that can apply to various product categories like toys, decor, and clothing.",11,type-less,,type-less,1
+20,daisy,WANDS,type-less,A shopper searching for 'daisy' is likely looking for items featuring the flower motif across various product categories.,9,type-less,,type-less,1
+21,trunk,WANDS,ambiguous,It could refer to a storage trunk or the trunk of a tree.,8,ambiguous,,ambiguous,1
+22,cuisine,WANDS,type-less,It refers to a style of cooking rather than a specific product category.,8,type-less,,type-less,1
+23,vine,WANDS,type-less,"A shopper searching for 'vine' is likely looking for decorative items featuring vines, not a specific product category.",9,type-less,,type-less,1
+24,ornamental,WANDS,type-less,It refers to a decorative style rather than a specific product category.,8,type-less,,type-less,1
+25,climber,WANDS,type-less,"A shopper searching for 'climber' is likely looking for items featuring or themed on climbing, not a specific product category.",8,type-less,,type-less,1
+26,giant,WANDS,type-less,It refers to a theme or motif that could apply to various product categories.,8,type-less,,type-less,1
+27,root,WANDS,type-less,It refers to a plant or decorative motif rather than a specific product category.,8,type-less,,type-less,1
+28,blade,WANDS,ambiguous,It could refer to a knife blade or a decorative motif.,7,ambiguous,,ambiguous,1
+29,aloe,WANDS,type-less,"Aloe refers to a plant that can be featured in various product categories like skincare, decor, or health products.",7,type-less,,type-less,1
+30,feeder,WANDS,genuine-product-type,It refers to a specific product category for feeding animals.,7,genuine-product-type,,genuine-product-type,1
+31,holly,WANDS,type-less,Holly is a decorative motif often used in holiday-themed products.,7,type-less,,type-less,1
+32,lunch,WANDS,type-less,"A shopper searching for 'lunch' is looking for items themed around it, not a specific product category.",7,type-less,,type-less,1
+33,breakfast,WANDS,type-less,A shopper searching 'breakfast' is looking for themed items rather than a specific product category.,7,type-less,,type-less,1
+34,arbor,WANDS,type-less,"It refers to a decorative motif or theme related to trees, not a specific product category.",6,type-less,,type-less,1
+35,starfish,WANDS,type-less,"A shopper searching 'starfish' is likely looking for themed decor or items featuring starfish, not a specific product category.",9,type-less,,type-less,1
+36,succulent,WANDS,type-less,"A shopper searching for 'succulent' is likely looking for items featuring the plant, such as decor or arrangements.",6,type-less,,type-less,1
+37,spider,WANDS,type-less,"A shopper searching for 'spider' is likely looking for themed items like decorations or toys, not a specific product category.",6,type-less,,type-less,1
+38,dinner,WANDS,type-less,The term 'dinner' refers to a meal theme rather than a specific product category.,5,type-less,,type-less,1
+39,sticker,WANDS,genuine-product-type,The term 'sticker' refers to a specific product category used for decoration or labeling.,6,genuine-product-type,,genuine-product-type,1
+40,crab,WANDS,type-less,"A shopper searching for 'crab' is likely looking for items featuring or themed on crabs, not a specific product category.",5,type-less,,type-less,1
+41,triceratops,WANDS,type-less,"It refers to a dinosaur motif that can appear on various products like toys, decor, and clothing.",6,type-less,,type-less,1
+42,flamingos,WANDS,type-less,The term refers to a decorative motif that can appear on various products.,5,type-less,,type-less,1
+43,frog,WANDS,type-less,A shopper searching 'frog' is likely looking for items featuring frogs across various categories.,5,type-less,,type-less,1
+44,foliage,WANDS,type-less,It refers to a decorative motif that can appear on various products.,5,type-less,,type-less,1
+45,fruit,WANDS,type-less,"A shopper searching for 'fruit' is looking for items themed on or featuring fruit, which can span various product categories.",5,type-less,,type-less,1
+46,orchids,WANDS,type-less,"Shoppers are looking for items featuring or themed on orchids, not a specific product category.",4,type-less,,type-less,1
+47,octopus,WANDS,type-less,"The term 'octopus' refers to a motif that can appear on various products like decor, toys, and clothing.",5,type-less,,type-less,1
+48,wing,WANDS,type-less,"A shopper searching 'wing' is likely looking for items featuring wings, such as decor or themed products.",4,type-less,,type-less,1
+49,flour,WANDS,genuine-product-type,Flour is a specific product category used in cooking and baking.,4,genuine-product-type,,genuine-product-type,1
+50,noodle,WANDS,type-less,"A shopper searching 'noodle' is likely looking for items themed on noodles, not a specific product category.",4,genuine-product-type,Noodle is a food category like flour,type-less,1
+51,cereal,WANDS,genuine-product-type,Cereal is a specific category of food products.,3,genuine-product-type,,genuine-product-type,1
+52,condiment,WANDS,genuine-product-type,The term refers to a specific category of food products used to enhance flavor.,3,genuine-product-type,,genuine-product-type,1
+53,stump,WANDS,type-less,"A shopper searching for 'stump' is likely looking for decorative items or themes featuring stumps, not a specific product category.",4,type-less,,type-less,1
+54,sauce,WANDS,genuine-product-type,The term 'sauce' refers to a specific category of food products.,3,genuine-product-type,,genuine-product-type,1
+55,casserole,WANDS,genuine-product-type,It refers to a specific type of cookware used for baking and serving.,3,genuine-product-type,,genuine-product-type,1
+56,tree,ESCI,type-less,A shopper searching for 'tree' is likely looking for items featuring tree motifs across various categories.,-1,type-less,,type-less,1
+57,insect,ESCI,type-less,A shopper searching for 'insect' is likely looking for themed items across various categories.,-1,type-less,,type-less,1
+58,bees,ESCI,type-less,"The term 'bees' refers to a theme that could apply to various products like decor, art, or clothing.",-1,type-less,,type-less,1
+59,plum,ESCI,type-less,It refers to a fruit but is often used thematically in decor and design.,-1,genuine-product-type,Its a fruit they can buy,type-less,1
+60,willow,ESCI,type-less,It refers to a plant that can be featured in various product categories.,-1,type-less,,type-less,1
+61,onion,ESCI,type-less,"A shopper searching for 'onion' may want themed items or decor featuring onions, not a specific product category.",-1,genuine-product-type,Onion is something customers want similar to flour and noodle,type-less,1
+62,cheetah,ESCI,type-less,"A shopper searching for 'cheetah' is likely looking for items featuring the animal, such as decor or clothing, rather than a specific product category.",-1,type-less,,type-less,1
+63,critters,ESCI,type-less,"The term refers to small animals or creatures, which can be featured in various product categories.",-1,type-less,,type-less,1
+64,coca,ESCI,type-less,It refers to a theme or flavor rather than a specific product category.,-1,type-less,It was cocoa it is a product but this likely isn’t,type-less,1
+65,arnica,ESCI,type-less,"Arnica is a plant often associated with health and wellness products, but does not specify a single product category.",-1,type-less,,type-less,1
+66,koala,ESCI,type-less,"A shopper searching 'koala' is likely looking for items featuring the animal, not a specific product category.",-1,type-less,,type-less,1
+67,poinsettia,ESCI,type-less,"It refers to a plant that can be featured in various product categories like decorations, gifts, or home decor.",-1,type-less,,type-less,1
+68,cashew,ESCI,type-less,"A shopper searching for 'cashew' is likely looking for items featuring or themed on cashews, not a specific product category.",-1,genuine-product-type,Thye are likely looking to buy some cashews,type-less,1
+69,groundhog,ESCI,type-less,It refers to a theme or motif rather than a specific product category.,-1,type-less,,type-less,1
+70,samba,ESCI,type-less,"It refers to a dance style and cultural theme, not a specific product category.",-1,type-less,,type-less,1
+71,wintergreen,ESCI,type-less,It refers to a plant or flavor but does not specify a product category.,-1,type-less,,type-less,1
+72,shoots,ESCI,type-less,"The term 'shoots' refers to a decorative motif or theme, often associated with plants or nature, rather than a specific product category.",-1,type-less,,type-less,1
+73,viruses,ESCI,type-less,The term refers to a concept rather than a specific product category.,-1,type-less,,type-less,1
+74,dingo,ESCI,type-less,"A shopper searching for 'dingo' is likely looking for items featuring or themed on the animal, not a specific product category.",-1,type-less,,type-less,1
+75,cilantro,ESCI,type-less,"Cilantro is a herb that can be featured in various product categories like kitchenware, decor, or food items.",-1,genuine-product-type,,type-less,1
+76,poppies,ESCI,type-less,It refers to a flower motif that can appear on various products.,-1,ambiguous,It could be what you said or it could be slang for polly seeds,type-less,1
+77,tillandsia,ESCI,type-less,It refers to a type of plant but is often sought for decorative purposes across various product categories.,-1,type-less,,type-less,1
+78,guppies,ESCI,type-less,"A shopper searching for 'guppies' is likely looking for items featuring or themed on the fish, not a specific product category.",-1,type-less,,type-less,1
+79,boysenberry,ESCI,type-less,"It refers to a fruit that could be featured in various product categories like food items, decor, or themed products.",-1,genuine-product-type,It could be buying groceries and it includes this fruit,type-less,1
+80,horseback,ESCI,type-less,"It refers to a theme or motif related to horses, not a specific product category.",-1,type-less,,type-less,1
+81,ferns,ESCI,type-less,"A shopper searching for 'ferns' is looking for items featuring or themed on ferns, which can include decor, art, or plants.",-1,type-less,,type-less,1
+82,bittersweet,ESCI,type-less,It refers to an emotional state or flavor rather than a specific product category.,-1,type-less,,type-less,1
+83,morel,ESCI,type-less,"A shopper searching for 'morel' is likely looking for items themed on the mushroom, which can include various product categories.",-1,type-less,,type-less,1
+84,cougars,ESCI,type-less,The term refers to a theme or motif rather than a specific product category.,-1,type-less,,type-less,1
+85,daffodil,ESCI,type-less,"A shopper searching for 'daffodil' wants items featuring or themed on the flower, not a specific product category.",-1,genuine-product-type,It could getting flowers,type-less,1
+86,glumes,ESCI,type-less,Glumes refer to a part of a plant and do not directly indicate a specific product category.,-1,type-less,,type-less,1
+87,angostura,ESCI,type-less,"It refers to a brand of bitters, which can be used in various drinks and recipes, but does not specify a single product category.",-1,type-less,,type-less,1
+88,saratoga,ESCI,type-less,It refers to a decorative motif or theme rather than a specific product category.,-1,type-less,,type-less,1
+89,liatris,ESCI,type-less,"Liatris is a plant name, not a specific product category.",-1,type-less,,type-less,1
+90,springtails,ESCI,type-less,"It refers to a type of insect, which could inspire themed products but does not directly indicate a specific product category.",-1,type-less,,type-less,1
+91,flamingoes,ESCI,type-less,The term refers to a decorative motif that can appear on various products.,-1,type-less,,type-less,1
+92,anaconda,ESCI,type-less,"It refers to a snake, which can inspire themed products across various categories.",-1,type-less,,type-less,1
+93,parasites,ESCI,type-less,"The term refers to a theme that could apply to various products like art, decor, or educational materials.",-1,type-less,,type-less,1
+94,largemouth,ESCI,type-less,"It refers to a type of fish, which could inspire various themed products but does not specify a product category.",-1,type-less,,type-less,1
+95,rambutan,ESCI,type-less,It refers to a fruit but does not specify a product category.,-1,type-less,,type-less,1
+96,stumps,ESCI,type-less,The term refers to a decorative motif or theme that could apply to various products like furniture or decor.,-1,type-less,,type-less,1
+97,cinchona,ESCI,type-less,Cinchona is a plant associated with a decorative or thematic motif rather than a specific product category.,-1,type-less,,type-less,1
+98,jackrabbits,ESCI,type-less,The term refers to an animal and does not specify a product category.,-1,type-less,,type-less,1
+99,copperhead,ESCI,type-less,"It refers to a snake, which is a motif rather than a specific product category.",-1,type-less,,type-less,1
+100,ocelot,ESCI,type-less,It refers to a decorative motif or theme rather than a specific product category.,-1,type-less,,type-less,1
+101,seeds,ESCI,genuine-product-type,The term 'seeds' refers to a specific product category related to gardening and planting.,-1,genuine-product-type,,genuine-product-type,0
+102,beef,ESCI,genuine-product-type,It refers to a specific category of food products.,-1,genuine-product-type,,genuine-product-type,0
+103,drone,ESCI,genuine-product-type,The term 'drone' refers to a specific category of electronic devices used for various purposes.,-1,genuine-product-type,,genuine-product-type,0
+104,probiotics,ESCI,genuine-product-type,Probiotics refer to a specific category of health supplements.,-1,genuine-product-type,,genuine-product-type,0
+105,fruits,ESCI,genuine-product-type,The term refers to a specific category of food products.,-1,genuine-product-type,,genuine-product-type,0
+106,popcorn,ESCI,genuine-product-type,It refers to a specific food product category.,-1,genuine-product-type,,genuine-product-type,0
+107,probiotic,ESCI,genuine-product-type,It refers to a specific category of health supplements.,-1,genuine-product-type,,genuine-product-type,0
+108,molle,ESCI,genuine-product-type,Molle refers to a specific type of tactical gear and accessories.,-1,genuine-product-type,,genuine-product-type,0
+109,clocks,ESCI,genuine-product-type,The term 'clocks' refers to a specific category of timekeeping devices.,-1,genuine-product-type,,genuine-product-type,0
+110,poultry,ESCI,genuine-product-type,It refers to a specific category of food products.,-1,genuine-product-type,,genuine-product-type,0
+111,stevia,ESCI,genuine-product-type,Stevia is a specific type of sweetener product.,-1,genuine-product-type,,genuine-product-type,0
+112,loofah,ESCI,genuine-product-type,Loofah is a specific product used for bathing and exfoliation.,-1,genuine-product-type,,genuine-product-type,0
+113,coir,ESCI,genuine-product-type,Coir refers to a specific type of natural fiber used in products like mats and rugs.,-1,genuine-product-type,,genuine-product-type,0
+114,drones,ESCI,genuine-product-type,The term 'drones' refers to a specific category of products used for various purposes.,-1,genuine-product-type,,genuine-product-type,0
+115,shrubs,ESCI,genuine-product-type,The term refers to a specific category of plants commonly sold in gardening and landscaping.,-1,genuine-product-type,,genuine-product-type,0
+116,wader,ESCI,genuine-product-type,A 'wader' refers to a specific type of waterproof clothing used for fishing or outdoor activities.,-1,genuine-product-type,,genuine-product-type,0
+117,mules,ESCI,genuine-product-type,The term refers to a specific type of footwear.,-1,genuine-product-type,,genuine-product-type,0
+118,tiller,ESCI,genuine-product-type,A tiller is a specific gardening tool used for soil preparation.,-1,genuine-product-type,,genuine-product-type,0
+119,seedlings,ESCI,genuine-product-type,"The term refers specifically to young plants, which is a clear product category.",-1,genuine-product-type,,genuine-product-type,0
+120,pistachios,ESCI,genuine-product-type,Pistachios are a specific type of food product.,-1,genuine-product-type,,genuine-product-type,0
+121,tapa,ESCI,genuine-product-type,Tapa refers to a type of cloth or fabric used in various products.,-1,genuine-product-type,,genuine-product-type,0
+122,houseplants,ESCI,genuine-product-type,The term refers specifically to a category of plants sold for indoor decoration.,-1,genuine-product-type,,genuine-product-type,0
+123,loofahs,ESCI,genuine-product-type,Loofahs are a specific type of bath and body product.,-1,genuine-product-type,,genuine-product-type,0
+124,houseplant,ESCI,genuine-product-type,It refers to a specific category of plants sold for indoor decoration.,-1,genuine-product-type,,genuine-product-type,0
+125,barilla,ESCI,genuine-product-type,"Barilla is a brand of pasta, which is a specific product category.",-1,genuine-product-type,,genuine-product-type,0
+126,cortina,ESCI,genuine-product-type,Cortina refers to a type of curtain or drapery.,-1,genuine-product-type,,genuine-product-type,0
+127,cucumbers,ESCI,genuine-product-type,Cucumbers are a specific type of food product.,-1,genuine-product-type,,genuine-product-type,0
+128,elemis,ESCI,genuine-product-type,Elemis is a brand that offers skincare products.,-1,genuine-product-type,,genuine-product-type,0
+129,hazelnuts,ESCI,genuine-product-type,Hazelnuts are a specific type of food product.,-1,genuine-product-type,,genuine-product-type,0
+130,plantain,ESCI,genuine-product-type,Plantain is a specific type of food product.,-1,genuine-product-type,,genuine-product-type,0
+131,fingerlings,ESCI,genuine-product-type,Fingerlings are a specific type of toy.,-1,genuine-product-type,,genuine-product-type,0
+132,chickpeas,ESCI,genuine-product-type,Chickpeas are a specific food product category.,-1,genuine-product-type,,genuine-product-type,0
+133,pembroke,ESCI,genuine-product-type,"Pembroke refers to a specific type of furniture, such as a Pembroke table.",-1,genuine-product-type,,genuine-product-type,0
+134,mezcal,ESCI,genuine-product-type,Mezcal is a specific type of alcoholic beverage.,-1,genuine-product-type,,genuine-product-type,0
+135,fruitwood,ESCI,genuine-product-type,It refers to a specific type of wood used in furniture and home goods.,-1,genuine-product-type,,genuine-product-type,0
+136,pods,ESCI,ambiguous,"The term 'pods' could refer to various products like coffee pods or storage pods, but is not specific enough to determine a single product type.",-1,ambiguous,,ambiguous,0
+137,needles,ESCI,ambiguous,The term could refer to sewing needles or needles for other uses like knitting or medical purposes.,-1,ambiguous,,ambiguous,0
+138,trunk,ESCI,ambiguous,It could refer to a storage trunk or the trunk of a tree.,-1,ambiguous,,ambiguous,0
+139,mice,ESCI,ambiguous,It could refer to computer mice or the animal.,-1,ambiguous,,ambiguous,0
+140,mounts,ESCI,ambiguous,"It could refer to wall mounts for TVs or other items, but also has broader meanings.",-1,ambiguous,,ambiguous,0
+141,husky,ESCI,ambiguous,It can refer to a size category for clothing or describe a type of dog.,-1,ambiguous,,ambiguous,0
+142,mule,ESCI,ambiguous,It could refer to a type of shoe or the animal.,-1,ambiguous,,ambiguous,0
+143,creeper,ESCI,ambiguous,It could refer to a type of plant or a style of shoe.,-1,ambiguous,,ambiguous,0
+144,downs,ESCI,ambiguous,It could refer to down feathers for bedding or a general term for a lower position.,-1,ambiguous,,ambiguous,0
+145,pacer,ESCI,ambiguous,It could refer to a type of shoe or a decorative motif.,-1,ambiguous,,ambiguous,0
+146,flathead,ESCI,ambiguous,It could refer to a type of screwdriver or a decorative motif.,-1,ambiguous,,ambiguous,0
+147,bloomer,ESCI,ambiguous,It could refer to a type of clothing or a decorative motif.,-1,ambiguous,,ambiguous,0
+148,looper,ESCI,ambiguous,It could refer to a type of tool or a decorative motif.,-1,ambiguous,,ambiguous,0
+149,quickset,ESCI,ambiguous,It could refer to a brand of locks or a type of quick-setting material.,-1,ambiguous,,ambiguous,0
+150,creepers,ESCI,ambiguous,The term could refer to a type of shoe or a decorative motif.,-1,ambiguous,,ambiguous,0

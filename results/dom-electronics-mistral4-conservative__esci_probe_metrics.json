@@ -1,0 +1,15 @@
+{
+  "tag": "dom-electronics-mistral4-conservative",
+  "n_entity": 28,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.4447116316487888,
+    0.29726025053425525,
+    0.5963208080264897
+  ]
+}

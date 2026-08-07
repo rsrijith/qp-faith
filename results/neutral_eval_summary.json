@@ -1,0 +1,21 @@
+{
+  "condition": "neutral_instructions_no_theme_prime",
+  "n_pairs": 60,
+  "namematch_relevant": {
+    "yes": 44,
+    "judged": 48,
+    "rate": 0.917,
+    "wilson95": [
+      0.8,
+      0.97
+    ]
+  },
+  "distractors": {
+    "no": 11,
+    "judged": 11
+  },
+  "primed_reference": [
+    "47/48 (98%)",
+    "44/48 (92%)"
+  ]
+}

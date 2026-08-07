@@ -1,0 +1,15 @@
+{
+  "tag": "dom-apparel-llama4-expansion",
+  "n_entity": 33,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.39541605957059756,
+    0.26089170787534466,
+    0.5448286027336026
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tag": "probe-haiku-opt",
+  "n_A": 55,
+  "n_B": 18,
+  "A_product_type_forced_rate": [
+    0.16363636363636364,
+    0.07272727272727272,
+    0.2727272727272727
+  ],
+  "A_mean_relevant_excluded_when_typed": [
+    0.6586835187138659,
+    0.4624416886485063,
+    0.8475384450470494
+  ],
+  "A_n_typed": 9,
+  "B_extra_slot_injections": 0,
+  "B_over_injection_rate": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tag": "dom-electronics-gemma4-expansion",
+  "n_entity": 28,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.5034136359986099,
+    0.36725649096295754,
+    0.6408047375842298
+  ]
+}

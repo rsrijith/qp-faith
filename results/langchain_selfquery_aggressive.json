@@ -1,0 +1,297 @@
+{
+  "condition": "aggressive",
+  "model": "claude-haiku-4-5-20251001",
+  "n": 55,
+  "category_emit_rate": [
+    0.7090909090909091,
+    0.5818181818181818,
+    0.8181818181818182
+  ],
+  "recall_drop_all": [
+    0.39815608690482185,
+    0.27938572975679155,
+    0.5104742893961529
+  ],
+  "recall_drop_when_emitted": [
+    0.5615021738401335,
+    0.429273681373082,
+    0.694172673002574
+  ],
+  "rows": [
+    {
+      "query": "dinosaur",
+      "emitted_product_class": "toy",
+      "recall_drop": 0.8376068376068375
+    },
+    {
+      "query": "rooster",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.34659090909090917
+    },
+    {
+      "query": "butterfly",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.9239130434782609
+    },
+    {
+      "query": "bees",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.0975609756097561
+    },
+    {
+      "query": "queen",
+      "emitted_product_class": "bedding",
+      "recall_drop": 0.4027777777777778
+    },
+    {
+      "query": "sunflowers",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.024390243902439025
+    },
+    {
+      "query": "simple",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "flamingo",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.45833333333333337
+    },
+    {
+      "query": "lily",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "elephant",
+      "emitted_product_class": "toy",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "bear",
+      "emitted_product_class": "toy",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "bulb",
+      "emitted_product_class": "lighting",
+      "recall_drop": 0.32974910394265233
+    },
+    {
+      "query": "fish",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.8125
+    },
+    {
+      "query": "birds",
+      "emitted_product_class": "wall art",
+      "recall_drop": -0.05263157894736842
+    },
+    {
+      "query": "owls",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.0
+    },
+    {
+      "query": "roses",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.0
+    },
+    {
+      "query": "dinosaurs",
+      "emitted_product_class": "toy",
+      "recall_drop": 0.03571428571428571
+    },
+    {
+      "query": "pineapples",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.0
+    },
+    {
+      "query": "daisy",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "starfish",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.8461538461538461
+    },
+    {
+      "query": "lotus",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "vine",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.9
+    },
+    {
+      "query": "trunk",
+      "emitted_product_class": "storage",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "cuisine",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "ornamental",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.8461538461538461
+    },
+    {
+      "query": "climber",
+      "emitted_product_class": "toy",
+      "recall_drop": 0.4545454545454546
+    },
+    {
+      "query": "root",
+      "emitted_product_class": "plant",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "giant",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "blade",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "aloe",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "feeder",
+      "emitted_product_class": "feeder",
+      "recall_drop": 0.19444444444444442
+    },
+    {
+      "query": "breakfast",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "lunch",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "holly",
+      "emitted_product_class": "wall art",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "succulent",
+      "emitted_product_class": "plant",
+      "recall_drop": 0.11764705882352944
+    },
+    {
+      "query": "arbor",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.9545454545454546
+    },
+    {
+      "query": "spider",
+      "emitted_product_class": "toy",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "triceratops",
+      "emitted_product_class": "toy",
+      "recall_drop": 0.0
+    },
+    {
+      "query": "sticker",
+      "emitted_product_class": "sticker",
+      "recall_drop": 0.375
+    },
+    {
+      "query": "dinner",
+      "emitted_product_class": "dining",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "crab",
+      "emitted_product_class": "toy",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "flamingos",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.07692307692307693
+    },
+    {
+      "query": "frog",
+      "emitted_product_class": "toy",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "fruit",
+      "emitted_product_class": "wall art",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "foliage",
+      "emitted_product_class": "wall art",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "octopus",
+      "emitted_product_class": "toy",
+      "recall_drop": 0.0
+    },
+    {
+      "query": "orchids",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.0
+    },
+    {
+      "query": "wing",
+      "emitted_product_class": "wall art",
+      "recall_drop": 0.9166666666666666
+    },
+    {
+      "query": "flour",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "noodle",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "stump",
+      "emitted_product_class": "home decor",
+      "recall_drop": 1.0
+    },
+    {
+      "query": "cereal",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "condiment",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "casserole",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "sauce",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    }
+  ]
+}

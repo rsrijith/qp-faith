@@ -1,0 +1,445 @@
+{
+  "metric": "category_routing_rate = fraction of the 55 type-less entity motifs where the planner emits a non-empty product_type (spurious by construction).",
+  "by_condition": {
+    "default_extract": {
+      "gemma4": {
+        "category_routing_rate": 0.0,
+        "emission": {
+          "product_type": 0.0,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt4o": {
+        "category_routing_rate": 0.036,
+        "emission": {
+          "product_type": 0.036,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt52": {
+        "category_routing_rate": 0.509,
+        "emission": {
+          "product_type": 0.509,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.073,
+          "brand": 0.036,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "haiku": {
+        "category_routing_rate": 0.218,
+        "emission": {
+          "product_type": 0.218,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.036,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "llama4": {
+        "category_routing_rate": 0.418,
+        "emission": {
+          "product_type": 0.418,
+          "color": 0.164,
+          "material": 0.164,
+          "style": 0.164,
+          "brand": 0.145,
+          "price_range": 0.164
+        },
+        "n_entity": 55
+      },
+      "mistral4": {
+        "category_routing_rate": 0.436,
+        "emission": {
+          "product_type": 0.436,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "qwen4": {
+        "category_routing_rate": 0.236,
+        "emission": {
+          "product_type": 0.236,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.036,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "sonnet": {
+        "category_routing_rate": 0.327,
+        "emission": {
+          "product_type": 0.327,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.036,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "together-llama70": {
+        "category_routing_rate": 0.382,
+        "emission": {
+          "product_type": 0.382,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.055,
+          "brand": 0.036,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      }
+    },
+    "practitioner_narrow": {
+      "gemma4": {
+        "category_routing_rate": 0.909,
+        "emission": {
+          "product_type": 0.909,
+          "color": 0.073,
+          "material": 0.055,
+          "style": 0.127,
+          "brand": 0.036,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt4o": {
+        "category_routing_rate": 0.727,
+        "emission": {
+          "product_type": 0.727,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.273,
+          "brand": 0.036,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt52": {
+        "category_routing_rate": 0.527,
+        "emission": {
+          "product_type": 0.527,
+          "color": 0.0,
+          "material": 0.018,
+          "style": 0.309,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "haiku": {
+        "category_routing_rate": 0.691,
+        "emission": {
+          "product_type": 0.691,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.091,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "llama4": {
+        "category_routing_rate": 1.0,
+        "emission": {
+          "product_type": 1.0,
+          "color": 0.509,
+          "material": 0.364,
+          "style": 0.491,
+          "brand": 0.327,
+          "price_range": 0.091
+        },
+        "n_entity": 55
+      },
+      "mistral4": {
+        "category_routing_rate": 0.564,
+        "emission": {
+          "product_type": 0.564,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.018,
+          "brand": 0.055,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "qwen4": {
+        "category_routing_rate": 0.727,
+        "emission": {
+          "product_type": 0.727,
+          "color": 0.109,
+          "material": 0.018,
+          "style": 0.345,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "sonnet": {
+        "category_routing_rate": 0.491,
+        "emission": {
+          "product_type": 0.491,
+          "color": 0.055,
+          "material": 0.0,
+          "style": 0.055,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "together-llama70": {
+        "category_routing_rate": 0.945,
+        "emission": {
+          "product_type": 0.945,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.109,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      }
+    },
+    "practitioner_shopping": {
+      "gemma4": {
+        "category_routing_rate": 0.509,
+        "emission": {
+          "product_type": 0.509,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.018,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt4o": {
+        "category_routing_rate": 0.527,
+        "emission": {
+          "product_type": 0.527,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.018,
+          "brand": 0.036,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt52": {
+        "category_routing_rate": 0.509,
+        "emission": {
+          "product_type": 0.509,
+          "color": 0.0,
+          "material": 0.018,
+          "style": 0.345,
+          "brand": 0.055,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "haiku": {
+        "category_routing_rate": 0.673,
+        "emission": {
+          "product_type": 0.673,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.091,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "llama4": {
+        "category_routing_rate": 0.709,
+        "emission": {
+          "product_type": 0.709,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.018
+        },
+        "n_entity": 55
+      },
+      "mistral4": {
+        "category_routing_rate": 0.927,
+        "emission": {
+          "product_type": 0.927,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.018,
+          "brand": 0.036,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "qwen4": {
+        "category_routing_rate": 0.218,
+        "emission": {
+          "product_type": 0.218,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.145,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "sonnet": {
+        "category_routing_rate": 0.382,
+        "emission": {
+          "product_type": 0.382,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.036,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "together-llama70": {
+        "category_routing_rate": 0.764,
+        "emission": {
+          "product_type": 0.764,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.127,
+          "brand": 0.055,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      }
+    },
+    "stock_selfquery": {
+      "gemma4": {
+        "category_routing_rate": 0.0,
+        "emission": {
+          "product_type": 0.0,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt4o": {
+        "category_routing_rate": 0.036,
+        "emission": {
+          "product_type": 0.036,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "gpt52": {
+        "category_routing_rate": 0.018,
+        "emission": {
+          "product_type": 0.018,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "haiku": {
+        "category_routing_rate": 0.018,
+        "emission": {
+          "product_type": 0.018,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.018,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "llama4": {
+        "category_routing_rate": 0.455,
+        "emission": {
+          "product_type": 0.455,
+          "color": 0.055,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "mistral4": {
+        "category_routing_rate": 0.727,
+        "emission": {
+          "product_type": 0.727,
+          "color": 0.018,
+          "material": 0.018,
+          "style": 0.036,
+          "brand": 0.073,
+          "price_range": 0.018
+        },
+        "n_entity": 55
+      },
+      "qwen4": {
+        "category_routing_rate": 0.036,
+        "emission": {
+          "product_type": 0.036,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.018,
+          "brand": 0.0,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "sonnet": {
+        "category_routing_rate": 0.036,
+        "emission": {
+          "product_type": 0.036,
+          "color": 0.0,
+          "material": 0.0,
+          "style": 0.0,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      },
+      "together-llama70": {
+        "category_routing_rate": 0.2,
+        "emission": {
+          "product_type": 0.2,
+          "color": 0.018,
+          "material": 0.0,
+          "style": 0.055,
+          "brand": 0.018,
+          "price_range": 0.0
+        },
+        "n_entity": 55
+      }
+    }
+  }
+}

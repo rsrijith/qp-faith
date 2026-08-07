@@ -1,0 +1,297 @@
+{
+  "condition": "default",
+  "model": "claude-haiku-4-5-20251001",
+  "n": 55,
+  "category_emit_rate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "recall_drop_all": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "recall_drop_when_emitted": [
+    NaN,
+    NaN,
+    NaN
+  ],
+  "rows": [
+    {
+      "query": "dinosaur",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "rooster",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "butterfly",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "bees",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "queen",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "sunflowers",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "simple",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "flamingo",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "lily",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "elephant",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "bear",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "bulb",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "fish",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "birds",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "owls",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "roses",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "dinosaurs",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "pineapples",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "daisy",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "starfish",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "lotus",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "vine",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "trunk",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "cuisine",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "ornamental",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "climber",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "root",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "giant",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "blade",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "aloe",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "feeder",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "breakfast",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "lunch",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "holly",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "succulent",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "arbor",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "spider",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "triceratops",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "sticker",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "dinner",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "crab",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "flamingos",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "frog",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "fruit",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "foliage",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "octopus",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "orchids",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "wing",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "flour",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "noodle",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "stump",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "cereal",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "condiment",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "casserole",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    },
+    {
+      "query": "sauce",
+      "emitted_product_class": null,
+      "recall_drop": 0.0
+    }
+  ]
+}

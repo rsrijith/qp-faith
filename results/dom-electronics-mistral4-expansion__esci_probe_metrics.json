@@ -1,0 +1,15 @@
+{
+  "tag": "dom-electronics-mistral4-expansion",
+  "n_entity": 28,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.5218060348457482,
+    0.37663084821455695,
+    0.6704442497891412
+  ]
+}

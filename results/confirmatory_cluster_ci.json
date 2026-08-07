@@ -1,0 +1,26 @@
+{
+  "electronics": {
+    "pooled_expansion_harm_cluster": [
+      0.4848803632413307,
+      0.34994152317081484,
+      0.6154733821700837
+    ],
+    "n_motif_clusters": 28
+  },
+  "apparel": {
+    "pooled_expansion_harm_cluster": [
+      0.37564962295041626,
+      0.25246572585534016,
+      0.5077601838450444
+    ],
+    "n_motif_clusters": 33
+  },
+  "wands_title_instrument": {
+    "pooled_expansion_harm_cluster": [
+      0.5962902890191468,
+      0.49796633773676513,
+      0.6908340382166329
+    ],
+    "n_motif_clusters": 55
+  }
+}

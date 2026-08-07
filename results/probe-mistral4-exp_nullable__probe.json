@@ -1,0 +1,565 @@
+{
+ "tag": "probe-mistral4-exp_nullable",
+ "forced_rate": 1.0,
+ "n": 55,
+ "plans": [
+  {
+   "query": "dinosaur",
+   "plan": {
+    "product_type": "toys",
+    "color": "neutral",
+    "style": "prehistoric",
+    "brand": "unknown",
+    "price_range": "moderate",
+    "material": "plastic"
+   }
+  },
+  {
+   "query": "rooster",
+   "plan": {
+    "product_type": "home_decor",
+    "style": "rustic",
+    "color": "brown",
+    "brand": "Farmhouse",
+    "price_range": "mid_range"
+   }
+  },
+  {
+   "query": "butterfly",
+   "plan": {
+    "product_type": "clothing",
+    "style": "feminine",
+    "color": "pink",
+    "brand": "Victoria's Secret",
+    "price_range": "mid",
+    "material": "silk"
+   }
+  },
+  {
+   "query": "bees",
+   "plan": {
+    "product_type": "Home & Garden",
+    "brand": "Bee's Needs",
+    "color": "Yellow",
+    "style": "Bee-themed",
+    "price_range": "Mid-Range"
+   }
+  },
+  {
+   "query": "queen",
+   "plan": {
+    "product_type": "bed",
+    "style": "modern",
+    "size": "queen",
+    "brand": "IKEA"
+   }
+  },
+  {
+   "query": "sunflowers",
+   "plan": {
+    "product_type": "home_decor",
+    "color": "yellow",
+    "style": "rustic",
+    "brand": "IKEA",
+    "price_range": "budget"
+   }
+  },
+  {
+   "query": "simple",
+   "plan": {
+    "product_type": "clothing",
+    "style": "casual",
+    "color": "neutral",
+    "material": "cotton",
+    "price_range": "budget"
+   }
+  },
+  {
+   "query": "flamingo",
+   "plan": {
+    "product_type": "home_decor",
+    "color": "pink",
+    "style": "tropical",
+    "brand": "Ikea"
+   }
+  },
+  {
+   "query": "lily",
+   "plan": {
+    "product_type": "clothing",
+    "brand": "Lilly Pulitzer",
+    "color": "multi",
+    "style": "dress"
+   }
+  },
+  {
+   "query": "elephant",
+   "plan": {
+    "product_type": "home_decor",
+    "style": "african",
+    "brand": "Unknown",
+    "color": "ivory",
+    "material": "wood",
+    "price_range": "mid_range"
+   }
+  },
+  {
+   "query": "bear",
+   "plan": {
+    "product_type": "Home & Kitchen",
+    "brand": "The North Woods Co.",
+    "color": "Brown",
+    "style": "Traditional",
+    "material": "Wood",
+    "price_range": "Mid-Range"
+   }
+  },
+  {
+   "query": "bulb",
+   "plan": {
+    "product_type": "lighting",
+    "product_subtype": "bulb",
+    "color": "clear",
+    "material": "glass"
+   }
+  },
+  {
+   "query": "fish",
+   "plan": {
+    "product_type": "home_decor",
+    "color": "blue",
+    "style": "nautical",
+    "brand": "SeaBreeze",
+    "price_range": "mid_range",
+    "material": "resin"
+   }
+  },
+  {
+   "query": "birds",
+   "plan": {
+    "product_type": "home_decor",
+    "style": "nature_themed",
+    "color": "multi_color",
+    "material": "plastic_or_resin",
+    "price_range": "moderate"
+   }
+  },
+  {
+   "query": "owls",
+   "plan": {
+    "product_type": "home_decor",
+    "style": "native_american",
+    "color": "brown",
+    "brand": "WildlifeArt",
+    "price_range": "mid_range"
+   }
+  },
+  {
+   "query": "roses",
+   "plan": {
+    "product_type": "flower",
+    "color": "red",
+    "style": "romantic",
+    "brand": "unknown",
+    "price_range": "moderate"
+   }
+  },
+  {
+   "query": "dinosaurs",
+   "plan": {
+    "product_type": "toys",
+    "brand": "Mattel",
+    "color": "neutral",
+    "style": "prehistoric",
+    "price_range": "mid"
+   }
+  },
+  {
+   "query": "pineapples",
+   "plan": {
+    "product_type": "home_decor",
+    "style": "tropical",
+    "color": "yellow",
+    "material": "plastic",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "daisy",
+   "plan": {
+    "product_type": "flower_accessories",
+    "style": "vintage",
+    "color": "pink",
+    "brand": "MillyMollyMandy"
+   }
+  },
+  {
+   "query": "starfish",
+   "plan": {
+    "product_type": "Home Decor",
+    "style": "Nautical",
+    "color": "White",
+    "material": "Plastic or Ceramic",
+    "price_range": "Affordable"
+   }
+  },
+  {
+   "query": "lotus",
+   "plan": {
+    "product_type": "home_decor",
+    "brand": "Lotus Home",
+    "style": "modern",
+    "color": "white"
+   }
+  },
+  {
+   "query": "vine",
+   "plan": {
+    "product_type": "Home Decor",
+    "color": "Green",
+    "style": "Rustic",
+    "brand": "Vintage",
+    "price_range": "Mid",
+    "material": "Wood"
+   }
+  },
+  {
+   "query": "trunk",
+   "plan": {
+    "product_type": "luggage",
+    "style": "classic",
+    "color": "black",
+    "material": "leather",
+    "brand": "Samsonite",
+    "price_range": "mid"
+   }
+  },
+  {
+   "query": "cuisine",
+   "plan": {
+    "product_type": "Kitchenware",
+    "style": "Modern",
+    "color": "Black",
+    "material": "Stainless Steel",
+    "brand": "IKEA",
+    "price_range": "Mid-Range"
+   }
+  },
+  {
+   "query": "ornamental",
+   "plan": {
+    "product_type": "Decorative",
+    "style": "Ornate"
+   }
+  },
+  {
+   "query": "climber",
+   "plan": {
+    "product_type": "Outdoor Gear",
+    "brand": "North Face",
+    "price_range": "High",
+    "color": "Grey",
+    "material": "Nylon",
+    "style": "Sporty"
+   }
+  },
+  {
+   "query": "root",
+   "plan": {
+    "product_type": "all",
+    "price_range": "all",
+    "color": "all",
+    "material": "all",
+    "style": "all",
+    "brand": "all"
+   }
+  },
+  {
+   "query": "giant",
+   "plan": {
+    "product_type": "furniture",
+    "style": "modern",
+    "size": "large",
+    "color": "black",
+    "brand": "IKEA",
+    "price_range": "mid_range"
+   }
+  },
+  {
+   "query": "blade",
+   "plan": {
+    "product_type": "Kitchen",
+    "product_subtype": "Knife",
+    "brand": "Unknown",
+    "color": "Silver",
+    "material": "Stainless Steel",
+    "style": "Modern",
+    "price_range": "Medium"
+   }
+  },
+  {
+   "query": "aloe",
+   "plan": {
+    "product_type": "skincare",
+    "brand": "The Body Shop",
+    "color": "transparent",
+    "material": "gel",
+    "price_range": "mid",
+    "style": "premium"
+   }
+  },
+  {
+   "query": "feeder",
+   "plan": {
+    "product_type": "Pet Supplies",
+    "product_subtype": "Pet Feeders",
+    "color": "Various",
+    "material": "Plastic",
+    "brand": "Various",
+    "price_range": "Affordable"
+   }
+  },
+  {
+   "query": "breakfast",
+   "plan": {
+    "product_type": "food",
+    "product_category": "breakfast_foods",
+    "meal_time": "breakfast",
+    "brand": "various",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "lunch",
+   "plan": {
+    "product_type": "food",
+    "product_subtype": "meal",
+    "product_category": "food_and_drink",
+    "meal_type": "lunch",
+    "cuisine": "general"
+   }
+  },
+  {
+   "query": "holly",
+   "plan": {
+    "product_type": "women's clothing",
+    "style": "casual",
+    "color": "red",
+    "brand": "Holly & Hughes",
+    "price_range": "mid_range"
+   }
+  },
+  {
+   "query": "succulent",
+   "plan": {
+    "product_type": "Plant",
+    "style": "Decorative",
+    "color": "Green",
+    "material": "Soil",
+    "price_range": "Affordable"
+   }
+  },
+  {
+   "query": "arbor",
+   "plan": {
+    "product_type": "Furniture",
+    "style": "Rustic",
+    "brand": "Ikea",
+    "color": "Brown",
+    "material": "Wood",
+    "price_range": "Mid"
+   }
+  },
+  {
+   "query": "spider",
+   "plan": {
+    "product_type": "clothing",
+    "style": "casual",
+    "brand": "Nike",
+    "color": "black",
+    "material": "cotton",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "triceratops",
+   "plan": {
+    "product_type": "toy",
+    "color": "green",
+    "style": "dinosaur",
+    "brand": "Jurassic World",
+    "price_range": "medium"
+   }
+  },
+  {
+   "query": "sticker",
+   "plan": {
+    "product_type": "accessories",
+    "product_subtype": "decals",
+    "material": "vinyl",
+    "color": "multi-color"
+   }
+  },
+  {
+   "query": "dinner",
+   "plan": {
+    "product_type": "tableware",
+    "product_subtype": "dinnerware",
+    "color": "white",
+    "material": "ceramic",
+    "style": "modern",
+    "brand": "IKEA",
+    "price_range": "budget"
+   }
+  },
+  {
+   "query": "crab",
+   "plan": {
+    "product_type": "Kitchenware",
+    "brand": "IKEA",
+    "style": "Modern",
+    "color": "White",
+    "material": "Plastic",
+    "price_range": "Affordable"
+   }
+  },
+  {
+   "query": "flamingos",
+   "plan": {
+    "product_type": "home_decor",
+    "color": "pink",
+    "style": "tropical",
+    "brand": "unknown"
+   }
+  },
+  {
+   "query": "frog",
+   "plan": {
+    "product_type": "Decorative",
+    "color": "Green",
+    "style": "Whimsical",
+    "brand": "Unknown",
+    "price_range": "Mid",
+    "material": "Plastic"
+   }
+  },
+  {
+   "query": "fruit",
+   "plan": {
+    "product_type": "food",
+    "product_subtype": "produce",
+    "category": "fruits"
+   }
+  },
+  {
+   "query": "foliage",
+   "plan": {
+    "product_type": "home_decor",
+    "style": "natural",
+    "color": "green"
+   }
+  },
+  {
+   "query": "octopus",
+   "plan": {
+    "product_type": "Decorative",
+    "style": "Nautical",
+    "color": "Multi-colored",
+    "material": "Plastic or Resin"
+   }
+  },
+  {
+   "query": "orchids",
+   "plan": {
+    "product_type": "Plants",
+    "product_subtype": "Flowering Plants",
+    "specific_flower": "Orchids"
+   }
+  },
+  {
+   "query": "wing",
+   "plan": {
+    "product_type": "clothing",
+    "style": "casual",
+    "color": "black",
+    "material": "cotton",
+    "brand": "Nike",
+    "price_range": "mid"
+   }
+  },
+  {
+   "query": "flour",
+   "plan": {
+    "product_type": "food",
+    "product_category": "baking",
+    "brand": "generic",
+    "price_range": "inexpensive"
+   }
+  },
+  {
+   "query": "noodle",
+   "plan": {
+    "product_type": "food",
+    "product_subtype": "dried_goods",
+    "brand": "Unknown",
+    "color": "multi-colored",
+    "material": "Unknown",
+    "style": "packaged",
+    "price_range": "inexpensive"
+   }
+  },
+  {
+   "query": "stump",
+   "plan": {
+    "product_type": "home_decor",
+    "style": "rustic",
+    "color": "brown",
+    "material": "wood",
+    "brand": "Cabin Creek",
+    "price_range": "mid_range"
+   }
+  },
+  {
+   "query": "cereal",
+   "plan": {
+    "product_type": "food",
+    "product_category": "breakfast",
+    "brand": "various",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "condiment",
+   "plan": {
+    "product_type": "food",
+    "product_subtype": "condiment",
+    "brand": "Various",
+    "price_range": "all"
+   }
+  },
+  {
+   "query": "casserole",
+   "plan": {
+    "product_type": "cookware",
+    "product_subtype": "dishware",
+    "product_category": "kitchen",
+    "material": "ceramic",
+    "color": "white",
+    "style": "traditional",
+    "brand": "Villeroy & Boch",
+    "price_range": "mid_range"
+   }
+  },
+  {
+   "query": "sauce",
+   "plan": {
+    "product_type": "food",
+    "product_subtype": "condiment",
+    "brand": "Unknown",
+    "color": "clear",
+    "material": "glass",
+    "price_range": "moderate"
+   }
+  }
+ ]
+}

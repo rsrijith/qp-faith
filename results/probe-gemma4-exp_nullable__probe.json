@@ -1,0 +1,419 @@
+{
+ "tag": "probe-gemma4-exp_nullable",
+ "forced_rate": 1.0,
+ "n": 55,
+ "plans": [
+  {
+   "query": "dinosaur",
+   "plan": {
+    "product_type": "toy",
+    "color": "green",
+    "material": "plastic"
+   }
+  },
+  {
+   "query": "rooster",
+   "plan": {
+    "product_type": "home decor",
+    "style": "rustic",
+    "material": "ceramic"
+   }
+  },
+  {
+   "query": "butterfly",
+   "plan": {
+    "product_type": "jewelry",
+    "style": "nature",
+    "color": "silver",
+    "material": "sterling silver"
+   }
+  },
+  {
+   "query": "bees",
+   "plan": {
+    "product_type": "apparel",
+    "style": "casual",
+    "color": "yellow"
+   }
+  },
+  {
+   "query": "queen",
+   "plan": {
+    "product_type": "bed",
+    "size": "queen"
+   }
+  },
+  {
+   "query": "sunflowers",
+   "plan": {
+    "product_type": "home decor",
+    "style": "floral",
+    "color": "yellow"
+   }
+  },
+  {
+   "query": "simple",
+   "plan": {
+    "product_type": "clothing",
+    "style": "minimalist",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "flamingo",
+   "plan": {
+    "product_type": "clothing",
+    "color": "pink"
+   }
+  },
+  {
+   "query": "lily",
+   "plan": {
+    "product_type": "flower",
+    "color": "white"
+   }
+  },
+  {
+   "query": "elephant",
+   "plan": {
+    "product_type": "toy",
+    "material": "plush"
+   }
+  },
+  {
+   "query": "bear",
+   "plan": {
+    "product_type": "toy",
+    "color": "brown"
+   }
+  },
+  {
+   "query": "bulb",
+   "plan": {
+    "product_type": "lighting",
+    "color": "white",
+    "material": "glass"
+   }
+  },
+  {
+   "query": "fish",
+   "plan": {
+    "product_type": "aquarium",
+    "color": "blue",
+    "material": "glass"
+   }
+  },
+  {
+   "query": "birds",
+   "plan": {
+    "product_type": "home decor",
+    "style": "realistic",
+    "material": "ceramic"
+   }
+  },
+  {
+   "query": "owls",
+   "plan": {
+    "product_type": "home decor",
+    "style": "animal",
+    "material": "ceramic"
+   }
+  },
+  {
+   "query": "roses",
+   "plan": {
+    "product_type": "flowers",
+    "color": "red"
+   }
+  },
+  {
+   "query": "dinosaurs",
+   "plan": {
+    "product_type": "toys",
+    "style": "figurines"
+   }
+  },
+  {
+   "query": "pineapples",
+   "plan": {
+    "product_type": "food",
+    "price_range": "low-medium"
+   }
+  },
+  {
+   "query": "daisy",
+   "plan": {
+    "product_type": "flower",
+    "color": "white",
+    "style": "fresh",
+    "price_range": "low"
+   }
+  },
+  {
+   "query": "starfish",
+   "plan": {
+    "product_type": "home decor",
+    "style": "nautical"
+   }
+  },
+  {
+   "query": "lotus",
+   "plan": {
+    "product_type": "flower",
+    "color": "pink"
+   }
+  },
+  {
+   "query": "vine",
+   "plan": {
+    "product_type": "plant",
+    "color": "green",
+    "material": "natural"
+   }
+  },
+  {
+   "query": "trunk",
+   "plan": {
+    "product_type": "car_accessories",
+    "material": "leather",
+    "style": "classic"
+   }
+  },
+  {
+   "query": "cuisine",
+   "plan": {
+    "product_type": "cookware"
+   }
+  },
+  {
+   "query": "ornamental",
+   "plan": {
+    "product_type": "home decor",
+    "style": "decorative",
+    "material": "glass",
+    "color": "gold"
+   }
+  },
+  {
+   "query": "climber",
+   "plan": {
+    "product_type": "Clothing",
+    "style": "Sporty",
+    "material": "Synthetic"
+   }
+  },
+  {
+   "query": "root",
+   "plan": {
+    "product_type": "tree",
+    "material": "wood"
+   }
+  },
+  {
+   "query": "giant",
+   "plan": {
+    "product_type": "bike",
+    "size": "large"
+   }
+  },
+  {
+   "query": "blade",
+   "plan": {
+    "product_type": "Kitchen",
+    "material": "Stainless Steel",
+    "style": "Chef's"
+   }
+  },
+  {
+   "query": "aloe",
+   "plan": {
+    "product_type": "plant",
+    "color": "green"
+   }
+  },
+  {
+   "query": "feeder",
+   "plan": {
+    "product_type": "pet supplies",
+    "material": "plastic",
+    "price_range": "low"
+   }
+  },
+  {
+   "query": "breakfast",
+   "plan": {
+    "product_type": "kitchenware",
+    "style": "modern",
+    "price_range": "mid-range"
+   }
+  },
+  {
+   "query": "lunch",
+   "plan": {
+    "product_type": "food",
+    "price_range": "cheap"
+   }
+  },
+  {
+   "query": "holly",
+   "plan": {
+    "product_type": "christmas",
+    "color": "green"
+   }
+  },
+  {
+   "query": "succulent",
+   "plan": {
+    "product_type": "plant",
+    "style": "indoor",
+    "price_range": "low-medium"
+   }
+  },
+  {
+   "query": "arbor",
+   "plan": {
+    "product_type": "tree",
+    "material": "wood"
+   }
+  },
+  {
+   "query": "spider",
+   "plan": {
+    "product_type": "toy",
+    "material": "plush"
+   }
+  },
+  {
+   "query": "triceratops",
+   "plan": {
+    "product_type": "toy",
+    "material": "plastic"
+   }
+  },
+  {
+   "query": "sticker",
+   "plan": {
+    "product_type": "sticker",
+    "price_range": "cheap"
+   }
+  },
+  {
+   "query": "dinner",
+   "plan": {
+    "product_type": "Tableware",
+    "style": "Formal",
+    "price_range": "Mid-Range"
+   }
+  },
+  {
+   "query": "crab",
+   "plan": {
+    "product_type": "kitchenware",
+    "material": "metal"
+   }
+  },
+  {
+   "query": "flamingos",
+   "plan": {
+    "product_type": "home decor",
+    "color": "pink",
+    "style": "tropical"
+   }
+  },
+  {
+   "query": "frog",
+   "plan": {
+    "product_type": "toy",
+    "color": "green"
+   }
+  },
+  {
+   "query": "fruit",
+   "plan": {
+    "product_type": "food",
+    "color": "yellow"
+   }
+  },
+  {
+   "query": "foliage",
+   "plan": {
+    "product_type": "plants",
+    "color": "green",
+    "material": "natural"
+   }
+  },
+  {
+   "query": "octopus",
+   "plan": {
+    "product_type": "toy",
+    "material": "plush"
+   }
+  },
+  {
+   "query": "orchids",
+   "plan": {
+    "product_type": "plants",
+    "color": "purple",
+    "style": "floral"
+   }
+  },
+  {
+   "query": "wing",
+   "plan": {
+    "product_type": "clothing",
+    "style": "casual",
+    "color": "black"
+   }
+  },
+  {
+   "query": "flour",
+   "plan": {
+    "product_type": "baking",
+    "price_range": "low"
+   }
+  },
+  {
+   "query": "noodle",
+   "plan": {
+    "product_type": "food",
+    "price_range": "low"
+   }
+  },
+  {
+   "query": "stump",
+   "plan": {
+    "product_type": "home decor",
+    "material": "wood"
+   }
+  },
+  {
+   "query": "cereal",
+   "plan": {
+    "product_type": "breakfast cereal",
+    "price_range": "budget"
+   }
+  },
+  {
+   "query": "condiment",
+   "plan": {
+    "product_type": "food",
+    "price_range": "low"
+   }
+  },
+  {
+   "query": "casserole",
+   "plan": {
+    "product_type": "kitchenware",
+    "material": "ceramic",
+    "style": "classic"
+   }
+  },
+  {
+   "query": "sauce",
+   "plan": {
+    "product_type": "food",
+    "price_range": "medium"
+   }
+  }
+ ]
+}

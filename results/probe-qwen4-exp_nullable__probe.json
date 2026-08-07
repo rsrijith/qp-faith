@@ -1,0 +1,464 @@
+{
+ "tag": "probe-qwen4-exp_nullable",
+ "forced_rate": 1.0,
+ "n": 55,
+ "plans": [
+  {
+   "query": "dinosaur",
+   "plan": {
+    "product_type": "toy",
+    "style": "dinosaur",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "rooster",
+   "plan": {
+    "product_type": "ornament",
+    "style": "farmhouse",
+    "color": "gold"
+   }
+  },
+  {
+   "query": "butterfly",
+   "plan": {
+    "style": "butterfly",
+    "product_type": "jewelry"
+   }
+  },
+  {
+   "query": "bees",
+   "plan": {
+    "product_type": "toy",
+    "style": "educational",
+    "color": "yellow",
+    "brand": "Learning Resources"
+   }
+  },
+  {
+   "query": "queen",
+   "plan": {
+    "product_type": "bed",
+    "style": "traditional",
+    "color": "white"
+   }
+  },
+  {
+   "query": "sunflowers",
+   "plan": {
+    "product_type": "flower",
+    "style": "natural",
+    "color": "yellow"
+   }
+  },
+  {
+   "query": "simple",
+   "plan": {
+    "style": "simple",
+    "product_type": "shirt"
+   }
+  },
+  {
+   "query": "flamingo",
+   "plan": {
+    "style": "flamingo",
+    "product_type": "ornament"
+   }
+  },
+  {
+   "query": "lily",
+   "plan": {
+    "style": "lily",
+    "product_type": "flower"
+   }
+  },
+  {
+   "query": "elephant",
+   "plan": {
+    "product_type": "toy",
+    "style": "animal",
+    "color": "gray",
+    "material": "plastic",
+    "price_range": "under_10",
+    "brand": "Safeway"
+   }
+  },
+  {
+   "query": "bear",
+   "plan": {
+    "product_type": "toy",
+    "style": "plush",
+    "color": "brown",
+    "material": "soft",
+    "brand": "Sesame Street",
+    "price_range": "under_20"
+   }
+  },
+  {
+   "query": "bulb",
+   "plan": {
+    "product_type": "light_bulb",
+    "style": "standard",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "fish",
+   "plan": {
+    "product_type": "accessory",
+    "style": "fishing"
+   }
+  },
+  {
+   "query": "birds",
+   "plan": {
+    "product_type": "toy",
+    "style": "animal",
+    "color": "brown",
+    "material": "plastic",
+    "price_range": "cheap"
+   }
+  },
+  {
+   "query": "owls",
+   "plan": {
+    "style": "owl",
+    "product_type": "ornament"
+   }
+  },
+  {
+   "query": "roses",
+   "plan": {
+    "product_type": "flower",
+    "style": "roses",
+    "color": "red"
+   }
+  },
+  {
+   "query": "dinosaurs",
+   "plan": {
+    "product_type": "toy",
+    "style": "dinosaur",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "pineapples",
+   "plan": {
+    "product_type": "fruit",
+    "style": "fresh",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "daisy",
+   "plan": {
+    "style": "floral",
+    "product_type": "jewelry"
+   }
+  },
+  {
+   "query": "starfish",
+   "plan": {
+    "product_type": "jewelry",
+    "style": "ocean-themed",
+    "color": "blue"
+   }
+  },
+  {
+   "query": "lotus",
+   "plan": {
+    "style": "lotus",
+    "product_type": "flower"
+   }
+  },
+  {
+   "query": "vine",
+   "plan": {
+    "style": "vine",
+    "product_type": "accessory"
+   }
+  },
+  {
+   "query": "trunk",
+   "plan": {
+    "product_type": "trunk",
+    "style": "storage",
+    "material": "leather"
+   }
+  },
+  {
+   "query": "cuisine",
+   "plan": {
+    "product_type": "kitchenware",
+    "style": "cuisine",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "ornamental",
+   "plan": {
+    "style": "ornamental",
+    "product_type": "decor"
+   }
+  },
+  {
+   "query": "climber",
+   "plan": {
+    "product_type": "climbing\u88c5\u5907",
+    "style": "\u6237\u5916",
+    "brand": "\u6237\u5916\u54c1\u724c",
+    "price_range": "\u4e2d\u9ad8\u7aef"
+   }
+  },
+  {
+   "query": "root",
+   "plan": {
+    "product_type": "root",
+    "price_range": "mid",
+    "style": "natural",
+    "material": "wood",
+    "brand": "unknown",
+    "color": "brown"
+   }
+  },
+  {
+   "query": "giant",
+   "plan": {
+    "product_type": "giant",
+    "price_range": "expensive"
+   }
+  },
+  {
+   "query": "blade",
+   "plan": {
+    "product_type": "knife",
+    "style": "blade",
+    "material": "steel"
+   }
+  },
+  {
+   "query": "aloe",
+   "plan": {
+    "product_type": "skin care",
+    "style": "natural",
+    "material": "plant-based",
+    "color": "green",
+    "brand": "aloe vera"
+   }
+  },
+  {
+   "query": "feeder",
+   "plan": {
+    "product_type": "feeder",
+    "material": "plastic",
+    "style": "automatic",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "breakfast",
+   "plan": {
+    "product_type": "cereal",
+    "style": "box",
+    "brand": "popular",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "lunch",
+   "plan": {
+    "product_type": "lunchbox",
+    "material": "metal",
+    "style": "insulated",
+    "price_range": "moderate"
+   }
+  },
+  {
+   "query": "holly",
+   "plan": {
+    "style": "holly",
+    "product_type": "ornament"
+   }
+  },
+  {
+   "query": "succulent",
+   "plan": {
+    "product_type": "plant",
+    "style": "succulent",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "arbor",
+   "plan": {
+    "product_type": "plant",
+    "style": "outdoor",
+    "color": "green"
+   }
+  },
+  {
+   "query": "spider",
+   "plan": {
+    "product_type": "shoe",
+    "style": "spider",
+    "brand": "spider"
+   }
+  },
+  {
+   "query": "triceratops",
+   "plan": {
+    "product_type": "toy",
+    "style": "triceratops",
+    "brand": "unknown",
+    "price_range": "unknown",
+    "color": "unknown",
+    "material": "unknown"
+   }
+  },
+  {
+   "query": "sticker",
+   "plan": {
+    "product_type": "sticker",
+    "style": "decal",
+    "material": "paper",
+    "color": "clear",
+    "price_range": "cheap"
+   }
+  },
+  {
+   "query": "dinner",
+   "plan": {
+    "product_type": "dinnerware",
+    "style": "dinner",
+    "price_range": "mid"
+   }
+  },
+  {
+   "query": "crab",
+   "plan": {
+    "product_type": "food",
+    "style": "seafood",
+    "color": "brown",
+    "price_range": "moderate"
+   }
+  },
+  {
+   "query": "flamingos",
+   "plan": {
+    "style": "flamingos",
+    "product_type": "print"
+   }
+  },
+  {
+   "query": "frog",
+   "plan": {
+    "product_type": "toy",
+    "style": "animal",
+    "color": "green"
+   }
+  },
+  {
+   "query": "fruit",
+   "plan": {
+    "product_type": "fruit",
+    "color": "various",
+    "material": "natural",
+    "style": "fresh",
+    "brand": "various",
+    "price_range": "affordable"
+   }
+  },
+  {
+   "query": "foliage",
+   "plan": {
+    "style": "foliage",
+    "product_type": "plant"
+   }
+  },
+  {
+   "query": "octopus",
+   "plan": {
+    "product_type": "toy",
+    "style": "sea",
+    "color": "blue"
+   }
+  },
+  {
+   "query": "orchids",
+   "plan": {
+    "product_type": "flower",
+    "style": "orchid",
+    "color": "purple"
+   }
+  },
+  {
+   "query": "wing",
+   "plan": {
+    "style": "wing",
+    "product_type": "shoe"
+   }
+  },
+  {
+   "query": "flour",
+   "plan": {
+    "product_type": "food",
+    "style": "baking"
+   }
+  },
+  {
+   "query": "noodle",
+   "plan": {
+    "product_type": "noodle",
+    "price_range": "budget",
+    "style": "dry",
+    "brand": "generic",
+    "color": "brown",
+    "material": "paper"
+   }
+  },
+  {
+   "query": "stump",
+   "plan": {
+    "product_type": "stump",
+    "style": "natural",
+    "material": "wood"
+   }
+  },
+  {
+   "query": "cereal",
+   "plan": {
+    "product_type": "cereal",
+    "brand": "popular",
+    "price_range": "affordable",
+    "style": "box"
+   }
+  },
+  {
+   "query": "condiment",
+   "plan": {
+    "product_type": "condiment",
+    "price_range": "affordable",
+    "style": "container",
+    "brand": "popular"
+   }
+  },
+  {
+   "query": "casserole",
+   "plan": {
+    "product_type": "casserole",
+    "material": "glass",
+    "style": "modern",
+    "price_range": "mid"
+   }
+  },
+  {
+   "query": "sauce",
+   "plan": {
+    "product_type": "sauce",
+    "price_range": "affordable",
+    "style": "condiment"
+   }
+  }
+ ]
+}

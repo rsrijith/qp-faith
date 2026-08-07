@@ -1,0 +1,15 @@
+{
+  "tag": "dom-apparel-mistral4-expansion",
+  "n_entity": 33,
+  "k": 100,
+  "forced_type_rate": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "real_recall_drop": [
+    0.413760721093594,
+    0.27914797699532373,
+    0.5587645674990597
+  ]
+}
