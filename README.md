@@ -84,7 +84,12 @@ Two senses of reproducibility are distinguished. The persisted plans and scores 
 
 ## Licence and data
 
-Code: MIT. WANDS and ESCI are released by their owners under their own terms; only derived probe queries and scoring outputs are redistributed here, never the source catalogs.
+Code: MIT (see `LICENSE`).
+
+The derived probe queries and scoring outputs here are provided for research use. The underlying
+datasets remain under their owners' terms: **Amazon ESCI is CC BY-NC-SA 4.0**, and WANDS under its
+own licence. Their **source catalogs are not redistributed** in this repository; regenerate them
+from the official sources as described above.
 
 ## Citation
 
