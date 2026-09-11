@@ -97,5 +97,10 @@ Srijith Ravikumar. Category Mis-Routing in LLM Query Planners: A Reproducible Fa
 Label-Free Audit for E-commerce Search. *Information Processing & Management*, 2026. Accepted;
 volume, pages and DOI follow on publication.
 
-An archival snapshot of this repository is deposited on Zenodo; cite that DOI for the exact code and
-data behind the reported numbers.
+An archival snapshot of this repository is deposited on Zenodo. Cite the version DOI for the exact
+code and data behind the reported numbers:
+
+- **v1.0.0 (the accepted version): [10.5281/zenodo.22701132](https://doi.org/10.5281/zenodo.22701132)**
+- All versions: [10.5281/zenodo.22701131](https://doi.org/10.5281/zenodo.22701131)
+
+The paper cites the version DOI, since it names the exact code behind the reported numbers.
