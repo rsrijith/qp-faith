@@ -1,0 +1,39 @@
+{
+  "design": "R3 item 2: fallback vs selectivity as the cause of the title-vs-leaf realized-loss gap on the two 400K domains. Expansion prompt, 4 planners, same relevant sets and retrieval as clean_category_harm.py. Unit is the (motif, planner) cell; both instruments are compared on the cells where the leaf filter fires.",
+  "by_domain": {
+    "electronics": {
+      "n_cells": 112,
+      "catalog_category_coverage": 0.92,
+      "leaf_fallback_rate": 0.768,
+      "leaf_fire_rate": 0.232,
+      "n_leaf_fired_cells": 26,
+      "title_loss_all_cells": 0.485,
+      "leaf_loss_all_cells": 0.136,
+      "title_loss_on_leaf_fired": 0.515,
+      "leaf_loss_on_leaf_fired": 0.587,
+      "paired_leaf_minus_title": 0.072,
+      "identity_residual": 0.0,
+      "label_exclusion_all_cells": 0.996,
+      "label_exclusion_matchable_only": 0.982,
+      "n_label_cells": 112,
+      "n_label_cells_matchable": 26
+    },
+    "apparel": {
+      "n_cells": 132,
+      "catalog_category_coverage": 1.0,
+      "leaf_fallback_rate": 0.295,
+      "leaf_fire_rate": 0.705,
+      "n_leaf_fired_cells": 93,
+      "title_loss_all_cells": 0.376,
+      "leaf_loss_all_cells": 0.265,
+      "title_loss_on_leaf_fired": 0.342,
+      "leaf_loss_on_leaf_fired": 0.376,
+      "paired_leaf_minus_title": 0.034,
+      "identity_residual": 0.0,
+      "label_exclusion_all_cells": 0.992,
+      "label_exclusion_matchable_only": 0.988,
+      "n_label_cells": 132,
+      "n_label_cells_matchable": 93
+    }
+  }
+}

@@ -1,0 +1,265 @@
+motif,model,instrument,product_type,fired,n_kept,loss,base_recall
+aloe,qwen4,title,skin care,True,783,1.0,1.0
+aloe,qwen4,category_leaf,skin care,True,376,1.0,1.0
+arbor,qwen4,title,plant,True,79,1.0,1.0
+arbor,qwen4,category_leaf,plant,False,0,0.0,1.0
+bear,qwen4,title,toy,True,223,0.14540059347181009,0.14836795252225518
+bear,qwen4,category_leaf,toy,True,1,0.14836795252225518,0.14836795252225518
+bees,qwen4,title,toy,True,223,0.0,0.0
+bees,qwen4,category_leaf,toy,True,1,0.0,0.0
+birds,qwen4,title,toy,True,223,0.028169014084507043,0.028169014084507043
+birds,qwen4,category_leaf,toy,True,1,0.028169014084507043,0.028169014084507043
+butterfly,qwen4,title,jewelry,True,11579,0.0,0.08210180623973727
+butterfly,qwen4,category_leaf,jewelry,True,2796,0.051724137931034475,0.08210180623973727
+cereal,qwen4,title,cereal,True,10,0.0,1.0
+cereal,qwen4,category_leaf,cereal,False,0,0.0,1.0
+climber,qwen4,title,climbing gear,True,925,0.9838709677419355,1.0
+climber,qwen4,category_leaf,climbing gear,True,178,0.9838709677419355,1.0
+crab,qwen4,title,food,True,219,1.0,1.0
+crab,qwen4,category_leaf,food,True,255,1.0,1.0
+daisy,qwen4,title,flower,True,3931,0.024456521739130432,0.2717391304347826
+daisy,qwen4,category_leaf,flower,False,0,0.0,0.2717391304347826
+dinosaur,qwen4,title,toy,True,223,0.15580286168521462,0.1589825119236884
+dinosaur,qwen4,category_leaf,toy,True,1,0.1589825119236884,0.1589825119236884
+dinosaurs,qwen4,title,toy,True,223,0.0,0.025
+dinosaurs,qwen4,category_leaf,toy,True,1,0.025,0.025
+elephant,qwen4,title,toy,True,223,0.26455026455026454,0.26455026455026454
+elephant,qwen4,category_leaf,toy,True,1,0.26455026455026454,0.26455026455026454
+fish,qwen4,title,accessory,True,605,0.2475,0.25
+fish,qwen4,category_leaf,accessory,True,202,0.25,0.25
+flamingo,qwen4,title,print,True,10318,0.4187192118226601,0.49261083743842365
+flamingo,qwen4,category_leaf,print,True,3,0.49261083743842365,0.49261083743842365
+flamingos,qwen4,title,dress,True,30125,0.05,0.05
+flamingos,qwen4,category_leaf,dress,True,1665,0.05,0.05
+foliage,qwen4,title,plant,True,79,1.0,1.0
+foliage,qwen4,category_leaf,plant,False,0,0.0,1.0
+frog,qwen4,title,toy,True,223,0.6622516556291391,0.6622516556291391
+frog,qwen4,category_leaf,toy,True,1,0.6622516556291391,0.6622516556291391
+fruit,qwen4,title,fruit,True,559,0.0,0.18587360594795538
+fruit,qwen4,category_leaf,fruit,False,0,0.0,0.18587360594795538
+holly,qwen4,title,ornament,True,101,1.0,1.0
+holly,qwen4,category_leaf,ornament,False,0,0.0,1.0
+lily,qwen4,title,flower,True,3931,0.535031847133758,0.6369426751592356
+lily,qwen4,category_leaf,flower,False,0,0.0,0.6369426751592356
+lotus,qwen4,title,flower_vase,True,3933,0.0,0.005128205128205128
+lotus,qwen4,category_leaf,flower_vase,False,0,0.0,0.005128205128205128
+owls,qwen4,title,ornament,True,101,0.0,0.0
+owls,qwen4,category_leaf,ornament,False,0,0.0,0.0
+rooster,qwen4,title,ornament,True,101,1.0,1.0
+rooster,qwen4,category_leaf,ornament,False,0,0.0,1.0
+root,qwen4,title,roots,True,68,0.0,1.0
+root,qwen4,category_leaf,roots,False,0,0.0,1.0
+roses,qwen4,title,flower,True,3931,0.0,0.0
+roses,qwen4,category_leaf,flower,False,0,0.0,0.0
+spider,qwen4,title,spider plant,True,373,0.0,0.3424657534246575
+spider,qwen4,category_leaf,spider plant,False,0,0.0,0.3424657534246575
+starfish,qwen4,title,jewelry,True,11579,0.6052631578947367,0.8771929824561403
+starfish,qwen4,category_leaf,jewelry,True,2796,0.8508771929824561,0.8771929824561403
+sunflowers,qwen4,title,flower,True,3931,-0.05263157894736842,0.0
+sunflowers,qwen4,category_leaf,flower,False,0,0.0,0.0
+triceratops,qwen4,title,toy,True,223,0.0,0.0
+triceratops,qwen4,category_leaf,toy,True,1,0.0,0.0
+trunk,qwen4,title,bag,True,9071,0.28285714285714286,0.2857142857142857
+trunk,qwen4,category_leaf,bag,True,5617,0.2857142857142857,0.2857142857142857
+vine,qwen4,title,vine,True,132,0.0,1.0
+vine,qwen4,category_leaf,vine,False,0,0.0,1.0
+wing,qwen4,title,winged blazer,True,1322,0.2234762979683973,0.22573363431151242
+wing,qwen4,category_leaf,winged blazer,True,1006,0.22573363431151242,0.22573363431151242
+aloe,llama4,title,skincare,True,2,1.0,1.0
+aloe,llama4,category_leaf,skincare,False,0,0.0,1.0
+arbor,llama4,title,tree,True,1038,1.0,1.0
+arbor,llama4,category_leaf,tree,True,83,1.0,1.0
+bear,llama4,title,jewelry,True,11579,0.086053412462908,0.14836795252225518
+bear,llama4,category_leaf,jewelry,True,2796,0.13798219584569732,0.14836795252225518
+bees,llama4,title,jewelry,True,11579,0.0,0.0
+bees,llama4,category_leaf,jewelry,True,2796,0.0,0.0
+birds,llama4,title,jewelry,True,11579,0.014084507042253521,0.028169014084507043
+birds,llama4,category_leaf,jewelry,True,2796,0.028169014084507043,0.028169014084507043
+butterfly,llama4,title,jewelry,True,11579,0.0,0.08210180623973727
+butterfly,llama4,category_leaf,jewelry,True,2796,0.051724137931034475,0.08210180623973727
+cereal,llama4,title,food,True,219,1.0,1.0
+cereal,llama4,category_leaf,food,True,255,1.0,1.0
+climber,llama4,title,hiking,True,5031,1.0,1.0
+climber,llama4,category_leaf,hiking,True,2307,1.0,1.0
+crab,llama4,title,jewelry,True,11579,0.8,1.0
+crab,llama4,category_leaf,jewelry,True,2796,1.0,1.0
+daisy,llama4,title,jewelry,True,11579,0.14945652173913043,0.2717391304347826
+daisy,llama4,category_leaf,jewelry,True,2796,0.25815217391304346,0.2717391304347826
+dinosaur,llama4,title,toys,True,223,0.15580286168521462,0.1589825119236884
+dinosaur,llama4,category_leaf,toys,True,1,0.1589825119236884,0.1589825119236884
+dinosaurs,llama4,title,toys,True,223,0.0,0.025
+dinosaurs,llama4,category_leaf,toys,True,1,0.025,0.025
+elephant,llama4,title,jewelry,True,11579,0.07936507936507936,0.26455026455026454
+elephant,llama4,category_leaf,jewelry,True,2796,0.22486772486772486,0.26455026455026454
+fish,llama4,title,jewelry,True,11579,0.19,0.25
+fish,llama4,category_leaf,jewelry,True,2796,0.2425,0.25
+flamingo,llama4,title,jewelry,True,11579,0.41379310344827586,0.49261083743842365
+flamingo,llama4,category_leaf,jewelry,True,2796,0.4630541871921182,0.49261083743842365
+flamingos,llama4,title,jewelry,True,11579,0.0,0.05
+flamingos,llama4,category_leaf,jewelry,True,2796,0.0,0.05
+foliage,llama4,title,planters,True,1,1.0,1.0
+foliage,llama4,category_leaf,planters,False,0,0.0,1.0
+frog,llama4,title,jewelry,True,11579,0.48344370860927155,0.6622516556291391
+frog,llama4,category_leaf,jewelry,True,2796,0.6291390728476822,0.6622516556291391
+fruit,llama4,title,food,True,219,0.17286245353159851,0.18587360594795538
+fruit,llama4,category_leaf,food,True,255,0.18587360594795538,0.18587360594795538
+holly,llama4,title,jewelry,True,11579,0.9459459459459459,1.0
+holly,llama4,category_leaf,jewelry,True,2796,1.0,1.0
+lily,llama4,title,jewelry,True,11579,0.5859872611464968,0.6369426751592356
+lily,llama4,category_leaf,jewelry,True,2796,0.6178343949044586,0.6369426751592356
+lotus,llama4,title,jewelry,True,11579,0.005128205128205128,0.005128205128205128
+lotus,llama4,category_leaf,jewelry,True,2796,0.005128205128205128,0.005128205128205128
+owls,llama4,title,jewelry,True,11579,0.0,0.0
+owls,llama4,category_leaf,jewelry,True,2796,0.0,0.0
+rooster,llama4,title,Home Decor,True,1238,1.0,1.0
+rooster,llama4,category_leaf,Home Decor,True,4,1.0,1.0
+root,llama4,title,shoes,True,34525,0.9166666666666666,1.0
+root,llama4,category_leaf,shoes,True,10197,1.0,1.0
+roses,llama4,title,jewelry,True,11579,-0.00980392156862745,0.0
+roses,llama4,category_leaf,jewelry,True,2796,0.0,0.0
+spider,llama4,title,jewelry,True,11579,0.25,0.3424657534246575
+spider,llama4,category_leaf,jewelry,True,2796,0.3356164383561644,0.3424657534246575
+starfish,llama4,title,jewelry,True,11579,0.6052631578947367,0.8771929824561403
+starfish,llama4,category_leaf,jewelry,True,2796,0.8508771929824561,0.8771929824561403
+sunflowers,llama4,title,Home Decor,True,1238,0.0,0.0
+sunflowers,llama4,category_leaf,Home Decor,True,4,0.0,0.0
+triceratops,llama4,title,jewelry,True,11579,0.0,0.0
+triceratops,llama4,category_leaf,jewelry,True,2796,0.0,0.0
+trunk,llama4,title,trunk,True,1277,0.0,0.2857142857142857
+trunk,llama4,category_leaf,trunk,True,701,0.0,0.2857142857142857
+vine,llama4,title,grapes,True,46,0.9789473684210527,1.0
+vine,llama4,category_leaf,grapes,False,0,0.0,1.0
+wing,llama4,title,aircraft,True,15,0.22573363431151242,0.22573363431151242
+wing,llama4,category_leaf,aircraft,False,0,0.0,0.22573363431151242
+aloe,mistral4,title,skincare,True,2,1.0,1.0
+aloe,mistral4,category_leaf,skincare,False,0,0.0,1.0
+arbor,mistral4,title,Furniture,True,6,1.0,1.0
+arbor,mistral4,category_leaf,Furniture,False,0,0.0,1.0
+bear,mistral4,title,Toys,True,223,0.14540059347181009,0.14836795252225518
+bear,mistral4,category_leaf,Toys,True,1,0.14836795252225518,0.14836795252225518
+bees,mistral4,title,Home & Garden,True,1793,0.0,0.0
+bees,mistral4,category_leaf,Home & Garden,True,4,0.0,0.0
+birds,mistral4,title,Home Decor,True,1238,0.028169014084507043,0.028169014084507043
+birds,mistral4,category_leaf,Home Decor,True,4,0.028169014084507043,0.028169014084507043
+butterfly,mistral4,title,jewelry,True,11579,0.0,0.08210180623973727
+butterfly,mistral4,category_leaf,jewelry,True,2796,0.051724137931034475,0.08210180623973727
+cereal,mistral4,title,food,True,219,1.0,1.0
+cereal,mistral4,category_leaf,food,True,255,1.0,1.0
+climber,mistral4,title,Outdoor Gear,True,8374,1.0,1.0
+climber,mistral4,category_leaf,Outdoor Gear,True,193,1.0,1.0
+crab,mistral4,title,Kitchen & Dining,True,95,1.0,1.0
+crab,mistral4,category_leaf,Kitchen & Dining,False,0,0.0,1.0
+daisy,mistral4,title,floral_pattern_clothing,True,11219,0.17119565217391303,0.2717391304347826
+daisy,mistral4,category_leaf,floral_pattern_clothing,True,2891,0.26902173913043476,0.2717391304347826
+dinosaur,mistral4,title,toy,True,223,0.15580286168521462,0.1589825119236884
+dinosaur,mistral4,category_leaf,toy,True,1,0.1589825119236884,0.1589825119236884
+dinosaurs,mistral4,title,Toys,True,223,0.0,0.025
+dinosaurs,mistral4,category_leaf,Toys,True,1,0.025,0.025
+elephant,mistral4,title,Decorative,True,216,0.25925925925925924,0.26455026455026454
+elephant,mistral4,category_leaf,Decorative,False,0,0.0,0.26455026455026454
+fish,mistral4,title,fish_products,True,489,0.0,0.25
+fish,mistral4,category_leaf,fish_products,True,235,0.245,0.25
+flamingo,mistral4,title,Decorative,True,216,0.4876847290640394,0.49261083743842365
+flamingo,mistral4,category_leaf,Decorative,False,0,0.0,0.49261083743842365
+flamingos,mistral4,title,Home Decor,True,1238,0.05,0.05
+flamingos,mistral4,category_leaf,Home Decor,True,4,0.05,0.05
+foliage,mistral4,title,Home Decor,True,1238,1.0,1.0
+foliage,mistral4,category_leaf,Home Decor,True,4,1.0,1.0
+frog,mistral4,title,Decorative,True,216,0.6622516556291391,0.6622516556291391
+frog,mistral4,category_leaf,Decorative,False,0,0.0,0.6622516556291391
+fruit,mistral4,title,food,True,219,0.17286245353159851,0.18587360594795538
+fruit,mistral4,category_leaf,food,True,255,0.18587360594795538,0.18587360594795538
+holly,mistral4,title,Women's Clothing,True,270429,0.21621621621621623,1.0
+holly,mistral4,category_leaf,Women's Clothing,True,5950,0.9864864864864865,1.0
+lily,mistral4,title,Clothing,True,1280,0.6369426751592356,0.6369426751592356
+lily,mistral4,category_leaf,Clothing,True,2888,0.6369426751592356,0.6369426751592356
+lotus,mistral4,title,Home Decor,True,1238,0.005128205128205128,0.005128205128205128
+lotus,mistral4,category_leaf,Home Decor,True,4,0.005128205128205128,0.005128205128205128
+owls,mistral4,title,Home Decor,True,1238,0.0,0.0
+owls,mistral4,category_leaf,Home Decor,True,4,0.0,0.0
+rooster,mistral4,title,Home Decor,True,1238,1.0,1.0
+rooster,mistral4,category_leaf,Home Decor,True,4,1.0,1.0
+root,mistral4,title,all,True,2424,0.9583333333333334,1.0
+root,mistral4,category_leaf,all,True,7,1.0,1.0
+roses,mistral4,title,flower,True,3931,0.0,0.0
+roses,mistral4,category_leaf,flower,False,0,0.0,0.0
+spider,mistral4,title,clothing,True,1280,0.3356164383561644,0.3424657534246575
+spider,mistral4,category_leaf,clothing,True,2888,0.3390410958904109,0.3424657534246575
+starfish,mistral4,title,Home Decor,True,1238,0.8771929824561403,0.8771929824561403
+starfish,mistral4,category_leaf,Home Decor,True,4,0.8771929824561403,0.8771929824561403
+sunflowers,mistral4,title,Home Decor,True,1238,0.0,0.0
+sunflowers,mistral4,category_leaf,Home Decor,True,4,0.0,0.0
+triceratops,mistral4,title,Toys & Games,True,841,0.0,0.0
+triceratops,mistral4,category_leaf,Toys & Games,True,2,0.0,0.0
+trunk,mistral4,title,luggage,True,1512,0.26857142857142857,0.2857142857142857
+trunk,mistral4,category_leaf,luggage,True,1169,0.27428571428571424,0.2857142857142857
+vine,mistral4,title,Wine,True,799,1.0,1.0
+vine,mistral4,category_leaf,Wine,False,0,0.0,1.0
+wing,mistral4,title,clothing,True,1280,0.2234762979683973,0.22573363431151242
+wing,mistral4,category_leaf,clothing,True,2888,0.22121896162528218,0.22573363431151242
+aloe,gemma4,title,plant,True,79,0.8333333333333334,1.0
+aloe,gemma4,category_leaf,plant,False,0,0.0,1.0
+arbor,gemma4,title,tree,True,1038,1.0,1.0
+arbor,gemma4,category_leaf,tree,True,83,1.0,1.0
+bear,gemma4,title,toy,True,223,0.14540059347181009,0.14836795252225518
+bear,gemma4,category_leaf,toy,True,1,0.14836795252225518,0.14836795252225518
+bees,gemma4,title,apparel,True,1102,0.0,0.0
+bees,gemma4,category_leaf,apparel,True,354,0.0,0.0
+birds,gemma4,title,toys,True,223,0.028169014084507043,0.028169014084507043
+birds,gemma4,category_leaf,toys,True,1,0.028169014084507043,0.028169014084507043
+butterfly,gemma4,title,jewelry,True,11579,0.0,0.08210180623973727
+butterfly,gemma4,category_leaf,jewelry,True,2796,0.051724137931034475,0.08210180623973727
+cereal,gemma4,title,breakfast cereal,True,42,0.0,1.0
+cereal,gemma4,category_leaf,breakfast cereal,False,0,0.0,1.0
+climber,gemma4,title,Climbing Gear,True,925,0.9838709677419355,1.0
+climber,gemma4,category_leaf,Climbing Gear,True,178,0.9838709677419355,1.0
+crab,gemma4,title,kitchenware,False,0,0.0,1.0
+crab,gemma4,category_leaf,kitchenware,False,0,0.0,1.0
+daisy,gemma4,title,flower,True,3931,0.024456521739130432,0.2717391304347826
+daisy,gemma4,category_leaf,flower,False,0,0.0,0.2717391304347826
+dinosaur,gemma4,title,toy,True,223,0.15580286168521462,0.1589825119236884
+dinosaur,gemma4,category_leaf,toy,True,1,0.1589825119236884,0.1589825119236884
+dinosaurs,gemma4,title,toys,True,223,0.0,0.025
+dinosaurs,gemma4,category_leaf,toys,True,1,0.025,0.025
+elephant,gemma4,title,toy,True,223,0.26455026455026454,0.26455026455026454
+elephant,gemma4,category_leaf,toy,True,1,0.26455026455026454,0.26455026455026454
+fish,gemma4,title,aquarium,True,1,0.25,0.25
+fish,gemma4,category_leaf,aquarium,False,0,0.0,0.25
+flamingo,gemma4,title,clothing,True,1280,0.4827586206896552,0.49261083743842365
+flamingo,gemma4,category_leaf,clothing,True,2888,0.49261083743842365,0.49261083743842365
+flamingos,gemma4,title,home decor,True,1238,0.05,0.05
+flamingos,gemma4,category_leaf,home decor,True,4,0.05,0.05
+foliage,gemma4,title,plants,True,79,1.0,1.0
+foliage,gemma4,category_leaf,plants,False,0,0.0,1.0
+frog,gemma4,title,toy,True,223,0.6622516556291391,0.6622516556291391
+frog,gemma4,category_leaf,toy,True,1,0.6622516556291391,0.6622516556291391
+fruit,gemma4,title,food,True,219,0.17286245353159851,0.18587360594795538
+fruit,gemma4,category_leaf,food,True,255,0.18587360594795538,0.18587360594795538
+holly,gemma4,title,plant,True,79,1.0,1.0
+holly,gemma4,category_leaf,plant,False,0,0.0,1.0
+lily,gemma4,title,flower,True,3931,0.535031847133758,0.6369426751592356
+lily,gemma4,category_leaf,flower,False,0,0.0,0.6369426751592356
+lotus,gemma4,title,flower,True,3931,0.0,0.005128205128205128
+lotus,gemma4,category_leaf,flower,False,0,0.0,0.005128205128205128
+owls,gemma4,title,home decor,True,1238,0.0,0.0
+owls,gemma4,category_leaf,home decor,True,4,0.0,0.0
+rooster,gemma4,title,home decor,True,1238,1.0,1.0
+rooster,gemma4,category_leaf,home decor,True,4,1.0,1.0
+root,gemma4,title,tree,True,1038,1.0,1.0
+root,gemma4,category_leaf,tree,True,83,1.0,1.0
+roses,gemma4,title,flowers,True,3931,0.0,0.0
+roses,gemma4,category_leaf,flowers,False,0,0.0,0.0
+spider,gemma4,title,toy,True,223,0.3390410958904109,0.3424657534246575
+spider,gemma4,category_leaf,toy,True,1,0.3424657534246575,0.3424657534246575
+starfish,gemma4,title,home decor,True,1238,0.8771929824561403,0.8771929824561403
+starfish,gemma4,category_leaf,home decor,True,4,0.8771929824561403,0.8771929824561403
+sunflowers,gemma4,title,art,True,711,0.0,0.0
+sunflowers,gemma4,category_leaf,art,False,0,0.0,0.0
+triceratops,gemma4,title,toy,True,223,0.0,0.0
+triceratops,gemma4,category_leaf,toy,True,1,0.0,0.0
+trunk,gemma4,title,car_accessories,True,2067,0.27999999999999997,0.2857142857142857
+trunk,gemma4,category_leaf,car_accessories,True,1387,0.28285714285714286,0.2857142857142857
+vine,gemma4,title,plant,True,79,1.0,1.0
+vine,gemma4,category_leaf,plant,False,0,0.0,1.0
+wing,gemma4,title,clothing,True,1280,0.2234762979683973,0.22573363431151242
+wing,gemma4,category_leaf,clothing,True,2888,0.22121896162528218,0.22573363431151242

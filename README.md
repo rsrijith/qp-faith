@@ -1,6 +1,6 @@
 # QP-Faith: a label-free audit for category mis-routing in LLM query planners
 
-Public artifacts for the paper **"Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a Label-Free Audit for E-commerce Search"** (under double-anonymous review). No preprint is posted while the paper is under review.
+Public artifacts for the paper **"Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a Label-Free Audit for E-commerce Search"** by Srijith Ravikumar, accepted at *Information Processing & Management* (Elsevier) in September 2026.
 
 ## What this measures
 
@@ -82,3 +82,12 @@ Two senses of reproducibility are distinguished. The persisted plans and scores 
 ## Licence and data
 
 Code: MIT. WANDS and ESCI are released by their owners under their own terms; only derived probe queries and scoring outputs are redistributed here, never the source catalogs.
+
+## Citation
+
+Srijith Ravikumar. Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a
+Label-Free Audit for E-commerce Search. *Information Processing & Management*, 2026. Accepted;
+volume, pages and DOI follow on publication.
+
+An archival snapshot of this repository is deposited on Zenodo; cite that DOI for the exact code and
+data behind the reported numbers.
