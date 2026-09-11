@@ -1,0 +1,20 @@
+{
+  "title": "QP-Faith: a label-free audit for category mis-routing in LLM query planners",
+  "upload_type": "software",
+  "license": "mit-license",
+  "creators": [
+    {
+      "name": "Ravikumar, Srijith",
+      "affiliation": "Amazon.com LLC",
+      "orcid": "0009-0004-5928-9942"
+    }
+  ],
+  "description": "Benchmark, procedural probe generator, planner runners, and scoring and validation code for \"Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a Label-Free Audit for E-commerce Search\", Information Processing &amp; Management (Elsevier), 2026. Contains a 1,217-query type-less probe, persisted plans for nine planners across six providers, the relevance-grounded harm protocol, and the human-evaluation materials. Source catalogs are not redistributed; WANDS and Amazon ESCI remain under their owners' terms.",
+  "keywords": [
+    "query understanding",
+    "e-commerce search",
+    "large language models",
+    "faithfulness",
+    "retrieval evaluation"
+  ]
+}

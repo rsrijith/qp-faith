@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the paper. To cite the exact code and data behind the reported numbers, cite the archived software version as well."
+title: "QP-Faith: a label-free audit for category mis-routing in LLM query planners"
+abstract: "Benchmark, procedural probe generator, planner runners, and scoring and validation code for an audit of unsupported product-category constraints emitted by LLM query planners in e-commerce search."
+type: software
+authors:
+  - family-names: Ravikumar
+    given-names: Srijith
+    affiliation: "Amazon.com LLC"
+    orcid: "https://orcid.org/0009-0004-5928-9942"
+version: "1.0.0"
+date-released: "2026-09-11"
+license: MIT
+repository-code: "https://github.com/rsrijith/qp-faith"
+doi: "10.5281/zenodo.22701131"
+keywords:
+  - query understanding
+  - e-commerce search
+  - large language models
+  - faithfulness
+  - retrieval evaluation
+preferred-citation:
+  type: article
+  title: "Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a Label-Free Audit for E-commerce Search"
+  authors:
+    - family-names: Ravikumar
+      given-names: Srijith
+      affiliation: "Amazon.com LLC"
+      orcid: "https://orcid.org/0009-0004-5928-9942"
+  journal: "Information Processing & Management"
+  publisher:
+    name: Elsevier
+  year: 2026
