@@ -1,6 +1,6 @@
 # QP-Faith: a label-free audit for category mis-routing in LLM query planners
 
-Public artifacts for the paper **"Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a Label-Free Audit for E-commerce Search"** by Srijith Ravikumar, accepted at *Information Processing & Management* (Elsevier) in September 2026.
+Public artifacts for the paper **"Category mis-routing in LLM query planners: A reproducible failure mode and a label-free audit for e-commerce search"** by Srijith Ravikumar, published in *Information Processing & Management* (Elsevier), 64(2), 105174, [doi:10.1016/j.ipm.2026.105174](https://doi.org/10.1016/j.ipm.2026.105174).
 
 ## What this measures
 
@@ -93,14 +93,27 @@ from the official sources as described above.
 
 ## Citation
 
-Srijith Ravikumar. Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a
-Label-Free Audit for E-commerce Search. *Information Processing & Management*, 2026. Accepted;
-volume, pages and DOI follow on publication.
+Srijith Ravikumar. Category mis-routing in LLM query planners: A reproducible failure mode and a
+label-free audit for e-commerce search. *Information Processing & Management*, 64(2), 105174, 2027.
+https://doi.org/10.1016/j.ipm.2026.105174
+
+```bibtex
+@article{ravikumar2027qpfaith,
+  author  = {Ravikumar, Srijith},
+  title   = {Category mis-routing in {LLM} query planners: A reproducible failure mode and a label-free audit for e-commerce search},
+  journal = {Information Processing \& Management},
+  volume  = {64},
+  number  = {2},
+  pages   = {105174},
+  year    = {2027},
+  doi     = {10.1016/j.ipm.2026.105174}
+}
+```
 
 An archival snapshot of this repository is deposited on Zenodo. Cite the version DOI for the exact
 code and data behind the reported numbers:
 
-- **v1.0.0 (the accepted version): [10.5281/zenodo.22701132](https://doi.org/10.5281/zenodo.22701132)**
+- **v1.0.0 (the version the paper cites): [10.5281/zenodo.22701132](https://doi.org/10.5281/zenodo.22701132)**
 - All versions: [10.5281/zenodo.22701131](https://doi.org/10.5281/zenodo.22701131)
 
 The paper cites the version DOI, since it names the exact code behind the reported numbers.

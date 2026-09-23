@@ -21,7 +21,7 @@ keywords:
   - retrieval evaluation
 preferred-citation:
   type: article
-  title: "Category Mis-Routing in LLM Query Planners: A Reproducible Failure Mode and a Label-Free Audit for E-commerce Search"
+  title: "Category mis-routing in LLM query planners: A reproducible failure mode and a label-free audit for e-commerce search"
   authors:
     - family-names: Ravikumar
       given-names: Srijith
@@ -30,4 +30,9 @@ preferred-citation:
   journal: "Information Processing & Management"
   publisher:
     name: Elsevier
-  year: 2026
+  year: 2027
+  volume: 64
+  issue: 2
+  start: 105174
+  doi: "10.1016/j.ipm.2026.105174"
+  url: "https://doi.org/10.1016/j.ipm.2026.105174"
